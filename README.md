@@ -4,7 +4,7 @@
 
 \## Introduction
 
-This project aims to identify novel laccase enzymes within thermophilic genomic data. Laccases (EC 1.10.3.2) are multicopper oxidases with significant industrial potential due to their ability to oxidize a wide range of substrates. The multicopper oxidases are known for their versatile industrial applications in textile bleaching, paper pulping, bioremediation, and food processing \[1,2]. While these enzymes are essential for eco-friendly catalysis, standard mesophilic variants often lack the stability required for harsh industrial conditions.
+This project aims to identify novel laccase enzymes within thermophilic genomic data, specificaly from thermophilic bacteria and archaea. Laccases (EC 1.10.3.2) are multicopper oxidases with significant industrial potential due to their ability to oxidize a wide range of substrates. The multicopper oxidases are known for their versatile industrial applications in textile bleaching, paper pulping, bioremediation, and food processing \[1,2]. While these enzymes are essential for eco-friendly catalysis, standard mesophilic enzymes often lack the stability required for harsh industrial conditions.
 
 ---
 
@@ -14,25 +14,17 @@ This project aims to identify novel laccase enzymes within thermophilic genomic 
 
 
 
-\##############
-
-Elaborate on the fact that you just used Bacteria and Archaea genomes
-
-\###########
-
-
-
 1\. \*\*Database Mining:\*\* Identify thermophilic organisms with sequenced genomes on databases like NCBI or GTDB.
 
 
 
-To identify what organisms were thermophilic in the genomes database 2 approaches were used: 
+To identify what organisms were thermophilic in the genomes database 2 approaches were used:
 
 
 
 1.1 Isolation Source
 
-In GTDB is possible to use the isolation source to find the genomes, the idea used here was to put places (or just keywords) that are known for being the habit of thermophilic organisms.
+In GTDB is possible to use the isolation source to find the genomes, the idea used here was to put places (or just keywords) that are known for being the habitat of thermophilic organisms.
 
 Words: "therm-", "hydrothermal", "vulcanic", "hot"
 
@@ -40,7 +32,8 @@ Words: "therm-", "hydrothermal", "vulcanic", "hot"
 
 1.2 Litetature
 
-We search in a lot of papers (referenced below) the names of thermophilic taxons (species, genus, family, order, class, phylum) and them search this names in both NCBI and GTDB database.
+We search in a lot of papers (referenced below) the taxons of thermophilic bacteria and archaea and them search this names in both NCBI and GTDB database.
+
 
 
 2\. \*\*Dataset Construction:\*\* Construct a dataset of all thermophilic organisms founded, including the taxonomy of each one
@@ -49,13 +42,89 @@ We search in a lot of papers (referenced below) the names of thermophilic taxons
 
 2.1 Retrieving Data from Databases
 
+To retrieve the data, we open the NCBI and GTDB webpage (https://www.ncbi.nlm.nih.gov/datasets/genome/ and https://gtdb.ecogenomic.org/advanced) and download the genome/assembly as TSV format in NCBI and as CSV format in GTDB, using the built-in option of both sites
+
+ 
+
+2.2.1 Structure of the assembly table - GTDB
+
+The assembly from GTDB contains information about:
+
+. Assembly Accession
+
+. Organism Name
+
+. NCBI Taxonomy
+
+. GTDB Taxonomy
+
+. GTDB Representative of Species
+
+. GTDB Type Material
+
+. Isolation Source
 
 
-2.2 Formatting the columns
+
+2.2.2 Structure of the assembly table - NCBI
+
+The assembly from NCBI contains informaation about:
+
+. Assembly Accession	
+
+. Assembly Name	
+
+. Organism Name	
+
+. Organism Infraspecific Names Breed	
+
+. Organism Infraspecific Names Strain	
+
+. Organism Infraspecific Names Cultivar	
+
+. Organism Infraspecific Names Ecotype	
+
+. Organism Infraspecific Names Isolate	
+
+. Organism Infraspecific Names Sex	
+
+. Annotation Name	
+
+. Assembly Level	
+
+. Assembly Release Date	
+
+. WGS project accession	
+
+. Assembly Stats Number of Scaffolds
+
+
+
+2.3 Formatting the columns
+
+The Assembly Acession column refers to the identifier assigned to a specific version of a genome assembly and this "barcode" for the genome can be from either GCA (GenBank Contex Assembly) or GCF (GenBank Contex FrefSeq), but all genomes that are in GCF, the curated database, are in GCA too.
+
+In this context, to facilitate the identification of the genomes we change the identifiers to be all with "GCA" as a prefix
+
+
+
+\#####################
+
+Comentar das diferentes formas que os dados foram adquiridos - por Fonte de Isolamento e Genero
+Comentar que o genero foi pesquisado um a um e depois junto em uma grande tabela (tanto no NCBI quanto no GTDB)
+
+Comentar que depois dessa primeira junção a tabela de Fonte de Isolamento foi junta com o de Genero (para os dois banco de dados)
+
+Comentar que, ao final, a tabela do NCBI e do GTDB foram juntas para criar uma grande tabela
+---- LEMBRANDO QUE EU DEIXEI UMA SEÇÃO SEPARADA PARA BACTERIAS E PARA ARQUEIAS
+
+\########################
 
 
 
 2.3 Merging Data from NCBI and GTDB
+
+We use Orange Data Mining software to merge the 
 
 
 
@@ -79,13 +148,13 @@ We search in a lot of papers (referenced below) the names of thermophilic taxons
 
 4\. \*\*Genome Acquisition and Curation:\*\*
 
-&nbsp;   \* \*\*5.1.\*\* Assess genome replicates (strains of the same species).
+    \* \*\*5.1.\*\* Assess genome replicates (strains of the same species).
 
-&nbsp;   \* \*\*5.2.\*\* Delete replicates using ANI (Average Nucleotide Identity) thresholds.
+    \* \*\*5.2.\*\* Delete replicates using ANI (Average Nucleotide Identity) thresholds.
 
-&nbsp;   \* \*\*5.3.\*\* Assess genome quality (completeness and contamination) using \*\*CheckM\*\*.
+    \* \*\*5.3.\*\* Assess genome quality (completeness and contamination) using \*\*CheckM\*\*.
 
-&nbsp;   \* \*\*5.4.\*\* Standardize annotation using \*\*Prokka\*\* or \*\*Bakta\*\*.
+    \* \*\*5.4.\*\* Standardize annotation using \*\*Prokka\*\* or \*\*Bakta\*\*.
 
 5\. \*\*Functional Mining:\*\* Use \*\*HMMER\*\* to search for specific Cu-oxidase domains (Pfam: PF00394, PF07731, PF07732).
 
