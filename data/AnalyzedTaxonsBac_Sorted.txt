@@ -1,3 +1,6 @@
+f__Methylothermaceae
+f__Neosynechococcaceae
+f__Pseudanabaenaceae
 g__Acidimicrobium
 g__Acidithiobacillus
 g__Aerothermobacter
@@ -6,7 +9,6 @@ g__Anoxybacillus
 g__Aquifex
 g__Ardenticatena
 g__Azoarcus
-g__Bacillus
 g__Brevibacillus
 g__Caldalkalibacillus
 g__Caldicellulosiruptor
@@ -14,6 +16,7 @@ g__Caldimicrobium
 g__Caldimonas
 g__Caloramator
 g__Calothrix
+g__Calothrixor
 g__Carboxydibrachium
 g__Carboxydothermus
 g__Chloroflexus
@@ -24,39 +27,46 @@ g__Desulfacinum
 g__Desulfotomaculum
 g__Desulfovibrio
 g__Dictyoglomus
-g__Enterobacter
 g__Fervidobacterium
 g__Galdieria
 g__Geobacillus
 g__Geothermobacterium
+g__Gloeomargarita
 g__Hydrogenobacter
+g__Hydrogenobaculum
+g__Leptococcus
 g__Lyngbya
 g__Mastigocladus
 g__Meiothermus
+g__Methanopyrus
 g__Nitrolancea
+g__Nitrospina
 g__Nitrospira
 g__Oscillatoria
 g__Paenibacillus
 g__Phormidium
-g__Pseudomonas
 g__Rhodothermus
 g__Roseiflexus
 g__Sphaerobacter
 g__Sulfobacillus
+g__Sulfurihydrogenibium
 g__Synechococcus
 g__Thermoactinospora
 g__Thermoanaerobacter
 g__Thermobifida
+g__Thermocrinis
 g__Thermodesulfobacterium
 g__Thermomicrobium
 g__Thermopolyspora
 g__Thermorudis
+g__Thermostichus
 g__Thermosynechococcus
 g__Thermotoga
 g__Thermotogota
 g__Thermus
 p__Aminicenantes
 p__Aquificae
+p__Aquificota
 p__Atribacteria
 p__Bacteroidetes
 p__Calescamantes
@@ -64,16 +74,21 @@ p__Chlamydiae
 p__Chloroflexi
 p__Deinococcus-Thermus
 p__Dictyoglomi
-p__Dictyoglomus
 p__Firmicutes
 p__Hydrogenedentes
 p__Microgenomates
 p__Omnitrophica
 p__Planctomycetes
-p__Proteobacteria
 p__Thermodesulfobacteria
 p__Thermotogae
+s__Bacillus amyloliquefaciens
+s__Bacillus licheniformis
+s__Bacillus megaterium
+s__Bacillus sporothermodurans
+s__Bacillus stearothermophilus
+s__Bacillus subtilis
+s__Cellovibrio mixtus
 s__Chroococcus yellowstonesis
 s__Fischerella_thermalis
-s__Synchococcus elongatus
-s__Thermostichus amphigranulatus
+s__Opitutus terrae
+s__Thermodesulforhabdus norvegica
