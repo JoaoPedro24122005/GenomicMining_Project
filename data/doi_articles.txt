@@ -1,0 +1,23 @@
+Taxon Identification in Archaea and Bacteria
+[1] Merino N, et al. Crit. Rev. Microbiol. 2026. https://doi.org/10.1080/1040841X.2026.2614431
+[2] Adam PS, et al. Nat. Commun. 2024. https://doi.org/10.1038/s41467-024-48498-5
+[3] Sahoo RK, et al. J. Basic Microbiol. 2021. https://doi.org/10.1002/jobm.202100529
+[4] Thomas C, et al. mSystems. 2022. https://doi.org/10.1128/msystems.00317-22
+[5] Gidtiyanuek C, et al. Arch. Microbiol. 2024. https://doi.org/10.1007/s00203-024-03981-x
+[6] Liu Y, et al. Food Sci. Nutr. 2024. https://doi.org/10.1002/fsn3.4540
+[7] Singh A, et al. J. Egypt. Soc. Parasitol. 2024. https://doi.org/10.1007/s43393-024-00275-7
+
+Enzymes from Extreme Environments
+[8] Littlechild JA. Front. Bioeng. Biotechnol. 2021. https://doi.org/10.3389/fbioe.2021.710035
+[9] Julia K, et al. Front. Bioeng. Biotechnol. 2022. https://doi.org/10.3389/fbioe.2022.870083
+[10] Zenodo. 2023. https://doi.org/10.5281/zenodo.10424561
+[11] Sysoev VO, et al. Appl. Microbiol. Biotechnol. 2023. https://doi.org/10.1007/s00253-022-12304-y
+[12] Appl. Sci. 2025. https://doi.org/10.3390/app15095144
+
+Other Related Studies
+[13] Front. Microbiol. 2023. https://doi.org/10.3389/fmicb.2023.1130594
+[14] BMC Genomics. 2018. https://doi.org/10.1186/s12864-018-4549-5
+[15] 3 Biotech. 2020. https://doi.org/10.1007/s13205-019-2044-6
+[16] Environ. Microbiol. Rep. 2024. https://doi.org/10.1111/1758-2229.13231
+[17] Appl. Sci. 2025. https://doi.org/10.3390/app15094839
+[18] Bioresour. Bioprocess. 2022. https://doi.org/10.1186/s40643-022-00543-1

@@ -1,0 +1,83 @@
+g__Acidianus
+g__Archaeoglobus
+g__Bathyarchaeota
+g__Crenarchaeota
+g__Desulfurococcus
+g__Desulfurolobus
+g__Euryarchaeota
+g__Hadesarchaea
+g__Haloferax
+g__Hyperthermus
+g__Ignicoccus
+g__Metallosphaera
+g__Methanococcus
+g__Methanopyrus
+g__Methanosarcina
+g__Methanothermobacter
+g__Nannoarchaeum
+g__Picrophilus
+g__Pyrobaculum
+g__Pyrococcus
+g__Pyrodictium
+g__Pyrolobus
+g__Staphylothermus
+g__Stygiolobus
+g__Sulfolobus
+g__Sulfurisphaera
+g__Sulfurococcus
+g__Thaumarchaeota
+g__Thermococcus
+g__Thermoplasma
+g__Thermoproteus
+g__Sulfolobus
+g__Pyrococcus
+g__Thermococcus
+g__Methanothermobacter
+g__Archaeoglobus
+g__Thermoplasma
+g__Ignicoccus
+g__Ferroplasma
+p__Korarchaeota
+p__Aigarchaeota
+p__Bathyarchaeota
+p__Hadesarchaeota
+p__Geoarchaeota 
+p__Verstraetearchaeota
+p__Marsarchaeota
+p__Brockarchaeota
+p__Nezhaarchaeota 
+s__Nanopusillus acidilobi
+g__Thermocladium
+g__Caldivirga
+g__Vulcanisaeta
+g__Metallosphaera 
+o__Thermoproteales
+f__Sulfolobaceae
+g__Pyrodictium
+s__Pyrolobus fumarii
+g__Thermococcus
+g__Methanococcus
+g__Archaeoglobus
+g__Hyperthermus
+g__Staphylothermus
+g__Desulfurococcus
+s__Sulfolobus acidocaldarius
+s__Methanococcus vulcanicus
+s__Methanococcus jannaschii
+s__Acidianus infernos
+s__Pyrobaculum islandicum
+s__Archaeoglobus profundus
+s__Pyrobaculum fumarii
+s__Pyrodictium occultum
+s__Nannoarchaeum equitans
+g__Sulfurococcus
+g__Desulfurolobus
+g__Sulfolobus
+g__Metallosphaera
+g__Stygiolobus
+g__Sulfurisphaera
+g__Thermoplasma
+g__Acidianus
+g__Picrophilus
+s__Desulfurococcus mucosus
+s__Thermophilum pendens
