@@ -1,3 +1,10 @@
+# Each letter represent a different rank of taxonomy
+# s = species
+# g = genus
+# f = family
+# o = order
+# c = class
+# p = phylum
 f__Methylothermaceae
 f__Neosynechococcaceae
 f__Pseudanabaenaceae

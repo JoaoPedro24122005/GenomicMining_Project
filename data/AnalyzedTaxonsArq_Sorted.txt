@@ -1,3 +1,10 @@
+# Each letter represent a different rank of taxonomy
+# s = species
+# g = genus
+# f = family
+# o = order
+# c = class
+# p = phylum
 c__Hadesarchaea
 f__Sulfolobaceae
 g__Acidianus
