@@ -1,0 +1,6 @@
+# Non-Thermophilic (False Positive) Keywords
+
+* hot dog
+* cold
+* low-temperature
+* low temperature

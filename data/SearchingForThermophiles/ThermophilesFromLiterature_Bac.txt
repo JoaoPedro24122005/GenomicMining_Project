@@ -1,0 +1,91 @@
+Taxon	Name	TaxID
+Family	Methylothermaceae	1486721
+Family	Neosynechococcaceae	3079750
+Family	Pseudanabaenaceae	1890436
+Genus	Acidimicrobium	53634
+Genus	Acidithiobacillus	119977
+Genus	Thermaerobacter	73918
+Genus	Anaerobranca	42447
+Genus	Anoxybacillus	150247
+Genus	Aquifex	2713
+Genus	Ardenticatena	1382931
+Genus	Azoarcus	12960
+Genus	Brevibacillus	55080
+Genus	Caldalkalibacillus	379065
+Genus	Caldicellulosiruptor	44000
+Genus	Caldimicrobium	444090
+Genus	Caldimonas	196013
+Genus	Caloramator	44258
+Genus	Calothrix	1186
+Genus	Carboxydibrachium	249529
+Genus	Carboxydothermus	129957
+Genus	Chloroflexus	1107
+Genus	Clostridium	1485
+Genus	Cyanidium	2770
+Genus	Deinococcus	1298
+Genus	Desulfacinum	35836
+Genus	Desulfotomaculum	1562
+Genus	Desulfovibrio	872
+Genus	Dictyoglomus	13
+Genus	Fervidobacterium	2422
+Genus	Galdieria	83373
+Genus	Geobacillus	129337
+Genus	Geothermobacterium	169299
+Genus	Gloeomargarita	1188227
+Genus	Hydrogenobacter	939
+Genus	Hydrogenobaculum	168657
+Genus	Peptococcus	2740
+Genus	Lyngbya	28073
+Genus	Mastigocladus	29417
+Genus	Meiothermus	65551
+Genus	Methanopyrus	2319
+Genus	Nitrolancea	1206748
+Genus	Nitrospina	35800
+Genus	Nitrospira	1234
+Genus	Oscillatoria	1158
+Genus	Paenibacillus	44249
+Genus	Phormidium	1198
+Genus	Rhodothermus	29548
+Genus	Roseiflexus	120961
+Genus	Sphaerobacter	2056
+Genus	Sulfobacillus	28033
+Genus	Sulfurihydrogenibium	212790
+Genus	Synechococcus	1129
+Genus	Thermoactinospora	1424614
+Genus	Thermoanaerobacter	1754
+Genus	Thermobifida	83677
+Genus	Thermocrinis	75905
+Genus	Thermodesulfobacterium	1740
+Genus	Thermomicrobium	499
+Genus	Thermopolyspora	359169
+Genus	Thermorudis	1649508
+Genus	Thermostichus	2881385
+Genus	Thermosynechococcus	146785
+Genus	Thermotoga	2335
+Genus	Thermotogota	200918
+Genus	Thermus	270
+Phylum	Candidatus Aminicenantota	67817
+Phylum	Aquificae	200783
+Phylum	Aquificota	200783
+Phylum	Atribacteria	2847774
+Phylum	Bacteroidetes	976
+Phylum	Chlamydiae	204428
+Phylum	Chloroflexi	200795
+Phylum	Deinococcus-Thermus	1297
+Phylum	Dictyoglomi	68297
+Phylum	Firmicutes	1239
+Phylum	Candidatus Omnitrophota	67812
+Phylum	Planctomycetes	203682
+Phylum	Thermodesulfobacteria	67799
+Phylum	Thermotogae	200918
+Species	Bacillus amyloliquefaciens	1390
+Species	Bacillus licheniformis	1402
+Species	Bacillus megaterium	1404
+Species	Bacillus sporothermodurans	46224
+Species	Bacillus stearothermophilus	1422
+Species	Bacillus subtilis	1423
+Species	Cellvibrio mixtus	39650
+Species	Metallosphaera yellowstonensis	1111107
+Species	Fischerella thermalis	372787
+Species	Opitutus terrae	107709
+Species	Thermodesulforhabdus norvegica	39841

@@ -1,109 +1,110 @@
-###Methodology
+## Methodology
 
 **1) Finding the thermophilic taxons of bacteria and archaea**
 
-Before searching for the genomes of thermophilic organisms in the database, we first needed to identify which ones are thermophilic. To do 
-this, we needed to find a reference (in the database, in articles, etc.) that confirms this information. Unfortunately, databases (such as GenBank) do not have a label indicating whether the genome belongs to a thermophilic organism or not. The solution to find this info is to use sources in the literature or the Isolation source in the metadatas, which can indicate whether the organism's habitat is characterized by extreme temperatures or not
+Before searching for the genomes of thermophilic organisms in the database, we first needed to identify which ones are thermophilic. To do this, we needed to find a reference (in the database, in articles, etc.) that confirms this information. Unfortunately, databases (such as GenBank) do not have a label indicating whether the assembly belongs to a thermophilic organism or not. The solution to find this info is to use sources in the Literature or the Isolation Source, available in the metadata, which can indicate whether the organism's habitat is characterized by extreme temperatures or not
 
-1.1) Using Literature
+Note: Since the Bacteria and Archaea domains are the most representative in terms of thermophilic organisms, we limited our search to these two domains.
 
-Articles [1-7] were used to find the taxons (species, genus, family, order, class and phylum) of different bacteria and archaeas that were thermophilic.
+**1.1) Using Literature**
 
-After doing the search, we made a list of thermophilic organisms names and put this names into the files "AnalyzedTaxonsArq_Sorted.txt" and "AnalyzedTaxonsBac_Sorted.txt" (available in this same directory).
+Articles [1-7] were used to find the taxons (species, genus, family, order, class and phylum) of different bacteria and archaeas thTt were thermophilic.
 
-Note: For genus that have most of the members being thermophilic, the whole genus was considered for the search, not just the species cited. This guarentee that all possible thermophilic members are included, even if it means that some of them will be false positive
+After doing the search, we made a list of thermophilic organisms names. To facilitate the search for genomes in the next stages, we use the command-line tool *Taxonkit* (version: v0.20.0) [9] to determine the rank of each name and to find the TaxID, which we used later.
 
-1.2) Using the Isolation Source
+Note: NCBI Taxonomy database accessed on February 13, 2026 [8] to download the **taxdump** [10] files used by *Taxonkit*.
 
-The Isolation Source is the place where the sample used for sequencing was collected, if its a extreme place, like hot springs and hydrothermal vent, there is a high probability that the organisms living there are thermophilic.
+After that, we had two files with the taxonomic ranks, names and taxid (available in SearchingForThermophiles directory):
+- ThermophileFromLiterature_Arc.txt
+- ThermophileFromLiterature_Bac.txt 
 
-**2) Searching for the genomes (metadata)**
+**1.2) Using the Isolation Source**
 
-All the data collected consisted, initially, only of genome metadata (accession number, organism name, taxonomy, etc.); the genome itself was not retrieved at this stage. *To facilitate analysis, the tables with the genome metadata were separated into Bacteria and Archaea.*
+The Isolation Source can be found in the "Sample Details" section in the Assembly Metadata, but to found which ones are from thermophilic bacteria and archaeas we use a list of keywords/prefix of common "thermophilic sources" and, to avoid catching false positives, a list of "non-thermophilic sources"
 
-To search for thermophilic belonging to this two supracited Domains two plaforms were used: NCBI (National Center for Biotechnology Information) and GTDB (Genome Taxonomy Database).
+Files (in SearchingForThermophiles directory):
+- ThermophilesIsolationSource.txt
+- Non-ThermophilesIsolationSource.txt
 
-Links to the website
-- NCBI: <https://www.ncbi.nlm.nih.gov/datasets/genome/> 
-- GTDB: <https://gtdb.ecogenomic.org/>
+**2) Searching for the Assembly Metadata**
 
-On both platforms, we searched for thermophiles from the Bacteria and Archaea domains using the 2 methods mentioned: Literature and Isolation Source
+Before retrieving all FASTA files from the genomes, we collected assembly metadata to organize which assemblies were from thermophilic organisms. The metadata fields searched were: 
+* Acession Number of the Assembly
+* Organism Name
+* Organism Tax-ID
+* Isolation Source
+* Sample info - Attribute Name
+* Sample info - Attribute Value
+ 
+The last two fields were important because they could contain information about the cultivation temperature and if this temperature is higher than 45°C, then the organism is thermophilic
 
-2.1) Retrieving data using Literature
+To search for metadata, we use the NCBI CLI (Command Line Interface): *datasets* (version - 18.16.0) and *dataformat* [11], to download the metadata and filter the results, respectively.
 
-For each taxon in the archives, we searched for the names of the organisms (using the NCBI and GTDB search bars) and downloaded all **Assembled Genomes** that matched the search.
+@@@*datasets* - Used to query and download biological sequence data and metadata (ZIP packages).
+@@@*dataformat* - Used to convert the JSON Lines metadata from datasets into tabular formats (TSV, Excel)
 
-To download the Assembly, we use the option available on both platforms (NCBI and GTDB) of "Downloading all Assemblies" and tables download the tabes in TSV format
+**2.1) Search using the taxons from Literature**
 
-After that we got a table for every single bacteria and archaea taxon, this resulting tables were merged by category (Source and Domain), yielding four consolidated datasets:
+Since taxon names can be ambiguous, when attempting to find genomes, we pass the list of corresponding taxids as input to the dataset program, which uses *TaxonKit* to locate them as mentioned.
 
-1) NCBI - Bacteria 
-2) NCBI - Archaea
-3) GTDB - Bacteria
-4) GTDB - Archaea
+Then, the following script was executed: ScriptWithNoName1.sh (on February 16, 2026) to download the metadata, filter according to the metadata fields mentioned and converted to a TSV Table
 
-# This search was done it on: Month day, year
+#COMAND (executed on February 16, 2026)
+$ ./ScriptWithNoName1.sh ThermophileFromLiterature_Arc.txt
+$ ./ScriptWithNoName1.sh ThermophileFromLiterature_Bac.txt
 
-2.2) Retrieving data using Isolation Source
+As the result, we get two new files with the genome metadata of the Bacteria and Archaea Domain:
+- GenomeMetadataFromLit_Arc.tsv
+- GenomeMetadataFromLit_Bac.tsv
 
-To find the thermophilic organisms using the Isolation Source we used the following keywords in GTDB's Advanced Search option:
+**2.2) Search using the Isolation Source**
 
-(Isolation Source" CONTAINS "volcano") OR ("Isolation Source" CONTAINS "hot") OR ("Isolation Source" CONTAINS "thermal") OR ("Isolation Source"
-CONTAINS "hydrothermal") OR ("Isolation Source" CONTAINS "thermo")).
+To download metadata using the Isolation Source, we first need to retrieve all Bacteria and Archaea metadata from NCBI, as the *datasets* tool does not allow filtered searches using the Isolation Source as a key.
 
-Note: Only GTDB contained metadata about the Isolation Source. 
+Another problem is that both domains are too large to be downloaded directly, even if they are just the genome metadata. Therefore, the solution was to download one phylum at a time, concatenate all the phyla into one file, and then search for the genomes that have the Isolation Source of interest.
 
-After the data was downloaded, the resulting tables were merged, yielding two more TSV tables: 
+**2.2.1) Download all the metadata**
 
-5) GTDB (using I.S.) - Bacteria
-6) GTDB (using I.S.) - Archaea
+We first use the tool *Takonkit* to find all the phyla in each Domain and save the list of phyla in the files: 
+- "Phyla_Arc.txt" 
+- "Phyla_Bac.txt" 
 
-This 2 tables were then concatenated with the corresponding GTDB tables, resulting in 4 tables in the end
+#Comand (executed on February 16, 2026)
+takonkit **** ***** ****** 2 # TaxID for Bacteria
+takonkit **** ***** ****** 2157 # TaxID for Archaea
 
-#This search was done it on: September 29, 2025
+Then the following script was executed: ScriptWithNoName2.sh to read the files with the phyla, search for the genome metadata and concatenated all in a single file for each Domain:
+- AllGenomeMetadata_Arc.txt
+- AllGenomeMetadata_Bac.txt
 
-**3) Formatting the data and merging the tables**
+@@@ It doesnt make more sense to first download all the metadata and then do both searchs?
+@@@ Or I maintain the first method using Literature?
 
-With the table complete, the next step was to merge the tables from NCBI and GTDB into just two, one for Bacteria and another for Archaea. To do that we need to guarentee that the columns names were the same, so that would allow us to concatenate the records correctly.
+**2.2.2) Filter the metadata according to the Isolation Source**
 
-Since GTDB is updated using data from NCBI genomes and the last update was done it in September 2024, this means that NCBI is more up-to-date hence is a more reliable and complete repository in terms of number genomes, although GTDB is more robust in terms of taxonomy
+After downloading all the Prokaryotes Genome Metadata we used the list of keywords/prefix of common "thermophilic sources" to seach for genomes of thermophilic organisms. To do that we executed the script: ScriptWithNoName3.sh, that use the keywords to filter the genome metadata and transfer this into new files:
+- GenomeMetadataFromIS_Arc.tsv
+- GenomeMetadataFromIS_Bac.tsv
+Note: "IS" stands for "Isolation Source"
 
-In that regard, we use NCBI's genomes to build the "base table" and then complete this table with the Taxonomy and Isolation Source provided by GTDB
+**3) Concatenating all the genome metadata founded
 
-**3.1) Formating the columns to merge
+After downloanding the metadata use both methods (Literature and Isolation Source) we needed to concatenate all the diferent genomes and remove and the duplicates using the Acession Number as the filter. To do that we ran, for each Domain, the script: ScriptWithNoName4.sh that unite both tables (from the 2 methods) into one, sorted the entries and remove duplicates
 
-To merge the tables, we first need to find a way to match the rows. The solution to that is to use the **Assembly Acession** code that identify each genome submitted, using this is possible to find the corresponding genome of GTDB in NCBI and then add the GTDB metadata to the NCBI table
+#Comand (executed on February 16, 2026)
+$ ./ScriptWithNoName4.sh GenomeMetadataFromLit_Arc.tsv GenomeMetadataFromIS_Arc.tsv
+$ ./ScriptWithNoName4.sh GenomeMetadataFromLit_Bac.tsv GenomeMetadataFromIS_Bac.tsv
 
-However, some of genomes have the Assembly Acession beginning with GCA and other ones with GCF. All genomes have a GCA (GenBank Assembly) code, because all of them were deposited in the repository GenBank, but the high-quality ones (lower contamination and high completeness) have **also** been deposited in the repository RefSeq and get a "GCF" (RefSeq Assembly) code at the start. Because of that, we change all "GCF" in the Assembly Acession (of both tables - NCBI and GTDB) to "GCA"
+The resulting files were:
+- GenomeMetadataMerged_Arc.tsv
+- GenomeMetadataMerged_Bac.tsv
 
-After that, we execute the shell script (available in "scripts/SubstituteGCFtoGCA.sh") in all 6 tables and other shell script () to add, to the NCBI table, 3 new columns (NCBI Taxonomy, GTDB Taxonomy and Isolation Source) and add the content in GTDB table to the NCBI table, resulting in two tables:
+**4) Creating a Directory Structure for Taxonomy**
 
-1) NCBI_MergedTable - Bacteria
-2) NCBI_MergedTable - Archaea
-
-**3.2) Deleting duplicates**
-
-The next step was to delete any duplicate genomes, to do that we again use the Assembly Acession as the identifier and use the shell script () to sort the colunms using the Assembly Acession as the key and then delete any replicates
-
-**4) Checking the taxonomy**
-
-After collecting the **Acession Number** for the genome, the names of the thermophilic organisms and organizing the data in tables, the 
-taxonomy of each organism needed to be checked.
-
-To do that we use NCBI's Taxonomy Browser [8] to check the different taxonomy levels. The taxonomy was standardized to only have 7 ranks 
-(species - domain), non-standard ranks were removed
-
-Link to the website 
-- NCBI Taxonomy Browser: <https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi>
-
-# This search was done it on: Month day, year
-
-Note: Although the genome metadata available in GTDB already contains the taxonomy, we prefer to check the NCBI, which contains more 
-up-to-date data, since GTDB updates its information based on NCBI data.
 
 ---------------------
 
-Reference list
+# Reference list
 
 [1] Merino N, et al. Crit. Rev. Microbiol. 2026. https://doi.org/10.1080/1040841X.2026.2614431
 
@@ -119,5 +120,24 @@ Reference list
 
 [7] Singh A, et al. J. Egypt. Soc. Parasitol. 2024. https://doi.org/10.1007/s43393-024-00275-7
 
-[8] Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 
-32761142 PMC: PMC7408187.
+[8] Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 32761142 PMC: PMC7408187.
+
+taxonkit
+[9] Shen W, Ren H. TaxonKit: a practical and efficient NCBI taxonomy toolkit. J. Genet. Genomics. 2021;48(9):844-850. doi:10.1016/j.jgg.2021.03.006.
+
+taxdump files
+[10] NCBI Taxonomy Database. https://ftp.ncbi.nih.gov/pub/taxonomy/. Accessed Feb 13, 2026
+
+datasets and dataformat
+[11] O'Leary, N.A., Cox, E., Holmes, J.B., et al. Exploring and retrieving sequence and metadata for species across the tree of life with NCBI Datasets. Sci Data 11, 732 (2024). doi: 10.1038/s41597-024-03571-y
+
+Data Source
+
+| Tool / Resource | Version | Access/Download Date |
+| :--- | :--- | :--- |
+| **TaxonKit** | v0.20.0 | 2026-02-13 |
+| **NCBI taxdump** | N/A | 2026-02-13 |
+| **datasets** | 18.16.0 | 2026-02-16 |
+| **dataformat** | 18.16.0 | 2026-02-16 |
+
+
