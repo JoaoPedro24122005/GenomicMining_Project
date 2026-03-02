@@ -12,11 +12,16 @@ Articles [1-7] were used to find the taxons (species, genus, family, order, clas
 
 After doing the search, we made a list of thermophilic organisms names. To facilitate the search for genomes in the next stages, we use the command-line tool *Taxonkit* (version: v0.20.0) [9] to determine the rank of each name and to find the TaxID, which we used later.
 
-Note: NCBI Taxonomy database accessed on February 13, 2026 [8] to download the **taxdump** [10] files used by *Taxonkit*.
+#COMAND
+taxonkit name2taxid -r RawListArchaeas.txt | sed '1i Name\tTaxID\tTaxon' > 
+ThermophilesFromLiterature_Arc.txt
+taxonkit name2taxid -r RawListBacterias.txt | sed '1i Name\tTaxID\tTaxon' > ThermophilesFromLiterature_Bac.txt
 
-After that, we had two files with the taxonomic ranks, names and taxid (available in SearchingForThermophiles directory):
+After that, we had two files with the taxonomic ranks, names and taxid (available in data/SearchingForThermophiles):
 - ThermophileFromLiterature_Arc.txt
 - ThermophileFromLiterature_Bac.txt 
+
+Note: NCBI Taxonomy database accessed on February 13, 2026 [8] to download the **taxdump** [10] files used by *Taxonkit*.
 
 **1.2) Using the Isolation Source**
 
@@ -29,23 +34,80 @@ Files (in SearchingForThermophiles directory):
 **2) Searching for the Assembly Metadata**
 
 Before retrieving all FASTA files from the genomes, we collected assembly metadata to organize which assemblies were from thermophilic organisms. The metadata fields searched were: 
+
+# General
 * Acession Number of the Assembly
 * Organism Name
 * Organism Tax-ID
+* Organism Strain
+* Release Date of the Assembly
+
+# Sample Location
 * Isolation Source
+* Geographic location of the Sample
+* GPS Coordinates of the Sample
+* Ecotype 
+
+# Sample Characteristics
+* Food safety classification of pathogens
+* Host of the organism
+* Host disease caused by organism
+* Isolate name in BioSample record
+
+# Assembly Details
+* Atypical signal
+* Atypical details
+* Assembly type (indicate if it's a MAG)
+
+
+@@@
+List of all fields that i gonna use:
+
+accession
+organism-name
+organism-tax-id
+organism-infraspecific-isolate
+organism-infraspecific-strain
+assminfo-release-date
+
+--Biosample info
+assminfo-biosample-accession
+assminfo-biosample-isolate
+assminfo-biosample-strain
+assminfo-biosample-isolation-source
+assminfo-biosample-geo-loc-name 
+assminfo-biosample-lat-lon 
+assminfo-biosample-collection-date
+assminfo-biosample-host
+assminfo-biosample-host-disease
+assminfo-biosample-ecotype
+
+--Outros
+assminfo-atypicalis-atypical 
+assminfo-atypicalwarnings 
+assminfo-level 
+assminfo-type 
+@@@
+
+@@@@
+BUSCA SEPARADA
+
 * Sample info - Attribute Name
 * Sample info - Attribute Value
- 
+assminfo-biosample-attribute-name
+assminfo-biosample-attribute-value 
+@@@@
+
 The last two fields were important because they could contain information about the cultivation temperature and if this temperature is higher than 45°C, then the organism is thermophilic
 
-To search for metadata, we use the NCBI CLI (Command Line Interface): *datasets* (version - 18.16.0) and *dataformat* [11], to download the metadata and filter the results, respectively.
-
-@@@*datasets* - Used to query and download biological sequence data and metadata (ZIP packages).
-@@@*dataformat* - Used to convert the JSON Lines metadata from datasets into tabular formats (TSV, Excel)
+To search and download the metadata, we use the NCBI CLI (Command Line Interface) *datasets* (version - 18.16.0) [11] and to filter the metadata we use another NCBLI CLI *dataformat* (version - 18.16.0) [11].
 
 **2.1) Search using the taxons from Literature**
 
-Since taxon names can be ambiguous, when attempting to find genomes, we pass the list of corresponding taxids as input to the dataset program, which uses *TaxonKit* to locate them as mentioned.
+Using the two previous mentioned files containing the TaxID of each Bacteria and Archaea founded, we search and download all the metadata of the correspondent Assemblys using the following command:
+
+#COMAND
+
 
 Then, the following script was executed: ScriptWithNoName1.sh (on February 16, 2026) to download the metadata, filter according to the metadata fields mentioned and converted to a TSV Table
 

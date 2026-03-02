@@ -20,7 +20,6 @@ Genus	Calothrix	1186
 Genus	Carboxydibrachium	249529
 Genus	Carboxydothermus	129957
 Genus	Chloroflexus	1107
-Genus	Clostridium	1485
 Genus	Cyanidium	2770
 Genus	Deinococcus	1298
 Genus	Desulfacinum	35836
@@ -62,22 +61,16 @@ Genus	Thermorudis	1649508
 Genus	Thermostichus	2881385
 Genus	Thermosynechococcus	146785
 Genus	Thermotoga	2335
-Genus	Thermotogota	200918
+Phylum	Thermotogota	200918
 Genus	Thermus	270
 Phylum	Candidatus Aminicenantota	67817
 Phylum	Aquificae	200783
 Phylum	Aquificota	200783
-Phylum	Atribacteria	2847774
-Phylum	Bacteroidetes	976
-Phylum	Chlamydiae	204428
-Phylum	Chloroflexi	200795
+Class	Atribacteria	2847774
 Phylum	Deinococcus-Thermus	1297
 Phylum	Dictyoglomi	68297
-Phylum	Firmicutes	1239
 Phylum	Candidatus Omnitrophota	67812
-Phylum	Planctomycetes	203682
-Phylum	Thermodesulfobacteria	67799
-Phylum	Thermotogae	200918
+Class	Thermodesulfobacteria	67799
 Species	Bacillus amyloliquefaciens	1390
 Species	Bacillus licheniformis	1402
 Species	Bacillus megaterium	1404
@@ -89,3 +82,41 @@ Species	Metallosphaera yellowstonensis	1111107
 Species	Fischerella thermalis	372787
 Species	Opitutus terrae	107709
 Species	Thermodesulforhabdus norvegica	39841
+Species	Clostridium thermocellum	1515
+Species	Clostridium thermobutyricum	29372
+Species	Clostridium thermopalmarium	29373
+Species	Clostridium paradoxum	29346
+Species	Clostridium thermosuccinogenes	84032
+Genus	Thermoanaerobacterium	28895
+Genus	Thermonema	28194
+Genus	Schleiferia	1333716
+Genus	Thermoflavifilum	1649506
+Genus	Sphingobacterium	28453
+Genus	Anaerophaga	177399
+Genus	Lutaonella	488548
+Genus	Raineya	2071614
+Family	Chloroflexaceae	1106
+Family	Roseiflexaceae	1508635
+Order	Thermogemmatisporales	768667
+Class	Tepidiformia	2682225
+Class	Thermoflexia	1495646
+Genus	Lysinibacillus	400634
+Genus	Oceanobacillus	182709
+Genus	Aneurinibacillus	55079
+Genus	Fervidibacter	1448928
+Genus	Moorella	44260
+Genus	Symbiobacterium	2733
+Class	Thermolithobacteria	455491
+Genus	Aeribacillus	1055323
+Genus	Caldibacillus	1276290
+Class	Thermodesulfovibrionia	2811502
+Genus	Thermostilla	1755820
+Genus	Thermogutta	1676125
+Family	Tepidisphaeraceae	1771355
+Genus	Thermogemmata	2787008
+Genus	Thermovirga	336260
+Genus	Candidatus Acetithermum	1446465
+Species	Streptococcus thermophilus	1308
+Family	Thermovirgaceae	3029089
+Family	Thermosynergistaceae	2880999
+Genus	Thermanaerovibrio	81461

@@ -1,0 +1,90 @@
+Methylothermaceae
+Neosynechococcaceae
+Pseudanabaenaceae
+Acidimicrobium
+Acidithiobacillus
+Thermaerobacter
+Anaerobranca
+Anoxybacillus
+Aquifex
+Ardenticatena
+Azoarcus
+Brevibacillus
+Caldalkalibacillus
+Caldicellulosiruptor
+Caldimicrobium
+Caldimonas
+Caloramator
+Calothrix
+Carboxydibrachium
+Carboxydothermus
+Chloroflexus
+Clostridium
+Cyanidium
+Deinococcus
+Desulfacinum
+Desulfotomaculum
+Desulfovibrio
+Dictyoglomus
+Fervidobacterium
+Galdieria
+Geobacillus
+Geothermobacterium
+Gloeomargarita
+Hydrogenobacter
+Hydrogenobaculum
+Peptococcus
+Lyngbya
+Mastigocladus
+Meiothermus
+Methanopyrus
+Nitrolancea
+Nitrospina
+Nitrospira
+Oscillatoria
+Paenibacillus
+Phormidium
+Rhodothermus
+Roseiflexus
+Sphaerobacter
+Sulfobacillus
+Sulfurihydrogenibium
+Synechococcus
+Thermoactinospora
+Thermoanaerobacter
+Thermobifida
+Thermocrinis
+Thermodesulfobacterium
+Thermomicrobium
+Thermopolyspora
+Thermorudis
+Thermostichus
+Thermosynechococcus
+Thermotoga
+Thermotogota
+Thermus
+Candidatus Aminicenantota
+Aquificae
+Aquificota
+Atribacteria
+Bacteroidetes
+Chlamydiae
+Chloroflexi
+Deinococcus-Thermus
+Dictyoglomi
+Firmicutes
+Candidatus Omnitrophota
+Planctomycetes
+Thermodesulfobacteria
+Thermotogae
+Bacillus amyloliquefaciens
+Bacillus licheniformis
+Bacillus megaterium
+Bacillus sporothermodurans
+Bacillus stearothermophilus
+Bacillus subtilis
+Cellvibrio mixtus
+Metallosphaera yellowstonensis
+Fischerella thermalis
+Opitutus terrae
+Thermodesulforhabdus norvegica
