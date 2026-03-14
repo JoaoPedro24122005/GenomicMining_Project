@@ -17,7 +17,7 @@ TARGET='\$[a-zA-Z0-9_]+' 	# match $ plus one char at least
 
 # SED expression (Double quotes between the commmand so the variables are expanded)
 
-INPUT=$1
+INPUT="${1?ERROR: No input file specified}"
 BASENAME="$(basename $INPUT)"
 OUTPUT="QUOTED_$BASENAME"
 

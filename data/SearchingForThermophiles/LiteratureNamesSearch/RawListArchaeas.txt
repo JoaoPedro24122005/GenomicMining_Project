@@ -1,0 +1,42 @@
+Acidianus
+Aigarchaeota archaeon
+Archaeoglobus
+Bathyarchaeota
+Caldivirga
+Candidatus Brockarchaeota
+Candidatus Nezhaarchaeota
+Desulfurococcus
+Desulfurolobus
+Euryarchaeota
+Ferroplasma
+Geoarchaeota
+Hadesarchaea
+Haloferax
+Hyperthermus
+Ignicoccus
+Korarchaeota
+Metallosphaera
+Methanococcus
+Methanopyrus
+Methanosarcina
+Methanothermobacter
+Nanoarchaeum
+Nanopusillus
+Picrophilus
+Pyrobaculum
+Pyrococcus
+Pyrodictium
+Pyrolobus
+Staphylothermus
+Stygiolobus
+Sulfolobaceae
+Sulfolobus
+Sulfurisphaera
+Thaumarchaeota
+Thermocladium
+Thermococcus
+Thermoplasma
+Thermoproteales
+Thermoproteota
+Thermoproteus
+Vulcanisaeta

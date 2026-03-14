@@ -1,57 +1,54 @@
 #!/usr/bin/env bash
 
+# Getting the current directory 
+SCRIPT_PATH="${BASH_SOURCE[0]}"
+SCRIPT_DIR=$(dirname "$SCRIPT_PATH")
+CUR_DIR=$(cd "$SCRIPT_DIR" && pwd)
+
+source "$CUR_DIR/ErrorMessage.sh"
+
 is_leap_year() {
-	YEAR="$1"
-	
-	if (( $YEAR <= 0 )); then
-		echo "ERROR in is_leap_year()" >&2
-		echo "Invalid year to check if is a leap year (Year: $YEAR)" >&2
-		exit 1
-	fi
-	
-	if (( $YEAR % 4 == 0 && ($YEAR % 100 != 0 || $YEAR % 400 == 0) )); then
-		return 0 # True
-	else
-		return 1 # False
-	fi
+	local YEAR="${1:-0}"
+	(( $YEAR > 0 )) || { log_error "Year value invalid (Year: $YEAR)"; return 1; }
+	(( $YEAR % 4 == 0 && ($YEAR % 100 != 0 || $YEAR % 400 == 0) )) && return 0 || return 1
 }
 
 number_to_date() { # Convert the number° to the correspondent day
-	NUMBER="$1"
-	YEAR="$2"
+	local NUMBER="${1:-0}"
+	local YEAR="${2:-0}"
 	
-	if ! is_leap_year "$YEAR" && (( $NUMBER >= 366 )); then # day=1-365
-		echo "ERROR in number_to_date()" >&2
-		echo "Invalid number to convert to date (Number: $NUMBER / Year: $YEAR)" >&2
-		exit 1
-	elif is_leap_year "$YEAR" && (( $NUMBER >= 367 )); then #day=1-366
-		echo "ERROR: Invalid number to convert to date (Number: $NUMBER / Year: $YEAR)" >&2
-		exit 1
-	else
+	local max_days=365
+	is_leap_year $YEAR && max_days=366
+
+	if (( NUMBER > 0 && NUMBER <= max_days )); then
 		:
+	else
+		log_error "Number value invalid (Year: $YEAR, Max: $max_days)"
+		return 1
 	fi
-	
-	(( NUMBER=$NUMBER-1 ))
-	
-	date=$(date -d "$YEAR-01-01 + $NUMBER days" +%m-%d) # 1° day + (number - 1) = number
+		
+	date=$(date -d "$YEAR-01-01 + $((NUMBER-1)) days" +%m-%d) # 1° day + (number - 1) = number
 	echo "$date"
+	
+	return 0
 }
 
 create_dates() {
 
-	YEAR="$1"
-	BREAKS="$2"
-	start_array=()
-	end_array=()
+	local YEAR="${1:-0}"
+	local NUMBER_OF_DATES="${2:-0}"
 	
-	if is_leap_year "$YEAR"; then
-		local total_days=366
-	else
-		local total_days=365
-	fi
+	(( $YEAR > 0 )) || { log_error "Year value invalid (Year: $YEAR)"; return 1; }
+	(( $NUMBER_OF_DATES > 0 )) || { log_error "Number of dates value invalid (Number of dates: $NUMBER_OF_DATES)"; return 1; }
+	
+	start_array=() # global var
+	end_array=() # global var
+	
+	local total_days=365
+	is_leap_year $YEAR && total_days=366
 	local start=0
 	local end=0
-	local n=$BREAKS
+	local n=$NUMBER_OF_DATES
 	
 	(( interval=$total_days/$n-1 )) # constant
 	
@@ -61,32 +58,17 @@ create_dates() {
 		else
 			rest=0
 		fi
+		
 		(( start=$end+1 ))
 		(( end=$start+$interval+$rest ))
 		
-		start_date=$(number_to_date $start $YEAR)
-		end_date=$(number_to_date $end $YEAR)
+		start_date=$(number_to_date $start $YEAR) || return 1
+		end_date=$(number_to_date $end $YEAR) || return 1
 		
-		start_array+=( "$start_date" ) # global var
-		end_array+=( "$end_date" ) # global var 
-		
+		start_array+=( "$start_date" ) 
+		end_array+=( "$end_date" ) 
 		# To execute the script directly: echo "${start_array[i-1]} - ${end_array[i-1]}"
 	done
+	
+	return 0
 }
-
-
-# # To execute the script directly
-# YEAR_TO_BREAK=$1
-# (( NUMBER_OF_BREAKS=$2+1 )) 
-
-# if [[ -z $YEAR_TO_BREAK ]] || [[ -z $NUMBER_OF_BREAKS ]]; then
-	# echo "ERROR: Arguments not informed (1° - Year / 2° - Number of breaks)"
-	# exit 1
-# elif (( $NUMBER_OF_BREAKS <= 0 || $NUMBER_OF_BREAKS >= 366 )); then
-	# echo "Number of breaks invalid: $(( $NUMBER_OF_BREAKS - 1 ))"
-	# echo "Min: 0; Max: 364"
-	# exit 0
-# else
-	# :
-# fi
-# create_dates $YEAR_TO_BREAK $NUMBER_OF_BREAKS

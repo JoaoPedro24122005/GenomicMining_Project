@@ -1,0 +1,554 @@
+Creating save file LogFiles/ERROR_2026-03-04_16-00-54.log in /mnt/c/Users/jpcas/Downloads/Bioinformatics/GenomicMining_Project/scripts/ResultFiles/RequestingMetadataDomains.sh/LogFiles
+Creating save file AllBacAssemblies.tsv in /mnt/c/Users/jpcas/Downloads/Bioinformatics/GenomicMining_Project/scripts/ResultFiles/RequestingMetadataDomains.sh
+Creating save file AllArcAssemblies.tsv in /mnt/c/Users/jpcas/Downloads/Bioinformatics/GenomicMining_Project/scripts/ResultFiles/RequestingMetadataDomains.sh
+---- Starting Request ----
+Taxon Name or TaxID: 2157
+Released before: Not specified
+Released after: Not specified
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2010-12-31
+Released after: Not specified
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2011-03-14
+Released after: 2011-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2011-05-26
+Released after: 2011-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2011-08-07
+Released after: 2011-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2011-10-19
+Released after: 2011-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2011-12-31
+Released after: 2011-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2012-03-13
+Released after: 2012-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2012-05-25
+Released after: 2012-03-14
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2012-08-06
+Released after: 2012-05-26
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2012-10-18
+Released after: 2012-08-07
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2012-12-31
+Released after: 2012-10-19
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2013-03-14
+Released after: 2013-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2013-05-26
+Released after: 2013-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2013-08-07
+Released after: 2013-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2013-10-19
+Released after: 2013-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2013-12-31
+Released after: 2013-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2014-03-14
+Released after: 2014-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2014-05-26
+Released after: 2014-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2014-08-07
+Released after: 2014-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": POST https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report giving up after 1 attempt(s): Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": net/http: TLS handshake timeout
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2014-10-19
+Released after: 2014-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2014-12-31
+Released after: 2014-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2015-03-14
+Released after: 2015-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2015-05-26
+Released after: 2015-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2015-08-07
+Released after: 2015-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2015-10-19
+Released after: 2015-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2015-12-31
+Released after: 2015-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2016-03-13
+Released after: 2016-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2016-05-25
+Released after: 2016-03-14
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2016-08-06
+Released after: 2016-05-26
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2016-10-18
+Released after: 2016-08-07
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2016-12-31
+Released after: 2016-10-19
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2017-03-14
+Released after: 2017-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2017-05-26
+Released after: 2017-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2017-08-07
+Released after: 2017-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2017-10-19
+Released after: 2017-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2017-12-31
+Released after: 2017-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2018-03-14
+Released after: 2018-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2018-05-26
+Released after: 2018-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2018-08-07
+Released after: 2018-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2018-10-19
+Released after: 2018-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2018-12-31
+Released after: 2018-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2019-03-14
+Released after: 2019-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2019-05-26
+Released after: 2019-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": POST https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report giving up after 1 attempt(s): Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": net/http: TLS handshake timeout
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2019-08-07
+Released after: 2019-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": POST https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report giving up after 1 attempt(s): Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": read tcp 172.24.94.88:43930->130.14.29.110:443: read: connection timed out
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2019-10-19
+Released after: 2019-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2019-12-31
+Released after: 2019-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2020-03-13
+Released after: 2020-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2020-05-25
+Released after: 2020-03-14
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2020-08-06
+Released after: 2020-05-26
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2020-10-18
+Released after: 2020-08-07
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2020-12-31
+Released after: 2020-10-19
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2021-03-14
+Released after: 2021-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2021-05-26
+Released after: 2021-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2021-08-07
+Released after: 2021-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2021-10-19
+Released after: 2021-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2021-12-31
+Released after: 2021-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2022-03-14
+Released after: 2022-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2022-05-26
+Released after: 2022-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2022-08-07
+Released after: 2022-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2022-10-19
+Released after: 2022-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2022-12-31
+Released after: 2022-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2023-03-14
+Released after: 2023-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2023-05-26
+Released after: 2023-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] read tcp 172.24.94.88:60388->130.14.29.110:443: read: connection timed out
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2023-08-07
+Released after: 2023-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2023-10-19
+Released after: 2023-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] read tcp 172.24.94.88:45620->130.14.29.110:443: read: connection reset by peer
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2023-12-31
+Released after: 2023-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2024-03-13
+Released after: 2024-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2024-05-25
+Released after: 2024-03-14
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2024-08-06
+Released after: 2024-05-26
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2024-10-18
+Released after: 2024-08-07
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2024-12-31
+Released after: 2024-10-19
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": POST https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report giving up after 1 attempt(s): Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": unexpected EOF
+Starting split request (1 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2025-03-14
+Released after: 2025-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (2 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2025-05-26
+Released after: 2025-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (3 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2025-08-07
+Released after: 2025-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (4 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2025-10-19
+Released after: 2025-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Starting split request (5 / 5)
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: 2025-12-31
+Released after: 2025-10-20
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+---- Starting Request ----
+Taxon Name or TaxID: 2
+Released before: Not specified
+Released after: 2026-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+Error: [gateway] Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": POST https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report giving up after 1 attempt(s): Post "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/dataset_report": unexpected EOF
+sed: no input files

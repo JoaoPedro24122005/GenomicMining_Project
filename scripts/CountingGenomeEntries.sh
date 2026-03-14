@@ -2,7 +2,7 @@
 
 number_of_entries=0
 timestamp=$(date +"%Y-%m-%d_%H-%M-%S")
-script_name=$(basename $0)
+script_name=$(basename $0 .sh)
 log_file="LogFiles/$script_name~$timestamp"
 
 sed -e 's/.__//g' -e '/#.*$/d' "$1" > "clean-tax-names.txt"

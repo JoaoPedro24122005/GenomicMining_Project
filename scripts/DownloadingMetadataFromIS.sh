@@ -89,10 +89,10 @@ done
 
 # # 0 - Preparing the directorys where the data will be save
 
-# WORK_DIR="TempFiles/$(basename $0)" # Defining the working directory
+# WORK_DIR="TempFiles/$(basename $0 .sh)" # Defining the working directory
 # mkdir -p "$WORK_DIR" # Create it if it doesn't exist
 # cd "$WORK_DIR" || exit # Move the script's execution context there
-# # current path of the script' process: /mnt/c/Users/jpcas/Downloads/Bioinformatics/GenomicMining_Project/scripts/TempFiles/$(basename $0)
+# # current path of the script' process: /mnt/c/Users/jpcas/Downloads/Bioinformatics/GenomicMining_Project/scripts/TempFiles/$(basename $0 .sh)
 
 # TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S") # Get the current date and time
 # LOG_DIR="LogFiles"

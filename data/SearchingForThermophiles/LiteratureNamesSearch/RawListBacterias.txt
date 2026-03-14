@@ -1,0 +1,121 @@
+Acidimicrobium
+Acidithiobacillus
+Aeribacillus
+Anaerobranca
+Anaerophaga
+Aneurinibacillus
+Anoxybacillus
+Aquifex
+Aquificae
+Aquificota
+Ardenticatena
+Atribacteria
+Azoarcus
+Bacillus amyloliquefaciens
+Bacillus licheniformis
+Bacillus megaterium
+Bacillus sporothermodurans
+Bacillus stearothermophilus
+Bacillus subtilis
+Brevibacillus
+Caldalkalibacillus
+Caldibacillus
+Caldicellulosiruptor
+Caldimicrobium
+Caldimonas
+Caloramator
+Calothrix
+Candidatus Acetithermum
+Candidatus Aminicenantota
+Candidatus Omnitrophota
+Carboxydibrachium
+Carboxydothermus
+Cellvibrio mixtus
+Chloroflexaceae
+Chloroflexus
+Clostridium paradoxum
+Clostridium thermobutyricum
+Clostridium thermocellum
+Clostridium thermopalmarium
+Clostridium thermosuccinogenes
+Cyanidium
+Deinococcus
+Deinococcus-Thermus
+Desulfacinum
+Desulfotomaculum
+Desulfovibrio
+Dictyoglomi
+Dictyoglomus
+Fervidibacter
+Fervidobacterium
+Fischerella thermalis
+Galdieria
+Geobacillus
+Geothermobacterium
+Gloeomargarita
+Hydrogenobacter
+Hydrogenobaculum
+Lutaonella
+Lyngbya
+Lysinibacillus
+Mastigocladus
+Meiothermus
+Metallosphaera yellowstonensis
+Methanopyrus
+Methylothermaceae
+Moorella
+Neosynechococcaceae
+Nitrolancea
+Nitrospina
+Nitrospira
+Oceanobacillus
+Opitutus terrae
+Oscillatoria
+Paenibacillus
+Peptococcus
+Phormidium
+Pseudanabaenaceae
+Raineya
+Rhodothermus
+Roseiflexaceae
+Roseiflexus
+Schleiferia
+Sphaerobacter
+Sphingobacterium
+Streptococcus thermophilus
+Sulfobacillus
+Sulfurihydrogenibium
+Symbiobacterium
+Synechococcus
+Tepidiformia
+Tepidisphaeraceae
+Thermaerobacter
+Thermanaerovibrio
+Thermoactinospora
+Thermoanaerobacter
+Thermoanaerobacterium
+Thermobifida
+Thermocrinis
+Thermodesulfobacteria
+Thermodesulfobacterium
+Thermodesulforhabdus norvegica
+Thermodesulfovibrionia
+Thermoflavifilum
+Thermoflexia
+Thermogemmata
+Thermogemmatisporales
+Thermogutta
+Thermolithobacteria
+Thermomicrobium
+Thermonema
+Thermopolyspora
+Thermorudis
+Thermostichus
+Thermostilla
+Thermosynechococcus
+Thermosynergistaceae
+Thermotoga
+Thermotogota
+Thermovirga
+Thermovirgaceae
+Thermus
