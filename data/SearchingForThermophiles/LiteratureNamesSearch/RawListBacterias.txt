@@ -60,8 +60,6 @@ Lyngbya
 Lysinibacillus
 Mastigocladus
 Meiothermus
-Metallosphaera yellowstonensis
-Methanopyrus
 Methylothermaceae
 Moorella
 Neosynechococcaceae

@@ -61,8 +61,6 @@ Genus	Lyngbya	28073
 Genus	Lysinibacillus	400634
 Genus	Mastigocladus	29417
 Genus	Meiothermus	65551
-Species	Metallosphaera yellowstonensis	1111107
-Genus	Methanopyrus	2319
 Family	Methylothermaceae	1486721
 Genus	Moorella	44260
 Family	Neosynechococcaceae	3079750
