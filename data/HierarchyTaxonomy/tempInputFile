@@ -1,0 +1,10 @@
+Assembly Accession	Organism Name	Organism Taxonomic ID	Organism Infraspecific Names Isolate	Organism Infraspecific Names Strain	Assembly Release Date	Assembly BioSample Accession	Assembly BioSample Isolate	Assembly BioSample Strain	Assembly BioSample Isolation source	Assembly BioSample Geographic location	Assembly BioSample Latitude and Longitude	Assembly BioSample Collection date	Assembly BioSample Host	Assembly BioSample Host disease	Assembly BioSample Ecotype	Assembly Atypical Is Atypical	Assembly Atypical Warnings	Assembly Type
+GCA_000006805.1	Halobacterium salinarum NRC-1	64091		NRC-1; ATCC 700922	2001-01-09	SAMN02604216		NRC-1; ATCC 700922										haploid
+GCA_000007005.1	Saccharolobus solfataricus P2	273057		P2	2002-11-25	SAMN02603227		P2										haploid
+GCA_000007065.1	Methanosarcina mazei Go1	192952		Go1	2002-05-20	SAMN02603290		Go1										haploid
+GCA_000007185.1	Methanopyrus kandleri AV19	190192		AV19	2002-04-03	SAMN02603235		AV19										haploid
+GCA_000007225.1	Pyrobaculum aerophilum str. IM2	178306		IM2	2002-01-24	SAMN02604075		IM2										haploid
+GCA_000007305.1	Pyrococcus furiosus DSM 3638	186497		DSM 3638	2002-02-27	SAMN02604284		DSM 3638										haploid
+GCA_000007345.1	Methanosarcina acetivorans C2A	188937		C2A	2002-04-03	SAMN03081414		C2A										haploid
+GCA_000008085.1	Nanoarchaeum equitans Kin4-M	228908		Kin4-M	2003-12-18	SAMN02603208		Kin4-M										haploid
+GCA_000008265.1	Picrophilus oshimae DSM 9789	1122961		DSM 9790	2004-06-08	SAMN02603345		DSM 9790										haploid

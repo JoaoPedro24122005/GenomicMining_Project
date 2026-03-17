@@ -1,0 +1,18 @@
+# Search Prefixes and Patterns for Thermophilic Sources
+
+* therm (e.g., thermal, thermophilic, Thermotoga)
+* hydrothermal (e.g., hydrothermal)
+* geo (e.g., geothermal)
+* volcan (e.g., volcanic, volcano)
+* sulf (e.g., sulfur, solfatara, Sulfolobus)
+* vent (e.g., hydrothermal vent)
+* spring (e.g., hot spring)
+* smoker (e.g., black smoker, white smoker)
+* deep (e.g., deep-sea, deep subsurface)
+* hyper (e.g., hyperthermophilic)
+* hot (e.g., hot water, hot springs)
+* boil (e.g., boiling mud, boiling spring)
+* oil (e.g., oil field, petroleum reservoir)
+* mine (e.g., mine drainage, coal mine waste)
+* high-temp (e.g., high-temperature)
+* high temp ( e.g., high temperature)

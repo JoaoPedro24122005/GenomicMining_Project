@@ -1,0 +1,128 @@
+..g__Methanopyrus
+..g__Hydrogenobaculum
+..p__Aquificota
+..g__Thermocrinis
+
+
+g__Sulfolobus
+g__Pyrococcus
+g__Thermococcus
+g__Methanothermobacter
+g__Archaeoglobus
+g__Thermoplasma
+g__Ignicoccus
+g__Ferroplasma
+
+p__Korarchaeota
+p__Aigarchaeota
+p__Bathyarchaeota
+p__Hadesarchaeota
+p__Geoarchaeota 
+p__Verstraetearchaeota
+p__Marsarchaeota
+p__Brockarchaeota
+p__Nezhaarchaeota 
+
+s__Nanopusillus acidilobi
+g__Thermocladium
+g__Caldivirga
+g__Vulcanisaeta
+g__Metallosphaera 
+o__Thermoproteales
+
+f__Sulfolobaceae
+
+..g__Sulfurihydrogenibium
+..g__Synechococcus
+..g__Leptococcus
+..g__Thermostichus
+..g__Gloeomargarita
+..f__Neosynechococcaceae
+..f__Pseudanabaenaceae
+..f__Methylothermaceae
+..s__Aquifex aeolicus
+..g__Clostridium bifermentans
+..s__Bacillus licheniformis
+..s__Bacillus megaterium
+..s__Bacillus sporothermodurans
+..g__Hydrogenobacter
+
+g__Pyrodictium
+s__Pyrolobus fumarii
+g__Thermococcus
+g__Methanococcus
+g__Archaeoglobus
+g__Hyperthermus
+g__Staphylothermus
+g__Desulfurococcus
+
+..s__Thermus thermophilus
+..s__Thermus brockianus
+..s__Clostridium bifermentans
+..s__Clostridium lituseburense
+..s__Opitutus terrae
+..s__Rhodococcus erythropolis
+..s__Cellovibrio mixtus
+..s__Chroococcus yellowstonesis
+..g__Synechococcus
+..s__Oscillatoria jasorvensis
+..s__Oscillatoria filiforms 
+..s__Oscillatoria tenus
+..s__Phormidium laminosus
+..s__Mastigocladus laminosus
+..s__Lyngbya nigra
+..g__Paenibacillus
+..g__Fervidobacterium
+..g__Rhodothermus
+..g__Thermoanaerobacter
+..s__Desulfacinum infernum
+..s__Desulfacinum hydrothermale
+..s__Thermodesulforhabdus norvegica
+..g__Phormidium
+..g__Calothrixor
+..g__Thermus aquaticus
+..g__Thermodesulfobacterium
+..s__Dictyoglomus thermophilum
+
+s__Sulfolobus acidocaldarius
+s__Methanococcus vulcanicus
+s__Methanococcus jannaschii
+
+..s__Thermotoga maritima
+
+s__Acidianus infernos
+s__Pyrobaculum islandicum
+s__Archaeoglobus profundus
+s__Pyrobaculum fumarii
+s__Pyrodictium occultum
+
+s__Nannoarchaeum equitans
+g__Sulfurococcus
+g__Desulfurolobus
+g__Sulfolobus
+g__Metallosphaera
+g__Stygiolobus
+g__Sulfurisphaera
+g__Thermoplasma
+g__Acidianus
+g__Picrophilus
+
+**g__Cyanidium
+**g__Galdieria
+
+..g__Acidithiobacillus
+..c__Acidimicrobium
+..g__Sulfobacillus
+..g__Nitrospina
+..g__Nitrospira
+
+s__Desulfurococcus mucosus
+
+..s__Bacillus subtilis
+..s__Bacillus stearothermophilus
+..s__Bacillus licheniformis
+..s__Bacillus amyloliquefaciens
+..s__Anoxybacillus flavithermus
+..s__Rhodothermus marinus
+
+s__Thermophilum pendens

@@ -1,0 +1,627 @@
+Words that containing the pattern
+1) therm:
+     93 Geothermal
+      1 Geothermally
+      1 Heliothermal
+    735 Hydrothermal
+      7 Thermal
+      1 Thermally
+      8 Thermophilic
+    106 geothermal
+     27 geothermally
+  10514 hydrothermal
+      1 hyperthermal
+     26 hyperthermophilic
+      1 hypothermal
+    142 thermal
+      1 thermally
+      1 thermised
+      3 thermized
+      1 thermocellum
+    606 thermophilic
+      1 thermophilum
+      1 thermosaccharolyticum
+
+2) volcan:
+     10 Volcanic
+      1 Volcano
+    403 volcanic
+    433 volcano
+      1 volcanoes
+
+3) black smoker:
+      1 Black Smoker
+      1 Black smoker
+    224 black smoker
+
+4) hot:
+      3 HOT
+    541 Hot
+      5 Hotspring
+     12 allophototropha
+   6086 hot
+     40 hotspring
+     80 photo
+      1 photoferrotrophic
+      1 phototroph
+     10 phototrophic
+
+5) boil:
+      1 BOIL
+      3 Boil
+      7 Boiler
+      2 Boiling
+      2 Boils
+      2 boil
+      1 boiled
+
+6) oilfield:
+      2 18_Jiangsu_Oilfield
+      3 5_Jiangsu_Oilfield
+      4 Oilfield
+    123 oilfield
+      1 oilfields
+
+7) oil reservoir:
+     11 Oil reservoir
+    105 oil reservoir
+      1 oil reservoirfree
+      1 soil reservoir
+
+8) solfataric:
+      1 Solfataric
+      5 solfataric
+
+9) steam vent:
+      1 steam vent
+
+10) Richmond Mine:
+     25 Richmond Mine
+      1 Richmond mine
+
+11) high-temperature:
+      4 High-temperature
+      5 high-temperature
+
+12) high temperature:
+      1 High temperature
+     31 high temperature
+      1 high temperatures
+
+Words neighboring the pattern
+1) therm:
+      2 1	Geothermal Isolate
+     13 1	Geothermal channel
+      3 1	Geothermal chimney
+      2 1	Geothermal drilling
+      2 1	Geothermal fluids
+     61 1	Geothermal fumarole
+      1 1	Geothermal hot
+      1 1	Geothermal pool
+      6 1	Geothermal soil
+      1 1	Geothermal spring
+      1 1	Geothermal system
+      1 1	Geothermally heated
+    135 1	Hydrothermal Plume
+      1 1	Hydrothermal Systems
+      1 1	Hydrothermal area
+      1 1	Hydrothermal chimney
+      1 1	Hydrothermal deposits
+      1 1	Hydrothermal fluid
+      1 1	Hydrothermal marine
+      1 1	Hydrothermal plume
+     36 1	Hydrothermal sediment
+    285 1	Hydrothermal vent
+      5 1	Hydrothermal vents
+      1 1	Thermal Water
+      1 1	Thermal spa
+      2 1	Thermal spring
+      2 1	Thermal springs
+      1 1	Thermal vent
+      1 1	Thermally altered
+      6 1	Thermophilic and
+      1 1	Thermophilic compost
+      1 1	Thermophilic stage
+      1 1	geothermal area
+      2 1	geothermal field
+      1 1	geothermal heated
+      2 1	geothermal hot
+      1 1	geothermal hotspring
+      5 1	geothermal lake
+      1 1	geothermal soil
+     11 1	geothermal spring
+     43 1	geothermal water
+     20 1	geothermally
+      6 1	geothermally heated
+      2 1	hydrothermal
+      1 1	hydrothermal area
+      1 1	hydrothermal chimney
+      1 1	hydrothermal diffusing
+      1 1	hydrothermal explosion
+      1 1	hydrothermal field
+     28 1	hydrothermal fluid
+      1 1	hydrothermal fluids
+    155 1	hydrothermal plume
+      1 1	hydrothermal plumes
+      2 1	hydrothermal precipitate
+      3 1	hydrothermal sediment
+     16 1	hydrothermal sediments
+      2 1	hydrothermal sulfide
+      1 1	hydrothermal sulfides
+      2 1	hydrothermal system
+   1529 1	hydrothermal vent
+      1 1	hydrothermal water
+     25 1	hyperthermophilic anaerobic
+      1 1	hyperthermophilic compost
+      1 1	thermal brine
+      1 1	thermal lignite
+      1 1	thermal mud
+      1 1	thermal power
+      1 1	thermal saline
+      3 1	thermal spring
+      1 1	thermal sulfide
+      2 1	thermal sulfidic
+      8 1	thermal water
+      1 1	thermally polluted
+      3 1	thermized milk
+      1 1	thermophilic
+    501 1	thermophilic anaerobic
+      1 1	thermophilic bioreactor
+      2 1	thermophilic environment
+      1 1	thermophilic hydrogen
+      1 1	thermophilic industrial
+      2 1	thermophilic methanogenic
+      3 1	thermophilic microbial
+     17 1	thermophilic sediment
+      1 2	thermal spring
+     32 Abe hydrothermal plume
+      1 Ashadze hydrothermal field
+    142 Basin Hydrothermal plume
+     27 Beebe hydrothermal vent
+      1 Clostridium thermocellum strain
+      1 Clostridium thermosaccharolyticum
+      1 Coastal hydrothermal field
+      7 Damm hydrothermal vent
+      1 Daxi hydrothermal vents
+      2 Deepsea hydrothermal sediments
+     57 Dilute Hydrothermal Plume
+      1 Fuca hydrothermal vents
+      1 Garga thermal spring
+      1 Hacchoubaru geothermal plant
+      1 Heliothermal and
+      1 Kairei Hydrothermal Field
+      1 Kopia geothermal system
+     20 Malila hydrothermal plume
+      1 Mariner hydrothermal field
+     27 Mariner hydrothermal plume
+     63 Moana Hydrothermal plume
+      1 North hydrothermal field
+     25 Okinawa hydrothermal vent
+      1 Posay thermal water
+      2 Prony Hydrothermal Field
+      1 Puga geothermal geyser
+      2 Sea Hydrothermal Sediment
+      1 Sea hydrothermal vent
+      1 Steinernema thermophilum collected
+      1 Submarine hydrothermal system
+      2 Tianxiu hydrothermal vents
+      1 Trough hydrothermal field
+      1 Wairakei geothermal system
+      3 ZCTH01 thermophilic microbial
+      3 a geothermal spring
+      2 a hydrothermal vent
+      1 a hyperthermal composting
+      1 a thermal lake
+      2 a thermal pond
+     57 a thermal stream
+      2 a thermal water
+      1 a thermophilic anaerobic
+      1 acidic geothermal sediment
+     14 acidic hydrothermal system
+      1 active hydrothermal vent
+      1 active hydrothermal white
+      2 after thermal Shock
+      1 and hydrothermal fluid
+      1 at geothermal hot
+      2 buoyant hydrothermal plumes
+      1 by thermal digestion
+     60 castle hydrothermal vent
+      1 chloride geothermal spring
+      1 coastal hydrothermal field
+      1 deep thermal groundwater
+    149 deepsea hydrothermal sulfide
+      1 flow hydrothermal vent
+      1 freshwater thermal spring
+      2 from geothermal area
+      1 from geothermal hot
+      3 from geothermal system
+      1 from hydrothermal area
+      1 from hydrothermal environment
+      1 from hydrothermal field
+      4 from hydrothermal plume
+    277 from hydrothermal sediment
+    503 from hydrothermal vent
+      1 from hypothermal vent
+      1 from thermal spring
+      1 geothermal pool
+      1 gravity hydrothermal and
+      1 hydrothermal area
+    114 hydrothermal vent
+      1 in geothermal field
+     17 in thermophilic enrichment
+     12 lacustrine hydrothermal vent
+     10 many geothermal water
+      1 marine hydrothermal area
+    161 marine hydrothermal chimney
+      1 marine hydrothermal environment
+    325 marine hydrothermal sediment
+    442 marine hydrothermal sulfide
+   3105 marine hydrothermal vent
+      2 near hydrothermal vent
+      1 near hydrothermal vents
+      2 neutral geothermal spring
+      1 of thermal pool
+      1 of thermal power
+      1 radioactive thermal spring
+      7 rich geothermal hot
+      4 sea hydrothermal chimney
+   2894 sea hydrothermal deposit
+      3 sea hydrothermal field
+     12 sea hydrothermal fluids
+      1 sea hydrothermal plume
+      2 sea hydrothermal sediment
+      2 sea hydrothermal sediments
+     11 sea hydrothermal sulfide
+      7 sea hydrothermal system
+      1 sea hydrothermal systems
+    441 sea hydrothermal vent
+      4 sea hydrothermal vents
+      1 sea thermal vent
+      1 shallow geothermally heated
+      1 shallow hydrothermal field
+      2 shallow hydrothermal vent
+      2 submarine hydrothermal vent
+      1 subsurface geothermal aquifer
+      1 subsurface geothermal water
+      6 subsurface thermal aquifer
+      1 temperature hydrothermal
+      1 temperature hydrothermal fluid
+      4 temperature hydrothermal vent
+      1 terrestrial hydrothermal spring
+      1 the hydrothermal annelid
+      4 the hydrothermal vent
+     26 thermal hydrolysis
+      3 thermal spring
+      1 thermophilic
+      1 thermophilic UASB
+     54 thermophilic anaerobic
+      1 to hydrothermal vent
+     12 under thermal stress
+     19 underground hydrothermal spring
+      1 underground thermal mineral
+      1 venting hydrothermal chimney
+      1 venting hydrothermal sulfidic
+      4 venting hydrothermal vent
+      5 water hydrothermal vent
+      1 with thermised milk
+
+2) volcan:
+      1 1	Volcanic Lake
+      2 1	Volcanic Soil
+      1 1	Volcanic ash
+      2 1	Volcanic sediment
+      2 1	Volcanic soil
+      4 1	volcanic ash
+      1 1	volcanic hot
+      1 1	volcanic mountain
+      2 1	volcanic rock
+      5 1	volcanic soil
+      1 1	volcanic tuff
+      1 1	volcano lake
+      1 1	volcano soil
+      1 2	volcanic
+      1 Acidic volcanic ash
+      1 Kirishima Volcanic Belt
+      1 Mud Volcano region
+      1 Taupo Volcanic zone
+      1 Wudalianchi volcano
+      1 a volcanic area
+      1 a volcanic rock
+      1 active volcano
+      1 active volcano Socompa
+    374 and volcanic lakes
+     72 arc volcano
+      2 asphalt volcano Chapopote
+      1 cataclysmic volcano eruption
+      1 dormant volcanic soils
+      1 during volcanic eruption
+      3 extinct volcano
+      5 from volcanic crater
+      1 from volcanic rock
+      1 from volcanic soil
+      1 from volcano crater
+    240 mud volcano
+     54 mud volcano C13
+      1 mud volcano Karabetova
+      6 mud volcano site
+      1 mud volcano soil
+      1 mud volcanoes of
+      1 mus volcano
+      1 red volcanic soil
+     23 submarine volcano
+     23 submarine volcano off
+      1 volcanic ash
+
+3) black smoker:
+      1 1	Black Smoker
+      1 1	Black smoker from
+      2 1	black smoker chimney
+     27 a black smoker
+      6 a black smoker and
+    189 active black smoker DFF12
+
+4) hot:
+      4 1	Hot
+      2 1	Hot Spring
+      2 1	Hot Tub
+      1 1	Hot Water
+    368 1	Hot spring
+      3 1	Hot spring_55deg
+      1 1	Hot spring_65deg
+      1 1	Hot spring_98deg
+     73 1	Hot springs
+      1 1	Hot summers
+     16 1	Hot tub
+     11 1	Hot water
+      3 1	Hotspring
+      6 1	hot
+      1 1	hot region
+      1 1	hot spings
+   2667 1	hot spring
+   1020 1	hot springs
+      2 1	hot stream
+      1 1	hot underground
+     16 1	hot water
+     12 1	hotspring
+     24 1	hotspring water
+      1 1	photoferrotrophic enrichment
+      2 1	phototrophic microbial
+     15 2	Hot spring
+      5 2	hot spring
+      1 2	hot springs
+      1 2	hot water
+      2 3	hot spring
+      1 4	hot spring
+      1 60C phototrophic microbial
+      1 Altinsu hot spring
+      1 BY HOT CASE
+      4 Building hot water
+      3 C hot spring
+      1 Caliente Hot Spring
+     11 Chlorohelix allophototropha enrichment
+      1 Chlorohelix allophototropha from
+      3 Creek Hot Spring
+      3 Creek Hot Springs
+     11 Creek hot spring
+      2 Domestic hot water
+      1 Dukgu Hot Spring
+      1 Freshwater hot spring
+      1 Garga hot spring
+      1 Garga hotspring sediments
+      1 Geothermal hot spring
+      1 Gongxiaoshe hot spring
+      1 Gongxiaosohe hot spring
+      1 Hehua hot spring
+     71 Hospital hot water
+      2 Hot water
+      1 Jinze hot Spring
+      2 Jinze hot spring
+      1 Kaskadny hot spring
+    129 Katase hot spring
+      1 Kozakli hot spring
+      1 Mageumsan hot spring
+      2 Manikaran Hot Spring
+      1 Manikaran Hot Springs
+      1 Manza hot spring
+      1 Medano hot spring
+      3 Mungang Hot spring
+      2 Nakabusa Hotspring
+      1 Nakabusa hot spring
+      1 Nakabusa hotspring
+      1 Neungam Hot spring
+      1 Obsidian Hot Spring
+      1 Octopus hot springs
+      1 Pinkerton hot spring
+      1 Pot Hot Spring
+      1 Qarvajar hot spring
+     13 Residence hot water
+      1 Saline hot spring
+      5 School hot water
+      1 Seokmodo hot spring
+     21 Slim Hot Spring
+      1 Subsurface hot aquifer
+      1 TRAVEL HOT CASE
+      1 Terrestrial hot spring
+      1 Vicente hot spring
+      2 Zeytindali hot spring
+     10 a hot spring
+      2 a hot water
+      5 acid hot spring
+     20 acidic hot spring
+    507 alkaline hot spring
+      1 anaerobic hot sediment
+      1 and hot river
+      1 and hotspring water
+      2 borax hot spring
+      1 celcius phototrophic mat
+      4 coastal hot spring
+      2 deep hot aquifer
+      3 degree phototrophic mat
+      1 eat hot links
+      1 extra hot mixture
+      1 freshwater hot spring
+      2 from hot area
+      1 from hot lake
+     69 from hot spring
+    375 from hot springs
+      1 from hot vent
+      7 from hot water
+      1 garlic hot link
+     11 geothermal hot spring
+      1 geothermal hotspring
+      1 hot river
+      5 hot spring
+     39 hot water
+      1 in Hot Lake
+      4 in hot spring
+      3 intertidal hot spring
+      2 marine hot spring
+      2 moderate hot spring
+     37 multilayer hot spring
+      1 near hot spring
+      1 near hot water
+     13 neutral hot spring
+      1 of Hot Spring
+      1 of hot climate
+      1 of hot sediments
+     65 of hot spring
+     38 of hot tap
+      3 of hot water
+      1 of hot well
+      1 offshore hot spring
+     66 outdoor hot spring
+      1 outdoor hot tub
+     80 photo
+      1 phototrophic microbial
+      1 pinnacle phototroph mat
+      1 radioactive hot spring
+    324 rich hot spring
+      1 s Hot Spring
+      1 s hot spring
+      1 sea hot vent
+      1 sediment hot spring
+     10 siliceous hot spring
+      6 silicious hot spring
+      1 submarine hot sandy
+      1 submarine hot spring
+      1 subsurface hot aquifer
+      9 sulfidic hot spring
+      1 tah hot spring
+      1 tassajara hot spring
+      1 terrestrial hot aquifer
+    385 terrestrial hot spring
+      1 the HOT
+     39 the hot spring
+      1 the hot springs
+      1 the hot well
+      2 the phototrophic plate
+      1 to hot springs
+      1 volcanic hot spring
+      2 water hot spring
+
+5) boil:
+      1 1	BOIL
+      2 1	Boil
+      7 1	Boiler
+      1 1	Boiling beach
+      2 1	Boils of
+      2 1	boil
+      1 1	boiled small
+      1 3	Boil Drainage
+      1 Great Boiling Spring
+
+6) oilfield:
+      2 1	Oilfield
+      3 1	oilfield
+      1 1	oilfield produced
+      1 1	oilfield well
+      2 18_Jiangsu_Oilfield
+      3 5_Jiangsu_Oilfield
+      1 Binagady oilfield
+      1 Changqing oilfield wastewater
+      2 Cheremukhovskoe oilfield
+      1 Niibori oilfield
+      1 Romashkinskoe oilfield
+      2 Shengli Oilfield
+      2 Shengli oilfield
+     90 Shengli oilfield at
+      1 Uzen oilfield
+      1 an oilfield
+      3 from oilfield
+      1 in oilfield
+      1 of oilfield produced
+     10 oilfield
+      1 oilfield outline
+      1 produced oilfield water
+      1 temperature oilfield
+      1 water oilfields
+
+7) oil reservoir:
+      9 1	Oil reservoir production
+     11 1	oil reservoir
+      2 1	oil reservoir free
+      1 1	oil reservoir of
+      1 1	oil reservoir production
+     58 1	oil reservoir sample
+      1 1	oil reservoir soil
+      1 1	oil reservoir water
+      1 1	soil reservoir
+      1 2	Oil reservoir
+      1 2	oil reservoir produced
+      3 Albertan oil reservoir
+      1 Baolige oil reservoir
+      1 Daejeon Oil reservoir
+      2 Dagang oil reservoir Sewage
+      2 an oil reservoir
+      1 an oil reservoir tank
+      1 deep oil reservoir
+      9 from oil reservoir
+      1 from oil reservoir A2
+      1 from oil reservoir B6
+      1 from oil reservoir B7
+      1 from oil reservoir B9
+      1 from oil reservoirfree water
+      1 onshore oil reservoir at
+      1 petroleum oil reservoir
+      4 subsurface oil reservoir
+
+8) solfataric:
+      1 1	Solfataric soil
+      1 1	solfataric muds
+      1 1	solfataric soil
+      1 a solfataric field
+      1 continental solfataric spring
+      1 solfataric soil
+
+9) steam vent:
+      1 from steam vent
+
+10) Richmond Mine:
+      3 1	Richmond Mine AB20
+      3 1	Richmond Mine ABmuck
+      2 1	Richmond Mine C10
+     12 1	Richmond Mine C75
+      1 1	Richmond mine
+      5 the Richmond Mine at
+
+11) high-temperature:
+      2 1	High-temperature Daqu
+      2 1	High-temperature daqu
+      2 1	high-temperature Daqu
+      2 1	high-temperature compost
+      1 1	high-temperature oilfield
+
+12) high temperature:
+      1 1	High temperature acidic
+      1 1	high temperature Daqu
+      1 1	high temperature acidic
+      1 1	high temperature stage
+      2 Extreme high temperature habitat
+      1 at high temperature
+      8 high temperature
+      5 high temperature high
+      3 high temperature low
+      8 microbiome high temperature
+      1 soil high temperatures around
+      1 with high temperature around
+

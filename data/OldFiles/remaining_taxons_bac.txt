@@ -1,0 +1,57 @@
+g__Methanopyrus
+g__Hydrogenobaculum
+p__Aquificota
+g__Thermocrinis
+g__Sulfurihydrogenibium
+g__Synechococcus
+g__Leptococcus
+g__Thermostichus
+g__Gloeomargarita
+f__Neosynechococcaceae
+f__Pseudanabaenaceae
+f__Methylothermaceae
+s__Aquifex aeolicus
+g__Clostridium bifermentans
+s__Bacillus licheniformis
+s__Bacillus megaterium
+s__Bacillus sporothermodurans
+g__Hydrogenobacter
+s__Thermus thermophilus
+s__Thermus brockianus
+s__Clostridium bifermentans
+s__Clostridium lituseburense
+s__Opitutus terrae
+s__Rhodococcus erythropolis
+s__Cellovibrio mixtus
+s__Chroococcus yellowstonesis
+g__Synechococcus
+s__Oscillatoria jasorvensis
+s__Oscillatoria filiforms 
+s__Oscillatoria tenus
+s__Phormidium laminosus
+s__Mastigocladus laminosus
+s__Lyngbya nigra
+g__Paenibacillus
+g__Fervidobacterium
+g__Rhodothermus
+g__Thermoanaerobacter
+s__Desulfacinum infernum
+s__Desulfacinum hydrothermale
+s__Thermodesulforhabdus norvegica
+g__Phormidium
+g__Calothrixor
+g__Thermus aquaticus
+g__Thermodesulfobacterium
+s__Dictyoglomus thermophilum
+s__Thermotoga maritima
+g__Acidithiobacillus
+c__Acidimicrobium
+g__Sulfobacillus
+g__Nitrospina
+g__Nitrospira
+s__Bacillus subtilis
+s__Bacillus stearothermophilus
+s__Bacillus licheniformis
+s__Bacillus amyloliquefaciens
+s__Anoxybacillus flavithermus
+s__Rhodothermus marinus

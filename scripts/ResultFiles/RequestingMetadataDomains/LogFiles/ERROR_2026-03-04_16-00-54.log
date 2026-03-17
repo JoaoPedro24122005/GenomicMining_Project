@@ -1,0 +1,49 @@
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 2014-08-07
+Released after: 2014-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 2019-05-26
+Released after: 2019-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 2019-08-07
+Released after: 2019-05-27
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 2023-05-26
+Released after: 2023-03-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 2023-10-19
+Released after: 2023-08-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 2024-12-31
+Released after: 2024-10-19
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 
+Released after: 2026-01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------

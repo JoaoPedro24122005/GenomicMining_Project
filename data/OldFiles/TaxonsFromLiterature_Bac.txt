@@ -1,0 +1,91 @@
+Taxon	Name
+Family	Methylothermaceae
+Family	Neosynechococcaceae
+Family	Pseudanabaenaceae
+Genus	Acidimicrobium
+Genus	Acidithiobacillus
+Genus	Thermaerobacter
+Genus	Anaerobranca
+Genus	Anoxybacillus
+Genus	Aquifex
+Genus	Ardenticatena
+Genus	Azoarcus
+Genus	Brevibacillus
+Genus	Caldalkalibacillus
+Genus	Caldicellulosiruptor
+Genus	Caldimicrobium
+Genus	Caldimonas
+Genus	Caloramator
+Genus	Calothrix
+Genus	Carboxydibrachium
+Genus	Carboxydothermus
+Genus	Chloroflexus
+Genus	Clostridium
+Genus	Cyanidium
+Genus	Deinococcus
+Genus	Desulfacinum
+Genus	Desulfotomaculum
+Genus	Desulfovibrio
+Genus	Dictyoglomus
+Genus	Fervidobacterium
+Genus	Galdieria
+Genus	Geobacillus
+Genus	Geothermobacterium
+Genus	Gloeomargarita
+Genus	Hydrogenobacter
+Genus	Hydrogenobaculum
+Genus	Peptococcus
+Genus	Lyngbya
+Genus	Mastigocladus
+Genus	Meiothermus
+Genus	Methanopyrus
+Genus	Nitrolancea
+Genus	Nitrospina
+Genus	Nitrospira
+Genus	Oscillatoria
+Genus	Paenibacillus
+Genus	Phormidium
+Genus	Rhodothermus
+Genus	Roseiflexus
+Genus	Sphaerobacter
+Genus	Sulfobacillus
+Genus	Sulfurihydrogenibium
+Genus	Synechococcus
+Genus	Thermoactinospora
+Genus	Thermoanaerobacter
+Genus	Thermobifida
+Genus	Thermocrinis
+Genus	Thermodesulfobacterium
+Genus	Thermomicrobium
+Genus	Thermopolyspora
+Genus	Thermorudis
+Genus	Thermostichus
+Genus	Thermosynechococcus
+Genus	Thermotoga
+Genus	Thermotogota
+Genus	Thermus
+Phylum	Candidatus Aminicenantota
+Phylum	Aquificae
+Phylum	Aquificota
+Phylum	Atribacteria
+Phylum	Bacteroidetes
+Phylum	Chlamydiae
+Phylum	Chloroflexi
+Phylum	Deinococcus-Thermus
+Phylum	Dictyoglomi
+Phylum	Firmicutes
+Phylum	Candidatus Omnitrophota
+Phylum	Planctomycetes
+Phylum	Thermodesulfobacteria
+Phylum	Thermotogae
+Species	Bacillus amyloliquefaciens
+Species	Bacillus licheniformis
+Species	Bacillus megaterium
+Species	Bacillus sporothermodurans
+Species	Bacillus stearothermophilus
+Species	Bacillus subtilis
+Species	Cellvibrio mixtus
+Species	Metallosphaera yellowstonensis
+Species	Fischerella thermalis
+Species	Opitutus terrae
+Species	Thermodesulforhabdus norvegica

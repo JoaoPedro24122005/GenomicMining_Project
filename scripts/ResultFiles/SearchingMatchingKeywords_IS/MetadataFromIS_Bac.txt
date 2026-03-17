@@ -1,0 +1,3579 @@
+Words that containing the pattern
+1) therm:
+     93 Geothermal
+      1 Geothermally
+      1 Heliothermal
+    735 Hydrothermal
+      7 Thermal
+      1 Thermally
+      1 Thermodesulfobacterium
+      8 Thermophilic
+      1 Vapotherm
+      6 feathermoss
+     95 geothermal
+     25 geothermally
+  10471 hydrothermal
+      1 hyperthermal
+     26 hyperthermophilic
+      1 hypothermal
+    143 thermal
+      2 thermally
+      1 thermised
+      3 thermized
+      1 thermocellum
+      1 thermokarst
+      2 thermometer
+    605 thermophilic
+      1 thermophilum
+      1 thermosaccharolyticum
+     19 thermostatic
+
+2) hydrothermal:
+    735 Hydrothermal
+  10471 hydrothermal
+
+3) geo:
+    266 Geodia
+      1 Geogeum
+      1 Geological
+      1 Geomnyoung
+      1 George
+      1 Georges
+      6 Georgia
+     93 Geothermal
+      1 Geothermally
+      1 Geotrupidae
+      9 Makgeolli
+      1 Makgeollli
+     45 Pigeon
+      2 Pigeons
+      2 Sturgeon
+      2 geocarposphere
+    112 geodioides
+      1 geoduck
+      1 geographic
+      3 geographical
+      1 geologic
+      1 geological
+     17 georgia
+     95 geothermal
+     25 geothermally
+      1 geotjeori
+      2 makgeolli
+      1 ojingeojeot
+     50 pigeon
+      2 pigeonpea
+     15 pigeons
+      3 sturgeon
+      5 widgeon
+
+4) volcan:
+     10 Volcanic
+      2 Volcano
+    404 volcanic
+    433 volcano
+      1 volcanoes
+
+5) sulf:
+      2 Acesulfame
+      1 Biodesulfurization
+     60 Sulfate
+     16 Sulfide
+      2 Sulfidic
+      1 Sulfonamide
+      2 Sulfur
+      2 Sulfuricella
+      1 Thermodesulfobacterium
+     86 acesulfame
+      1 disulfide
+      5 sulfadiazine
+    259 sulfate
+    728 sulfide
+      1 sulfides
+    418 sulfidic
+      1 sulfincola
+      1 sulfite
+      1 sulfitsidny
+      1 sulfolane
+      2 sulfonamide
+     93 sulfoquinovose
+     59 sulfur
+     15 thiosulfate
+
+6) vent:
+      1 Adventitious
+      1 Atrioventricular
+      1 Caudoventral
+      1 Chlorosolvent
+     69 Conventional
+      1 Event
+      1 Niviventer
+      1 Preventive
+    134 Vent
+      3 Ventana
+      2 Ventilago
+      1 Ventilation
+     86 Ventilator
+      1 Ventilator_NA_BU13
+      1 Ventilator_NA_BU21
+      1 Ventilator_NA_BU6
+      1 Ventilator_P101_BU13
+      3 Ventilator_P101_BU22
+      1 Ventilator_P113_BU23
+      1 Ventilator_P113_BU6
+      1 Ventilator_P115_BU5
+      1 Ventilator_P125_BU10
+      1 Ventilator_P132_BU20
+      1 Ventilator_P138_BU17
+      1 Ventilator_P139_BU23
+      1 Ventilator_P13_BU21
+      1 Ventilator_P14_BU15
+      1 Ventilator_P19_BU18
+      3 Ventilator_P19_BU20
+      2 Ventilator_P1_BU24
+      1 Ventilator_P21_BU22
+      3 Ventilator_P22_BU23
+      2 Ventilator_P23_BU25
+      1 Ventilator_P24_BU26
+      3 Ventilator_P25_BU27
+      6 Ventilator_P26_BU28
+      1 Ventilator_P27_BU18
+      1 Ventilator_P29_BU6
+      6 Ventilator_P2_BU1
+      1 Ventilator_P33_BU16
+      1 Ventilator_P33_BU24
+      2 Ventilator_P37_BU4
+      1 Ventilator_P42_BU15
+      1 Ventilator_P46_BU24
+      1 Ventilator_P47_BU17
+      1 Ventilator_P49_BU12
+      2 Ventilator_P4_BU3
+      1 Ventilator_P50_BU20
+      2 Ventilator_P50_BU7
+      1 Ventilator_P51_BU14
+      1 Ventilator_P53_BU18
+      1 Ventilator_P54_BU19
+      1 Ventilator_P56_BU5
+      1 Ventilator_P57_BU19
+      1 Ventilator_P6_BU5
+      2 Ventilator_P6_BU8
+      1 Ventilator_P77_BU25
+      1 Ventilator_P7_BU6
+      2 Ventilator_P87_BU8
+      1 Ventilator_P8_BU9
+      5 Ventilator_P91_BU9
+      2 Ventilator_P96_BU15
+      1 Ventilator_P97_BU24
+     16 Ventral
+      4 Ventricular
+      6 conventional
+    153 event
+      4 intervention
+     15 nudiventris
+      2 solvents
+   6301 vent
+      7 ventilabrum
+      1 ventilated
+     12 ventilation
+    386 ventilator
+     59 ventilators
+      3 venting
+      4 ventral
+      5 ventralis
+     13 ventricle
+     23 ventricosa
+      6 ventricular
+      1 ventriculus
+      1 ventrikel
+     14 vents
+
+7) spring:
+      5 Hotspring
+      1 Offspring
+    120 Spring
+     17 Springs
+     40 hotspring
+      4 klipspringer
+   5812 spring
+      3 spring_55deg
+      1 spring_65deg
+      1 spring_98deg
+   1479 springs
+      1 springwater
+
+8) smoker:
+      1 PROSMOKER
+      3 SMOKER
+      2 Smoker
+    228 smoker
+
+9) deep:
+      8 DEEP
+    260 Deep
+      2 Deepsea
+      9 Deepwater
+   5144 deep
+      1 deepest
+     72 deeply
+    176 deepsea
+
+10) hyper:
+      2 Hyper
+      1 HyperDolphin
+      1 Hyperarid
+      1 Hypericum
+    305 Hypersaline
+      5 hyper
+      1 hyperalkaline
+     89 hyperarid
+      1 hyperellipseal
+      1 hyperhaline
+      2 hypermarket
+   2293 hypersaline
+      1 hypertension
+      1 hyperthermal
+     26 hyperthermophilic
+      1 hypertrophic
+
+11) hot:
+      1 Bathroom_Sink_Hot
+      1 BunkBedBath_Showerhead_Hot
+      2 Chott
+      1 DownstairsMasterBath_Sink_Left_Hot
+    170 HOT
+      5 HOT5
+    545 Hot
+     16 Hotbed
+      5 Hotel
+      5 Hotspring
+     20 Macrognathotermes
+      1 Moechotypa
+      1 Nephotettix
+      1 Photobioreactor
+      1 Ramphotyphlops
+     12 allophototropha
+      1 dichotoma
+      5 euphotic
+      2 gunshot
+   6148 hot
+      1 hotel
+      1 hothouse
+     40 hotspring
+     20 morphotype
+      1 morphotypes
+     31 photo
+      1 photobiont
+      1 photoferrotrophic
+      1 phototroph
+      9 phototrophic
+      4 shotgun
+
+12) boil:
+      1 BOIL
+      5 Boil
+     16 Boiled
+      7 Boiler
+      5 Boiling
+      2 Boils
+      2 boil
+     29 boiled
+
+13) oil:
+      2 18_Jiangsu_Oilfield
+      3 5_Jiangsu_Oilfield
+      1 BOIL
+      5 Boil
+     16 Boiled
+      7 Boiler
+      5 Boiling
+      2 Boils
+   1006 Broiler
+     25 Broiler_chickens
+    200 Broilers
+      5 Environmental_toilet
+      2 Manoil
+    186 Odocoileus
+    206 Oil
+      1 Oild
+      4 Oilfield
+      1 Oils
+      2 Oilseed
+      3 Oily
+      1 Putidoil
+   3077 Soil
+      1 Soil_113
+      1 Soil_16
+      1 Soil_18
+      1 Soil_20
+      1 Soil_24
+      1 Soil_5
+      1 Soil_9
+      1 Soil_D1D
+      1 Soil_D1E
+      1 Soil_D2C
+      1 Soil_D3B
+      1 Soil_D3C
+      1 Soil_D3D
+      1 Soil_D3E
+      1 Soil_D4C
+      1 Soil_D5C
+      1 Soil_D5D
+      1 Soil_M1C1
+      1 Soil_M1D1
+      1 Soil_M2B2
+      1 Soil_M5B1
+      1 Soiled
+      4 Soils
+      1 Spoilage
+      8 Spoiled
+     95 Toilet
+      7 Toilette
+      3 Topsoil
+      2 boil
+     29 boiled
+      8 broiled
+   1963 broiler
+     82 broilers
+      1 foiling
+      1 landsoil
+      1 moilla
+    958 oil
+    123 oilfield
+      1 oilfields
+      7 oils
+      2 oilsands
+      6 oilseed
+      1 oilseeds
+      9 oily
+      1 rhizosoil
+      4 shoil
+  67322 soil
+      1 soil1
+      1 soil2
+      2 soild
+      1 soilless
+     71 soils
+      4 spoil
+     10 spoilage
+     65 spoiled
+      1 spoils
+      1 subsoil
+     13 tinfoil
+    120 toilet
+      1 toilets
+    579 topsoil
+
+14) mine:
+     10 Glutamine
+      2 Jasmine
+      1 Luminescent
+    442 Mine
+      7 Miner
+      7 Mineral
+      2 Mines
+      1 Takamine
+      1 Triamine
+      1 Undetermined
+      2 abdomine
+      2 amine
+      1 catamine
+      1 contaimined
+      3 contamined
+      1 contaminent
+      4 detemined
+     29 determined
+      3 examined
+      1 gramineae
+      5 hydroxylamine
+      1 jasmine
+      1 melamine
+   4986 mine
+      5 miner
+    494 mineral
+      4 mineralization
+      1 mineralized
+      1 mineralizing
+      4 minerals
+      7 miners
+      5 mines
+      2 minestrone
+      1 organomineral
+      2 polyamine
+     39 triamine
+     76 trimethylamine
+
+15) high-temp:
+      4 High-temperature
+      5 high-temperature
+
+16) high temp:
+      1 High temperature
+     20 high temperature
+      1 high temperatures
+
+Words neighboring the pattern
+1) therm:
+      2 1	Geothermal Isolate
+     13 1	Geothermal channel
+      3 1	Geothermal chimney
+      2 1	Geothermal drilling
+      2 1	Geothermal fluids
+     61 1	Geothermal fumarole
+      1 1	Geothermal hot
+      1 1	Geothermal pool
+      6 1	Geothermal soil
+      1 1	Geothermal spring
+      1 1	Geothermal system
+      1 1	Geothermally heated
+    135 1	Hydrothermal Plume
+      1 1	Hydrothermal Systems
+      1 1	Hydrothermal area
+      1 1	Hydrothermal chimney
+      1 1	Hydrothermal deposits
+      1 1	Hydrothermal fluid
+      1 1	Hydrothermal marine
+      1 1	Hydrothermal plume
+     36 1	Hydrothermal sediment
+    285 1	Hydrothermal vent
+      5 1	Hydrothermal vents
+      1 1	Thermal Water
+      1 1	Thermal spa
+      2 1	Thermal spring
+      2 1	Thermal springs
+      1 1	Thermal vent
+      1 1	Thermally altered
+      6 1	Thermophilic and
+      1 1	Thermophilic compost
+      1 1	Thermophilic stage
+      1 1	Vapotherm
+      1 1	geothermal area
+      2 1	geothermal field
+      1 1	geothermal heated
+      2 1	geothermal hot
+      1 1	geothermal hotspring
+      5 1	geothermal lake
+      1 1	geothermal soil
+     11 1	geothermal spring
+     43 1	geothermal water
+     20 1	geothermally
+      5 1	geothermally heated
+      2 1	hydrothermal
+      1 1	hydrothermal area
+      1 1	hydrothermal chimney
+      1 1	hydrothermal explosion
+      1 1	hydrothermal field
+     28 1	hydrothermal fluid
+      1 1	hydrothermal fluids
+    155 1	hydrothermal plume
+      1 1	hydrothermal plumes
+      2 1	hydrothermal precipitate
+      3 1	hydrothermal sediment
+     16 1	hydrothermal sediments
+      2 1	hydrothermal sulfide
+      1 1	hydrothermal sulfides
+      1 1	hydrothermal system
+   1529 1	hydrothermal vent
+      1 1	hydrothermal water
+     25 1	hyperthermophilic anaerobic
+      1 1	hyperthermophilic compost
+      1 1	thermal brine
+      1 1	thermal lignite
+      1 1	thermal mud
+      1 1	thermal power
+      1 1	thermal saline
+      3 1	thermal spring
+      1 1	thermal sulfide
+      2 1	thermal sulfidic
+      8 1	thermal water
+      1 1	thermally polluted
+      1 1	thermally treated
+      3 1	thermized milk
+      1 1	thermometer
+      1 1	thermophilic
+    501 1	thermophilic anaerobic
+      1 1	thermophilic bioreactor
+      2 1	thermophilic environment
+      1 1	thermophilic hydrogen
+      1 1	thermophilic industrial
+      2 1	thermophilic methanogenic
+      2 1	thermophilic microbial
+     17 1	thermophilic sediment
+      1 2	thermal spring
+     32 Abe hydrothermal plume
+      1 Ashadze hydrothermal field
+    142 Basin Hydrothermal plume
+     27 Beebe hydrothermal vent
+      1 Clostridium thermocellum strain
+      1 Clostridium thermosaccharolyticum
+      1 Coastal hydrothermal field
+      7 Damm hydrothermal vent
+      1 Daxi hydrothermal vents
+      2 Deepsea hydrothermal sediments
+     57 Dilute Hydrothermal Plume
+      1 Fuca hydrothermal vents
+      1 Garga thermal spring
+      1 Hacchoubaru geothermal plant
+      1 Heliothermal and
+      1 Kairei Hydrothermal Field
+      1 Kopia geothermal system
+     20 Malila hydrothermal plume
+      1 Mariner hydrothermal field
+     27 Mariner hydrothermal plume
+     63 Moana Hydrothermal plume
+      1 North hydrothermal field
+     25 Okinawa hydrothermal vent
+      1 Posay thermal water
+      2 Prony Hydrothermal Field
+      1 Puga geothermal geyser
+      2 Sea Hydrothermal Sediment
+      1 Sea hydrothermal vent
+      1 Steinernema thermophilum collected
+      1 Submarine hydrothermal system
+      2 Tianxiu hydrothermal vents
+      1 Trough hydrothermal field
+      1 Wairakei geothermal system
+      3 ZCTH01 thermophilic microbial
+      1 a Thermodesulfobacterium species
+      3 a geothermal spring
+      2 a hydrothermal vent
+      1 a hyperthermal composting
+      1 a thermal lake
+      2 a thermal pond
+     57 a thermal stream
+      2 a thermal water
+      1 a thermokarst depression
+      1 a thermophilic anaerobic
+      1 acidic geothermal sediment
+     14 acidic hydrothermal system
+      1 active hydrothermal vent
+      1 active hydrothermal white
+      1 adjacent thermometer monitoring
+      2 after thermal Shock
+      1 and hydrothermal fluid
+      1 at geothermal hot
+      2 buoyant hydrothermal plumes
+      1 by thermal digestion
+     60 castle hydrothermal vent
+      1 coastal hydrothermal field
+      1 deep thermal groundwater
+    149 deepsea hydrothermal sulfide
+      1 freshwater thermal spring
+      2 from geothermal area
+      1 from geothermal hot
+      3 from geothermal system
+      1 from hydrothermal area
+      1 from hydrothermal environment
+      1 from hydrothermal field
+      4 from hydrothermal plume
+    277 from hydrothermal sediment
+    503 from hydrothermal vent
+      1 from hypothermal vent
+      1 from thermal spring
+      1 geothermal pool
+      1 gravity hydrothermal and
+    114 hydrothermal vent
+      1 in geothermal field
+      3 in hydrothermal vent
+     17 in thermophilic enrichment
+     12 lacustrine hydrothermal vent
+      1 marine hydrothermal area
+    161 marine hydrothermal chimney
+      1 marine hydrothermal environment
+    324 marine hydrothermal sediment
+    442 marine hydrothermal sulfide
+   3103 marine hydrothermal vent
+      2 near hydrothermal vent
+      1 near hydrothermal vents
+      1 near thermal bath
+      2 neutral geothermal spring
+      2 ocean hydrothermal vent
+      1 of hydrothermal vent
+      1 of thermal pool
+      1 of thermal power
+      1 radioactive thermal spring
+      7 rich geothermal hot
+      4 sea hydrothermal chimney
+   2894 sea hydrothermal deposit
+      3 sea hydrothermal field
+      1 sea hydrothermal plume
+      2 sea hydrothermal sediment
+      2 sea hydrothermal sediments
+     11 sea hydrothermal sulfide
+    440 sea hydrothermal vent
+      4 sea hydrothermal vents
+      1 sea thermal vent
+      1 subsurface geothermal aquifer
+      1 subsurface geothermal water
+      6 subsurface thermal aquifer
+      1 terrestrial hydrothermal spring
+      6 the feathermoss
+      1 the hydrothermal annelid
+      4 the hydrothermal vent
+     26 thermal hydrolysis
+      3 thermal spring
+      1 thermophilic
+      1 thermophilic UASB
+     54 thermophilic anaerobic
+     19 to thermostatic mixing
+     12 under thermal stress
+     19 underground hydrothermal spring
+      1 underground thermal mineral
+      1 venting hydrothermal chimney
+      1 venting hydrothermal sulfidic
+      1 with thermised milk
+
+2) hydrothermal:
+    135 1	Hydrothermal Plume
+      1 1	Hydrothermal Systems
+      1 1	Hydrothermal area
+      1 1	Hydrothermal chimney
+      1 1	Hydrothermal deposits
+      1 1	Hydrothermal fluid
+      1 1	Hydrothermal marine
+      1 1	Hydrothermal plume
+     36 1	Hydrothermal sediment
+    285 1	Hydrothermal vent
+      5 1	Hydrothermal vents
+      2 1	hydrothermal
+      1 1	hydrothermal area
+      1 1	hydrothermal chimney
+      1 1	hydrothermal explosion
+      1 1	hydrothermal field
+     28 1	hydrothermal fluid
+      1 1	hydrothermal fluids
+    155 1	hydrothermal plume
+      1 1	hydrothermal plumes
+      2 1	hydrothermal precipitate
+      3 1	hydrothermal sediment
+     16 1	hydrothermal sediments
+      2 1	hydrothermal sulfide
+      1 1	hydrothermal sulfides
+      1 1	hydrothermal system
+   1529 1	hydrothermal vent
+      1 1	hydrothermal water
+     32 Abe hydrothermal plume
+      1 Ashadze hydrothermal field
+    142 Basin Hydrothermal plume
+     27 Beebe hydrothermal vent
+      1 Coastal hydrothermal field
+      7 Damm hydrothermal vent
+      1 Daxi hydrothermal vents
+      2 Deepsea hydrothermal sediments
+     57 Dilute Hydrothermal Plume
+      1 Fuca hydrothermal vents
+      1 Kairei Hydrothermal Field
+     20 Malila hydrothermal plume
+      1 Mariner hydrothermal field
+     27 Mariner hydrothermal plume
+     63 Moana Hydrothermal plume
+      1 North hydrothermal field
+     25 Okinawa hydrothermal vent
+      2 Prony Hydrothermal Field
+      2 Sea Hydrothermal Sediment
+      1 Sea hydrothermal vent
+      1 Submarine hydrothermal system
+      2 Tianxiu hydrothermal vents
+      1 Trough hydrothermal field
+      2 a hydrothermal vent
+     14 acidic hydrothermal system
+      1 active hydrothermal vent
+      1 active hydrothermal white
+      1 and hydrothermal fluid
+      2 buoyant hydrothermal plumes
+     60 castle hydrothermal vent
+      1 coastal hydrothermal field
+    149 deepsea hydrothermal sulfide
+      1 from hydrothermal area
+      1 from hydrothermal environment
+      1 from hydrothermal field
+      4 from hydrothermal plume
+    277 from hydrothermal sediment
+    503 from hydrothermal vent
+      1 gravity hydrothermal and
+    114 hydrothermal vent
+      3 in hydrothermal vent
+     12 lacustrine hydrothermal vent
+      1 marine hydrothermal area
+    161 marine hydrothermal chimney
+      1 marine hydrothermal environment
+    324 marine hydrothermal sediment
+    442 marine hydrothermal sulfide
+   3103 marine hydrothermal vent
+      2 near hydrothermal vent
+      1 near hydrothermal vents
+      2 ocean hydrothermal vent
+      1 of hydrothermal vent
+      4 sea hydrothermal chimney
+   2894 sea hydrothermal deposit
+      3 sea hydrothermal field
+      1 sea hydrothermal plume
+      2 sea hydrothermal sediment
+      2 sea hydrothermal sediments
+     11 sea hydrothermal sulfide
+    440 sea hydrothermal vent
+      4 sea hydrothermal vents
+      1 terrestrial hydrothermal spring
+      1 the hydrothermal annelid
+      4 the hydrothermal vent
+     19 underground hydrothermal spring
+      1 venting hydrothermal chimney
+      1 venting hydrothermal sulfidic
+
+3) geo:
+      1 1	Geological bay
+      1 1	Geomnyoung pond
+      4 1	Georgia
+      2 1	Geothermal Isolate
+     13 1	Geothermal channel
+      3 1	Geothermal chimney
+      2 1	Geothermal drilling
+      2 1	Geothermal fluids
+     61 1	Geothermal fumarole
+      1 1	Geothermal hot
+      1 1	Geothermal pool
+      6 1	Geothermal soil
+      1 1	Geothermal spring
+      1 1	Geothermal system
+      1 1	Geothermally heated
+      1 1	Geotrupidae
+      8 1	Makgeolli
+      1 1	Makgeollli
+     24 1	Pigeon
+      2 1	Pigeon Fecal
+     10 1	Pigeon Six
+      7 1	Pigeon feces
+      2 1	Pigeons droppings
+      1 1	Sturgeon
+      1 1	Sturgeon intestine
+      1 1	geologic
+     17 1	georgia coast
+      1 1	geothermal area
+      2 1	geothermal field
+      1 1	geothermal heated
+      2 1	geothermal hot
+      1 1	geothermal hotspring
+      5 1	geothermal lake
+      1 1	geothermal soil
+     11 1	geothermal spring
+     43 1	geothermal water
+     20 1	geothermally
+      5 1	geothermally heated
+      2 1	makgeolli
+     16 1	pigeon
+      3 1	pigeon farm
+     12 1	pigeon feces
+      1 1	pigeon liver
+      1 1	pigeon manure
+      1 1	pigeon necropsy
+      1 1	pigeon pea
+      1 1	pigeon stool
+     13 1	pigeons
+      2 2	pigeonpea root
+      1 2	pigeons
+    112 Calthropella geodioides
+      1 Fresh pigeons
+     97 Geodia hentscheli
+     31 Geodia macandrewii
+     61 Geodia parva
+     77 Geodia phlegraei
+      1 Georges Hall
+      1 Hacchoubaru geothermal plant
+      1 Jeju Makgeolli
+      1 King George Island
+      1 Kopia geothermal system
+      2 Pigeon
+      1 Puga geothermal geyser
+      1 Wairakei geothermal system
+      3 a geothermal spring
+      1 a sturgeon hatchery
+      1 acidic geothermal sediment
+      1 and geocarposphere soil
+      1 as geological storage
+      1 at Georgia State
+      1 at geothermal hot
+      8 brain pigeon
+      1 cabbage geotjeori
+      1 domestic pigeon from
+      1 feces pigeon
+      2 from geothermal area
+      1 from geothermal hot
+      3 from geothermal system
+      1 geocarposphere of
+      1 geothermal pool
+      1 hybrid sturgeon
+      1 in Geogeum Island
+      1 in geothermal field
+      1 local geographic source
+      2 local geographical food
+      1 local geographical source
+      1 meat pigeon with
+      2 neutral geothermal spring
+      1 of Georgia
+      1 ojingeojeot
+      1 pigeon
+      7 rich geothermal hot
+      1 sick geoduck seed
+      1 subsurface geothermal aquifer
+      1 subsurface geothermal water
+      1 urban pigeon
+      1 water sturgeon tank
+      5 widgeon
+      1 wood pigeon
+
+4) volcan:
+      1 1	Volcanic Lake
+      2 1	Volcanic Soil
+      1 1	Volcanic ash
+      2 1	Volcanic sediment
+      2 1	Volcanic soil
+      4 1	volcanic ash
+      1 1	volcanic hot
+      1 1	volcanic mountain
+      2 1	volcanic rock
+      5 1	volcanic soil
+      1 1	volcanic tuff
+      1 1	volcano lake
+      1 1	volcano soil
+      1 2	volcanic
+      1 Acidic volcanic ash
+      1 Axial Volcano
+      1 Kirishima Volcanic Belt
+      1 Mud Volcano region
+      1 Taupo Volcanic zone
+      1 Wudalianchi volcano
+      1 a volcanic area
+      1 a volcanic rock
+      1 active volcano
+      1 active volcano Socompa
+    374 and volcanic lakes
+     72 arc volcano
+      2 asphalt volcano Chapopote
+      1 cataclysmic volcano eruption
+      1 dormant volcanic soils
+      1 during volcanic eruption
+      3 extinct volcano
+      5 from volcanic crater
+      1 from volcanic rock
+      1 from volcanic soil
+      1 from volcano crater
+      1 frozen volcanic ash
+    240 mud volcano
+     54 mud volcano C13
+      1 mud volcano Karabetova
+      6 mud volcano site
+      1 mud volcano soil
+      1 mud volcanoes of
+      1 mus volcano
+      1 red volcanic soil
+     23 submarine volcano
+     23 submarine volcano off
+      1 volcanic ash
+
+5) sulf:
+      2 1	Acesulfame
+     60 1	Sulfate
+     10 1	Sulfide
+      5 1	Sulfide bearing
+      1 1	Sulfide chimneys
+      1 1	Sulfidic karst
+      1 1	Sulfidic spring
+      1 1	Sulfonamide
+      1 1	Sulfur enrichment
+      1 1	Sulfur rich
+      1 1	sulfate
+      3 1	sulfate amended
+      5 1	sulfate reducing
+      3 1	sulfide
+      3 1	sulfide chimney
+      2 1	sulfide from
+      1 1	sulfide minerals
+      1 1	sulfide of
+      1 1	sulfide sample
+      1 1	sulfide spring
+      1 1	sulfidic fissure
+      3 1	sulfidic hot
+      4 1	sulfidic marine
+      4 1	sulfidic water
+      1 1	sulfidic waters
+      1 1	sulfitsidny dirt
+      2 1	sulfonamide
+     24 1	sulfur
+      2 1	sulfur dynamo
+      2 1	sulfur spring
+      1 1	sulfur springs
+      1 2	sulfidic area
+     27 Acid sulfate soil
+     51 Ammonium sulfate bioreactor
+      3 Anaerobic acesulfame
+      2 Chimney sulfide
+      2 Chlorobia sulfide enrichment
+      2 Cristalli sulfidic cave
+      1 Haloalkaline Biodesulfurization bioreactor
+      1 Hydrogen sulfide spring
+      1 Paralvinella sulfincola
+      1 Roost sulfide chimney
+     30 Sea sulfidic water
+      1 Terme sulfidic cave
+      1 a Thermodesulfobacterium species
+      1 a sulfide mineral
+      1 a sulfite pulp
+      2 a sulfur
+      1 a sulfur copper
+      1 above sulfide containing
+      1 acidic sulfur spring
+      4 and sulfate
+      1 at sulfur stockpile
+      1 bacterial sulfur mat
+    162 biological sulfate
+      1 containing sulfide concentrate
+      1 containing sulfidic concentrate
+      1 contaminated sulfidic aquifer
+      1 degrading sulfate
+      1 dimethyl disulfide and
+      1 elemental sulfur
+    335 from sulfidic cave
+     12 from sulfidic groundwater
+      1 from sulfidic hot
+      1 from sulfur spring
+      3 green sulfur bacteria
+      1 hydrogen sulfide
+      1 hydrogen sulfide source
+      2 hydrogen sulfide spring
+      1 hydrogenotrophic sulfate
+      3 hydrothermal sulfide
+    149 hydrothermal sulfide chimney
+      8 hydrothermal sulfide from
+      1 hydrothermal sulfide of
+      1 hydrothermal sulfide sample
+    442 hydrothermal sulfide sediment
+      1 hydrothermal sulfides
+      1 hydrothermal sulfidic chimney
+      1 in sulfidic aquifier
+     10 in sulfidic groundwater
+     93 mM sulfoquinovose
+     29 massive sulfide deposits
+      2 metal sulfide rock
+      1 mineral sulfide spring
+      1 of sulfate
+      2 of sulfur
+      2 only Sulfuricella and
+     25 polymetallic sulfide from
+      1 removing sulfolane
+      1 saline sulfide
+      1 sea sulfide sample
+     35 seafloor sulfide deposits
+      1 sulfadiazine
+      1 sulfide
+      1 sulfide mineral
+      5 sulfidic hot
+     10 sulfur acidic
+      2 system sulfidic spring
+      1 the sulfide spring
+      1 thermal sulfide spring
+      2 thermal sulfidic spring
+     12 thiosulfate
+      3 under sulfate
+     83 using acesulfame as
+      1 vent sulfide chimney
+      4 with sulfadiazine comtamination
+      7 with sulfur
+      3 with thiosulfate
+
+6) vent:
+      1 1	Adventitious roots
+      1 1	Atrioventricular Valve
+      1 1	Caudoventral Abdomen
+      1 1	Chlorosolvent
+     62 1	Conventional activated
+      5 1	Conventional feed
+      2 1	Conventional poultry
+      1 1	Vent Surface
+      2 1	Ventilago sp
+      1 1	Ventilation duct
+     35 1	Ventilator
+      3 1	Ventilator Associated
+      2 1	Ventilator Swab
+      4 1	Ventilator condensate
+      1 1	Ventilator nose
+      1 1	Ventilator shelf_NA_BU12
+      1 1	Ventilator shelf_NA_BU21
+      1 1	Ventilator shelf_P101_BU13
+      2 1	Ventilator shelf_P101_BU22
+      1 1	Ventilator shelf_P107_BU12
+      1 1	Ventilator shelf_P108_BU14
+      1 1	Ventilator shelf_P115_BU5
+      1 1	Ventilator shelf_P130_BU23
+      1 1	Ventilator shelf_P131_BU4
+      1 1	Ventilator shelf_P132_BU20
+      1 1	Ventilator shelf_P19_BU18
+      1 1	Ventilator shelf_P19_BU20
+      2 1	Ventilator shelf_P1_BU24
+      2 1	Ventilator shelf_P22_BU23
+      1 1	Ventilator shelf_P23_BU25
+      2 1	Ventilator shelf_P26_BU28
+      1 1	Ventilator shelf_P27_BU18
+      1 1	Ventilator shelf_P2_BU1
+      1 1	Ventilator shelf_P34_BU17
+      1 1	Ventilator shelf_P35_BU19
+      1 1	Ventilator shelf_P45_BU22
+      1 1	Ventilator shelf_P47_BU17
+      1 1	Ventilator shelf_P4_BU3
+      1 1	Ventilator shelf_P54_BU19
+      1 1	Ventilator shelf_P55_BU22
+      1 1	Ventilator shelf_P56_BU5
+      1 1	Ventilator shelf_P6_BU8
+      2 1	Ventilator shelf_P77_BU25
+      1 1	Ventilator shelf_P78_BU13
+      2 1	Ventilator shelf_P87_BU8
+      1 1	Ventilator shelf_P8_BU9
+      2 1	Ventilator shelf_P91_BU9
+      1 1	Ventilator shelf_P96_BU15
+      1 1	Ventilator shelf_P97_BU8
+      1 1	Ventilator_NA_BU13
+      1 1	Ventilator_NA_BU21
+      1 1	Ventilator_NA_BU6
+      1 1	Ventilator_P101_BU13
+      3 1	Ventilator_P101_BU22
+      1 1	Ventilator_P113_BU23
+      1 1	Ventilator_P113_BU6
+      1 1	Ventilator_P115_BU5
+      1 1	Ventilator_P125_BU10
+      1 1	Ventilator_P132_BU20
+      1 1	Ventilator_P138_BU17
+      1 1	Ventilator_P139_BU23
+      1 1	Ventilator_P13_BU21
+      1 1	Ventilator_P14_BU15
+      1 1	Ventilator_P19_BU18
+      3 1	Ventilator_P19_BU20
+      2 1	Ventilator_P1_BU24
+      1 1	Ventilator_P21_BU22
+      3 1	Ventilator_P22_BU23
+      2 1	Ventilator_P23_BU25
+      1 1	Ventilator_P24_BU26
+      3 1	Ventilator_P25_BU27
+      6 1	Ventilator_P26_BU28
+      1 1	Ventilator_P27_BU18
+      1 1	Ventilator_P29_BU6
+      6 1	Ventilator_P2_BU1
+      1 1	Ventilator_P33_BU16
+      1 1	Ventilator_P33_BU24
+      2 1	Ventilator_P37_BU4
+      1 1	Ventilator_P42_BU15
+      1 1	Ventilator_P46_BU24
+      1 1	Ventilator_P47_BU17
+      1 1	Ventilator_P49_BU12
+      2 1	Ventilator_P4_BU3
+      1 1	Ventilator_P50_BU20
+      2 1	Ventilator_P50_BU7
+      1 1	Ventilator_P51_BU14
+      1 1	Ventilator_P53_BU18
+      1 1	Ventilator_P54_BU19
+      1 1	Ventilator_P56_BU5
+      1 1	Ventilator_P57_BU19
+      1 1	Ventilator_P6_BU5
+      2 1	Ventilator_P6_BU8
+      1 1	Ventilator_P77_BU25
+      1 1	Ventilator_P7_BU6
+      2 1	Ventilator_P87_BU8
+      1 1	Ventilator_P8_BU9
+      5 1	Ventilator_P91_BU9
+      2 1	Ventilator_P96_BU15
+      1 1	Ventilator_P97_BU24
+      8 1	Ventral
+      5 1	Ventral Tongue
+      1 1	Ventral abdominal
+      1 1	Ventral surgical
+      2 1	Ventricular cerebrospinal
+      1 1	Ventricular fluid
+      3 1	conventional dairy
+      1 1	conventional diary
+     11 1	vent
+      1 1	vent drain
+      2 1	ventilation drainage
+      8 1	ventilator
+     12 1	ventilator condensate
+      5 1	ventilator knob
+     40 1	ventilator shelves
+      3 1	ventilator surface
+     56 1	ventilators
+      1 1	venting sediment
+      1 1	ventral mandible
+      1 1	ventral scale
+      1 1	ventral vulva
+      5 1	ventricular Assist
+      1 1	ventriculus queen
+      1 1	ventrikel
+      1 2	Niviventer confucianus
+      1 2	Ventricular cerebrospinal
+      1 Capelinhos vent site
+      1 Faavne vent field
+      1 Horizon Event
+      2 Hospital ventilator
+      2 Hulk vent in
+      4 Hydrothermal vent
+      3 Hydrothermal vent biofilm
+    251 Hydrothermal vent field
+      3 Hydrothermal vent plume
+     24 Hydrothermal vent sediment
+      5 Hydrothermal vents
+      2 Interior vent
+      1 Kairei vent field
+      1 Moria vent field
+      1 Of Preventive medicine
+      1 Ph05 vent at
+      7 Phakellia ventilabrum
+     15 Platysmacheilus nudiventris
+      1 Rainbow vent field
+      5 Rhinogobio ventralis
+    132 Rise Vent Fluids
+      1 Thermal vent
+      1 Tica vent at
+     28 Wall vent field
+      1 Z vent at
+      1 a vent site
+      1 abscesses ventral midline
+      1 actively venting hydrothermal
+      1 air vent
+      7 air vent water
+      1 air ventilation environment
+     18 anal vent
+      1 chlorinated solvents
+     85 diffuse vent DFF1
+      1 dive Ventana 2059
+      1 dive Ventana 2338
+      1 dive Ventana 2555
+      1 exhaust vent from
+      1 gathering event
+      1 hood vent
+      1 hot vent
+      1 hot vent of
+   3785 hydrothermal vent
+      3 hydrothermal vent biofilm
+     87 hydrothermal vent chimney
+     13 hydrothermal vent field
+    101 hydrothermal vent fluid
+      2 hydrothermal vent from
+      2 hydrothermal vent in
+   1260 hydrothermal vent metagenome
+     50 hydrothermal vent plume
+      1 hydrothermal vent polychaete
+      1 hydrothermal vent polychaetes
+      1 hydrothermal vent sample
+    144 hydrothermal vent sediment
+    378 hydrothermal vent sediments
+      6 hydrothermal vent site
+      1 hydrothermal vent sulfide
+      1 hydrothermal vent system
+      9 hydrothermal vents
+      1 hypothermal vent
+      1 iguana vent
+      2 intervention
+      1 intervention beef
+      1 intervention carcass
+     23 li ventricosa
+      1 lung ventilation apparatus
+      3 lung ventilation device
+      1 marine vent
+      4 mechanical ventilation
+      1 mechanical ventilation system
+      1 mechanically ventilated patient
+      1 of Ventral Abdominal
+      1 of conventional mice
+      3 of ventilators
+    306 patient ventilator
+    152 rain event
+      2 reptile vent
+      1 s Vent
+      1 skink vent
+      1 steam vent
+      9 the ventilator
+      1 the venting hydrothermal
+      1 thermal vent
+      1 tube vent kettle
+      2 vent
+      1 ventilator
+     13 ventricle
+      1 ventricular drain
+      1 with conventional pesticides
+      1 with solvents
+
+7) spring:
+      3 1	Hotspring
+      1 1	Offspring from
+      1 1	Spring
+      1 1	Spring Hajek
+      1 1	Spring Pea
+      1 1	Spring Water
+      1 1	Spring barley
+      1 1	Spring roll
+      1 1	Spring warter
+     23 1	Spring water
+     12 1	hotspring
+     24 1	hotspring water
+      2 1	klipspringer antelope
+      3 1	spring
+      2 1	spring bog
+      6 1	spring mixture
+      2 1	spring roll
+      1 1	spring salad
+     13 1	spring sediment
+     32 1	spring water
+      1 1	springwater
+      1 2	Spring Water
+      1 2	spring bog
+      5 2	spring mixture
+      1 2	spring water
+      1 3	spring
+      3 Alkaline Spring
+      1 Boiling Spring
+      3 Boiling Spring sediment
+     17 Bridge Spring
+      1 Freshwater Spring
+      1 Garga hotspring sediments
+      1 Geothermal spring
+     31 Hot Spring
+      1 Hot Spring Karlovy
+      1 Hot Spring water
+      4 Hot Springs
+      4 Hot spring
+      1 Hot spring Shizitouduimian
+      3 Hot spring and
+      1 Hot spring at
+      5 Hot spring microbial
+      2 Hot spring sample
+    311 Hot spring sediment
+      2 Hot spring sediments
+      1 Hot spring sludge
+      2 Hot spring soil
+     55 Hot spring water
+      3 Hot spring_55deg
+      1 Hot spring_65deg
+      1 Hot spring_98deg
+     72 Hot springs and
+      1 Hot springs water
+      3 Mineral Spring
+      2 Nakabusa Hotspring
+      1 Nakabusa hotspring
+      1 Natural spring water
+     12 Nine Springs Facility
+      1 Oak Spring Hatchery
+      1 Pan Springs
+      1 Public spring water
+      1 Saline spring water
+      1 Salt Spring Island
+      1 Sandys Spring sediment
+     22 Spouter Spring
+      1 Sulfidic spring water
+      2 Thermal spring
+      2 Thermal springs
+      2 Zodeltone spring sediment
+      1 Zodletone Spring
+      1 Zodletone spring sediment
+      1 a spring
+      1 alkaline spring
+      1 alkaline spring water
+     99 alpine spring water
+      1 amphitheater springs near
+      1 and hotspring water
+      1 antelope klipspringer feces
+      1 bully spring
+      1 crab spring roll
+      1 early spring 2007
+      1 feces klipspringer
+      1 ferrous spring
+      3 ferruginous spring
+      2 field spring mixture
+      3 finished spring mixture
+      1 fissure Spring
+    470 forming spring
+     13 freshwater spring
+      1 freshwater spring contaminated
+      1 freshwater spring meet
+      5 freshwater spring sediment
+      1 geothermal hotspring
+     12 geothermal spring
+      1 geothermal spring microbial
+      1 geothermal spring sediment
+      2 geothermal spring water
+      7 host spring Jinata
+      1 hot Spring
+   1870 hot spring
+      6 hot spring Cone
+      1 hot spring GBS
+      3 hot spring biofilm
+      1 hot spring biomat
+      2 hot spring canal
+      1 hot spring environment
+    129 hot spring field
+      4 hot spring filament
+      1 hot spring in
+      2 hot spring located
+     26 hot spring mat
+    324 hot spring microbial
+      1 hot spring mineral
+      2 hot spring mud
+      1 hot spring phototrophic
+     22 hot spring reservoir
+      1 hot spring runoff
+      1 hot spring sample
+      1 hot spring sampled
+   1055 hot spring sediment
+     13 hot spring sediments
+      1 hot spring sludge
+      5 hot spring soil
+      1 hot spring spa
+      1 hot spring streamer
+    908 hot spring water
+      1 hot spring with
+    228 hot springs
+    374 hot springs and
+    658 hot springs metagenome
+    136 hot springs sediment
+     20 hydrothermal spring
+      1 hyperalkaline spring water
+      1 hypersaline spring
+      1 in spring 2005
+      1 karst spring
+      1 kebrite spring
+      3 mineral spring
+      4 mountain spring
+      4 natural spring
+      1 natural spring water
+      1 of spring barley
+      1 of spring wheat
+      1 ophiolitic spring
+      1 organic spring mix
+    104 phytoplankton spring bloom
+      1 pork spring roll
+      1 rich spring
+      1 rich spring in
+      5 saline spring
+     95 saline spring sediment
+      1 salt spring sediment
+      1 salt springs
+      1 solfataric spring
+      1 spinach spring mixture
+      2 spring
+      1 spring sediment
+      3 spring sediments
+      1 springs
+      4 springs ponds
+      7 sulfide spring
+      4 sulfidic spring
+      4 sulfur spring
+      1 sulfur springs
+      1 terrestrial spring
+      9 thermal spring
+      1 thermal spring biofilm
+      1 thermal spring water
+      1 underground spring
+      2 warm spring water
+     11 water spring
+     39 water spring sample
+
+8) smoker:
+      1 1	Smoker
+      1 Black Smoker
+      1 Black smoker from
+      1 OF PROSMOKER 2
+      1 OF SMOKER
+      1 SMOKER FLOOR
+      1 TO SMOKER
+     27 black smoker
+    189 black smoker DFF12
+      6 black smoker and
+      2 black smoker chimney
+      1 smoker chimney
+      1 to smoker NFC
+      1 white smoker chimney
+
+9) deep:
+      1 000m deep
+      1 1	DEEP
+      3 1	DEEP RESPIRATORY
+      2 1	DEEP TRACHEAL
+     27 1	Deep
+      1 1	Deep Buttock
+      3 1	Deep Creek
+      1 1	Deep Liver
+      1 1	Deep Mariana
+     24 1	Deep Nasal
+      1 1	Deep Quartz
+      1 1	Deep Sacral
+      2 1	Deep Sea
+      2 1	Deep Site
+     29 1	Deep Tissue
+      3 1	Deep Tracheal
+      1 1	Deep Ulceration
+      1 1	Deep Vein
+      2 1	Deep abscess
+      8 1	Deep anoxic
+     14 1	Deep fluid
+      2 1	Deep marine
+      1 1	Deep nasal
+      1 1	Deep nose
+      1 1	Deep ocean
+      4 1	Deep phlegm
+     16 1	Deep sea
+      1 1	Deep seafloor
+      3 1	Deep seawater
+      1 1	Deep sediment
+      1 1	Deep sediments
+      9 1	Deep site
+     18 1	Deep skin
+     20 1	Deep sputum
+      1 1	Deep sub
+      1 1	Deep subseafloor
+      9 1	Deep subsurface
+      1 1	Deep terrestrial
+      3 1	Deep throat
+      1 1	Deep tibia
+     23 1	Deep tissue
+      4 1	Deep venous
+      3 1	Deep wound
+      2 1	Deepsea hydrothermal
+      1 1	Deepwater Horizon
+   3365 1	deep
+      1 1	deep aquifer
+      1 1	deep borehole
+      8 1	deep chlorophyll
+      1 1	deep gas
+      2 1	deep hot
+    319 1	deep marine
+      3 1	deep mesotrophic
+      1 1	deep nasal
+      4 1	deep nasopharyngeal
+      5 1	deep ocean
+      1 1	deep oil
+      1 1	deep respiratory
+      1 1	deep rotten
+    868 1	deep sea
+     24 1	deep seawater
+      3 1	deep sediment
+      7 1	deep soil
+      1 1	deep subseafloor
+     31 1	deep subsurface
+      1 1	deep surface
+    111 1	deep tissue
+      9 1	deep tracheal
+      1 1	deep venous
+      3 1	deep water
+      1 1	deep waters
+      2 1	deep well
+     13 1	deep wound
+      2 1	deep wounds
+     72 1	deeply circulating
+    149 1	deepsea hydrothermal
+     24 1	deepsea sediment
+      1 1	deepsea water
+      1 1cm deep and
+      1 2	Deep seawater
+      4 2	deep
+      2 2	deep sea
+      5 2	deep soil
+      1 3	deep
+      1 3	deep sea
+      1 500m deep
+      6 6mm deep
+      1 9mm deep periodontal
+      1 A deep sea
+      1 CF deep throat
+      1 Challenger Deep in
+      2 Challenger Deep of
+      1 Discovery Deep brine
+      1 II Deep
+      2 II Deep in
+      1 II Deep of
+      3 Kebrit Deep Brine
+      4 M10 deep
+      4 M6 deep
+      2 Pacific deep sea
+      1 Poultry deep litter
+      1 Rise deep
+      2 Shaban Deep in
+      2 Tissue DEEP HUMERAL
+      1 Tissue_Other_Perianal deep tissue
+      5 a deep
+      1 a deep aquifer
+      2 a deep pit
+      4 a deep subsurface
+      2 a deepsea sediment
+      2 active deep
+      2 adult deep
+      2 and deep wound
+      8 cm deep
+      1 cm deep sediment
+     30 deep
+      1 deep aquifer
+     20 deep chlorophyll
+      1 deep coccyx
+      4 deep marine
+      1 deep sinus
+      1 deep subsurface
+      1 deep well
+      1 depth deep sea
+      1 diseased deep sea
+      1 fluid deep collection
+      1 foot deep tissue
+      7 from Deepwater horizon
+    104 from deep
+      1 from deep sea
+      7 from deep subsurface
+     19 from deep underground
+      1 frozen deep coconut
+      5 in deep sea
+     51 km deep subsurface
+      1 m deep groundwater
+      1 m deep point
+      1 mangrove deep sediment
+      1 marine deep ocean
+      1 meters deep Okinawa
+      2 near deep ocean
+      1 near deep repository
+      2 of deep repository
+     18 or deep throat
+      2 surface deep
+      1 the Deep chlorophyll
+      1 the Deepwater Horizon
+      5 the deep
+      1 the deepest Ocean
+      1 treating deep anoxic
+      1 water deep
+      1 with deep thermal
+
+10) hyper:
+      2 1	Hyper
+      1 1	Hyperarid soil
+      3 1	Hypersaline environment
+      1 1	Hypersaline habitat
+      1 1	Hypersaline lagoon
+    279 1	Hypersaline lake
+      1 1	Hypersaline microbial
+      1 1	Hypersaline soda
+     13 1	Hypersaline soil
+      5 1	Hypersaline water
+      1 1	hyper
+      2 1	hyper saline
+      1 1	hyperalkaline spring
+     89 1	hyperarid desert
+      1 1	hyperellipseal
+      2 1	hypersaline
+      3 1	hypersaline brine
+      1 1	hypersaline coastal
+      1 1	hypersaline environment
+      1 1	hypersaline lagoon
+     27 1	hypersaline lake
+      1 1	hypersaline lakes
+      2 1	hypersaline microbial
+     19 1	hypersaline pond
+     34 1	hypersaline pool
+      9 1	hypersaline river
+   1781 1	hypersaline soda
+      7 1	hypersaline soil
+    112 1	hypersaline solar
+      1 1	hypersaline spring
+      2 1	hypersaline surface
+      3 1	hypersaline water
+     25 1	hyperthermophilic anaerobic
+      1 1	hyperthermophilic compost
+      1 1	hypertrophic pond
+      1 8 hypersaline
+      1 Antarctic hypersaline lake
+      1 Extreme hyper
+      1 ROV HyperDolphin
+      1 a hypersaline coastal
+      1 a hypersaline habitat
+      1 a hypersaline lake
+      1 a hyperthermal composting
+      1 and hypersaline sediment
+      1 extreme hyper
+      2 from hypermarket in
+      1 from hypersaline alkaline
+      2 from hypersaline habitats
+      2 from hypersaline lagoon
+    163 from hypersaline microbial
+      1 from hypersaline salt
+     19 from hypersaline soda
+     78 from hypersaline water
+      1 hyperhaline lake
+      5 hypersaline lake
+      1 hypertension patient
+      1 in hypersaline habitat
+      1 of Hypericum perforatum
+      1 of Hypersaline
+      2 of hypersaline alkaline
+      1 of hypersaline lake
+      1 of hypersaline soda
+      1 polar hypersaline lake
+      1 sediments hypersaline lake
+      1 the hypersaline Aran
+      1 the hypersaline Ekho
+      1 the hypersaline lake
+
+11) hot:
+      1 1	Bathroom_Sink_Hot
+      1 1	BunkBedBath_Showerhead_Hot
+      1 1	Chott El
+      1 1	DownstairsMasterBath_Sink_Left_Hot
+      4 1	HOT station
+      5 1	HOT5
+      4 1	Hot
+      2 1	Hot Spring
+      2 1	Hot Tub
+      1 1	Hot Water
+      3 1	Hot peppers
+    368 1	Hot spring
+      3 1	Hot spring_55deg
+      1 1	Hot spring_65deg
+      1 1	Hot spring_98deg
+     73 1	Hot springs
+      1 1	Hot summers
+     16 1	Hot tub
+     11 1	Hot water
+     16 1	Hotbed chives
+      1 1	Hotel sink
+      1 1	Hotel skimmer
+      3 1	Hotel water
+      3 1	Hotspring
+     20 1	Macrognathotermes sunteri
+      1 1	Nephotettix cincticeps
+      1 1	Photobioreactor
+      1 1	Ramphotyphlops grypus
+      7 1	hot
+      2 1	hot chanachur
+      5 1	hot chili
+      1 1	hot crushed
+      1 1	hot curry
+      1 1	hot finger
+      1 1	hot ground
+      2 1	hot link
+     15 1	hot pepper
+      3 1	hot peppers
+      1 1	hot pimenton
+      2 1	hot red
+      1 1	hot region
+      1 1	hot sausage
+      7 1	hot smoked
+      2 1	hot spice
+      1 1	hot spicy
+      1 1	hot spings
+   2619 1	hot spring
+   1020 1	hot springs
+      2 1	hot stream
+      1 1	hot underground
+     16 1	hot water
+     12 1	hotspring
+     24 1	hotspring water
+      1 1	photoferrotrophic enrichment
+      1 1	phototrophic microbial
+     15 2	Hot spring
+      5 2	hot spring
+      1 2	hot springs
+      1 2	hot water
+      2 3	hot spring
+      1 4	hot spring
+      1 60C phototrophic microbial
+      1 Altinsu hot spring
+      1 BY HOT CASE
+      4 Building hot water
+      3 C hot spring
+      1 Caliente Hot Spring
+     11 Chlorohelix allophototropha enrichment
+      1 Chlorohelix allophototropha from
+      1 Chott el
+      3 Creek Hot Spring
+      3 Creek Hot Springs
+     11 Creek hot spring
+      1 Deshidratada Hot Beef
+      2 Domestic hot water
+      1 Dukgu Hot Spring
+     19 Flushed hot water
+      1 Freshwater hot spring
+      1 Garga hot spring
+      1 Garga hotspring sediments
+      1 Geothermal hot spring
+      1 Gongxiaoshe hot spring
+      1 Gongxiaosohe hot spring
+    162 HOT
+      1 Hehua hot spring
+     71 Hospital hot water
+      2 Hot
+      2 Hot water
+      1 JACK HOT STICKS
+      1 Jinze hot Spring
+      2 Jinze hot spring
+      1 Kaskadny hot spring
+    129 Katase hot spring
+      1 Kozakli hot spring
+      1 Little hot creek
+      1 Mageumsan hot spring
+      2 Manikaran Hot Spring
+      1 Manikaran Hot Springs
+      1 Manza hot spring
+      1 Medano hot spring
+      1 Millepora dichotoma
+      1 Moechotypa diphysis
+      3 Mungang Hot spring
+      2 Nakabusa Hotspring
+      1 Nakabusa hot spring
+      1 Nakabusa hotspring
+      1 Neungam Hot spring
+      1 Pinkerton hot spring
+      1 Pot Hot Spring
+      1 Qarvajar hot spring
+     13 Residence hot water
+      1 Saline hot spring
+      5 School hot water
+      1 Seokmodo hot spring
+     21 Slim Hot Spring
+      1 Subsurface hot aquifer
+      1 TRAVEL HOT CASE
+      1 Terrestrial hot spring
+      1 Vicente hot spring
+      2 Zeytindali hot spring
+     10 a hot spring
+      2 a hot water
+      1 abdominal gunshot wound
+      5 acid hot spring
+     20 acidic hot spring
+      1 after gunshot wound
+    507 alkaline hot spring
+      1 anaerobic hot sediment
+      1 and hot river
+      1 and hotspring water
+      4 and shotgun sequenced
+      2 borax hot spring
+      1 celcius phototrophic mat
+      2 chatkeen hot n
+      1 chili hot
+      4 chili hot pepper
+      4 coastal hot spring
+     12 containing morphotype I
+      7 containing morphotype II
+      1 cyanobacterial photobiont
+      2 deep hot aquifer
+      3 degree phototrophic mat
+      1 dried hot pepper
+      1 eat hot link
+      1 eat hot links
+      3 extra hot chili
+      1 extra hot mixture
+      1 fat morphotype
+      5 fresh hot pepper
+      1 freshwater hot spring
+      2 from hot area
+      1 from hot lake
+     69 from hot spring
+    374 from hot springs
+      1 from hot vent
+      7 from hot water
+      1 frozen hot chili
+      2 frozen hot smoked
+      1 garlic hot link
+     11 geothermal hot spring
+      1 geothermal hotspring
+      2 ground hot chili
+      4 ground hot pepper
+      1 hot chicken
+      1 hot river
+      5 hot spring
+     39 hot water
+      4 in hot spring
+      1 in hotel bathroom
+      3 intertidal hot spring
+      1 jalapeno hot pepper
+      2 jamaican hot pepper
+      2 marine hot spring
+     11 masala hot spice
+      1 medium hot chili
+      1 medium hot ground
+      1 medium hot molido
+      1 mexico hot
+      1 mexico hot diced
+      2 moderate hot spring
+     25 multilayer hot spring
+      1 near hot spring
+      1 near hot water
+     13 neutral hot spring
+      1 of Hot Spring
+      1 of hot climate
+      1 of hot sediments
+     65 of hot spring
+     38 of hot tap
+      1 of hot water
+      1 of hot well
+      1 of hothouse complex
+      1 offshore hot spring
+     66 outdoor hot spring
+      1 outdoor hot tub
+      1 phototrophic microbial
+      1 pinnacle phototroph mat
+      3 powder hot
+      1 radioactive hot spring
+    324 rich hot spring
+      1 s Hot Spring
+      1 s hot spring
+      1 sea hot vent
+      1 sediment hot spring
+     10 siliceous hot spring
+      1 skinny morphotypes
+      7 small hot pepper
+      1 smoked hot herring
+      2 snack hot peanut
+      5 spicy hot mixture
+      1 submarine hot sandy
+      1 subsurface hot aquifer
+      2 subtropical euphotic ocean
+      9 sulfidic hot spring
+      1 super hot
+      1 tah hot spring
+      1 tassajara hot spring
+      1 terrestrial hot aquifer
+    385 terrestrial hot spring
+      1 thai hot pepper
+      1 the HOT
+      3 the euphotic zone
+     39 the hot spring
+      1 the hot well
+      2 the phototrophic plate
+      1 to hot springs
+      1 volcanic hot spring
+      2 water hot spring
+      1 wax hot pepper
+      1 with hot water
+     31 with photo
+
+12) boil:
+      1 1	BOIL
+      2 1	Boil
+      2 1	Boil Wound
+      1 1	Boiled Egg
+      1 1	Boiled Pork
+      1 1	Boiled Shanxi
+      1 1	Boiled beans
+      2 1	Boiled chiken
+      5 1	Boiled dumplings
+      2 1	Boiled egg
+      2 1	Boiled eggs
+      1 1	Boiled sausages
+      7 1	Boiler
+      1 1	Boiling beach
+      2 1	Boils of
+      2 1	boil
+      1 1	boiled beef
+      3 1	boiled egg
+      1 1	boiled frozen
+      3 1	boiled ham
+      1 1	boiled potato
+      1 1	boiled poultry
+      1 1	boiled rice
+      1 1	boiled small
+      1 2	boiled hay
+      1 3	Boil Drainage
+      4 Great Boiling Spring
+      2 Plain boiled chicken
+      3 baby boiled clam
+      1 boiled
+      1 frozen boiled clam
+      1 frozen boiled corn
+      1 frozen boiled periwinkle
+      3 frozen boiled snail
+      2 prepared boiled clam
+      1 snail boiled
+      1 with boiled beetroot
+
+13) oil:
+      1 1	BOIL
+      2 1	Boil
+      2 1	Boil Wound
+      1 1	Boiled Egg
+      1 1	Boiled Pork
+      1 1	Boiled Shanxi
+      1 1	Boiled beans
+      2 1	Boiled chiken
+      5 1	Boiled dumplings
+      2 1	Boiled egg
+      2 1	Boiled eggs
+      1 1	Boiled sausages
+      7 1	Boiler
+      1 1	Boiling beach
+      2 1	Boils of
+    244 1	Broiler
+      1 1	Broiler Carcass
+     10 1	Broiler Processing
+      1 1	Broiler at
+    114 1	Broiler breeder
+     99 1	Broiler carcass
+     39 1	Broiler carcasses
+     13 1	Broiler cecum
+    326 1	Broiler chicken
+     51 1	Broiler chickens
+     21 1	Broiler farm
+     32 1	Broiler feces
+      2 1	Broiler fillet
+      4 1	Broiler house
+      2 1	Broiler leg
+      3 1	Broiler litter
+      1 1	Broiler meat
+      6 1	Broiler neckskins
+      1 1	Broiler sausage
+      2 1	Broiler stool
+     25 1	Broiler_chickens
+    198 1	Broilers
+      5 1	Environmental_toilet
+     37 1	Odocoileus virginianus
+     25 1	Oil
+      1 1	Oil Brine
+      1 1	Oil Field
+      2 1	Oil Palm
+      1 1	Oil brine
+      1 1	Oil contaimined
+     13 1	Oil contaminated
+      3 1	Oil field
+      3 1	Oil palm
+     45 1	Oil polluted
+      1 1	Oil produced
+      9 1	Oil reservoir
+      1 1	Oil sand
+      8 1	Oil sands
+      2 1	Oil sludge
+      2 1	Oil spill
+      1 1	Oild field
+      2 1	Oilfield
+      2 1	Oilseed rape
+      1 1	Oily Soils
+      2 1	Oily sludge
+      1 1	Putidoil
+     67 1	Soil
+      1 1	Soil Microbiology
+     66 1	Soil NFGNB
+      1 1	Soil Sample
+      1 1	Soil adhered
+      1 1	Soil adhering
+      5 1	Soil and
+      7 1	Soil around
+      8 1	Soil at
+      1 1	Soil attached
+      4 1	Soil beneath
+      1 1	Soil by
+      2 1	Soil collected
+      2 1	Soil conditioner
+      1 1	Soil containing
+      3 1	Soil contaminated
+      2 1	Soil cores
+      1 1	Soil covered
+      1 1	Soil environment
+      1 1	Soil for
+      4 1	Soil form
+      1 1	Soil found
+   2236 1	Soil from
+      1 1	Soil immersed
+     19 1	Soil in
+      1 1	Soil land
+      3 1	Soil leach
+      1 1	Soil mixed
+      8 1	Soil near
+      1 1	Soil nematodes
+     59 1	Soil of
+      1 1	Soil particles
+      1 1	Soil recovered
+      2 1	Soil rhizosphere
+    197 1	Soil sample
+      1 1	Soil sampled
+     13 1	Soil samples
+      1 1	Soil sediment
+      2 1	Soil sediments
+      1 1	Soil surrounding
+     30 1	Soil swabs
+     19 1	Soil under
+      3 1	Soil with
+      1 1	Soil_113
+      1 1	Soil_16
+      1 1	Soil_18
+      1 1	Soil_20
+      1 1	Soil_24
+      1 1	Soil_5
+      1 1	Soil_9
+      1 1	Soil_D1D
+      1 1	Soil_D1E
+      1 1	Soil_D2C
+      1 1	Soil_D3B
+      1 1	Soil_D3C
+      1 1	Soil_D3D C
+      1 1	Soil_D3E C
+      1 1	Soil_D4C
+      1 1	Soil_D5C
+      1 1	Soil_D5D
+      1 1	Soil_M1C1
+      1 1	Soil_M1D1
+      1 1	Soil_M2B2
+      1 1	Soil_M5B1
+      1 1	Soiled feather
+      1 1	Soils
+      1 1	Soils from
+      1 1	Spoilage microbiota
+      1 1	Spoiled apple
+      4 1	Spoiled beer
+      1 1	Spoiled eye
+      1 1	Spoiled lager
+      1 1	Spoiled shower
+     54 1	Toilet
+      1 1	Toilet WC
+     31 1	Toilet seat
+      1 1	Toilet sink
+      1 1	Toilet surface
+      1 1	Toilet water
+      7 1	Toilette
+      1 1	Topsoil
+      2 1	Topsoil desert
+      2 1	boil
+      1 1	boiled beef
+      3 1	boiled egg
+      1 1	boiled frozen
+      3 1	boiled ham
+      1 1	boiled potato
+      1 1	boiled poultry
+      1 1	boiled rice
+      1 1	boiled small
+      4 1	broiled chicken
+      1 1	broiled eel
+    763 1	broiler
+      1 1	broiler anal
+     16 1	broiler breeder
+     15 1	broiler caeca
+    160 1	broiler caecum
+     70 1	broiler carcass
+      9 1	broiler ceacal
+      1 1	broiler chick
+    496 1	broiler chicken
+     95 1	broiler chickens
+     27 1	broiler environment
+      4 1	broiler farm
+      5 1	broiler fecal
+      7 1	broiler feces
+      1 1	broiler finisher
+      1 1	broiler leg
+      1 1	broiler litter
+     91 1	broiler meat
+      2 1	broiler prefinisher
+      1 1	broiler skin
+     69 1	broilers
+      4 1	broilers caecal
+      2 1	broilers caecum
+      2 1	broilers meat
+    156 1	oil
+      3 1	oil and
+      1 1	oil brine
+     35 1	oil contaminated
+      1 1	oil contaninated
+     13 1	oil drilling
+     11 1	oil field
+      1 1	oil filed
+      1 1	oil from
+      4 1	oil palm
+      6 1	oil polluted
+      1 1	oil pollution
+      1 1	oil produced
+      2 1	oil product
+     14 1	oil production
+     75 1	oil reservoir
+      2 1	oil sands
+      5 1	oil slime
+      2 1	oil sludge
+      1 1	oil soil
+      6 1	oil well
+      3 1	oilfield
+      1 1	oilfield produced
+      1 1	oilfield well
+      1 1	oilsands tailing
+      1 1	oily
+      1 1	oily marine
+      2 1	oily sludge
+      2 1	shoil fish
+  45039 1	soil
+      2 1	soil 0
+      1 1	soil actinomycetes
+      1 1	soil adhering
+    280 1	soil adjacent
+      1 1	soil adjecent
+     28 1	soil alkaline
+     14 1	soil and
+     11 1	soil around
+      1 1	soil artificially
+      6 1	soil associated
+    154 1	soil at
+      3 1	soil beneath
+      4 1	soil biofilm
+      3 1	soil bird
+      5 1	soil by
+      6 1	soil collected
+      2 1	soil conditioner
+      1 1	soil containing
+     11 1	soil contaminated
+      3 1	soil cooling
+      3 1	soil core
+     19 1	soil covered
+      2 1	soil crust
+      2 1	soil cultivated
+      1 1	soil cultivating
+      1 1	soil denitrifier
+      1 1	soil enriched
+      1 1	soil fertilized
+      1 1	soil flooded
+      2 1	soil for
+    727 1	soil from
+      1 1	soil immersed
+     17 1	soil in
+      8 1	soil inside
+      3 1	soil isolate
+     22 1	soil leachate
+   1441 1	soil metagenome
+      1 1	soil microorganisms
+      1 1	soil mixed
+     18 1	soil near
+      1 1	soil next
+      3 1	soil no
+     61 1	soil of
+      3 1	soil on
+      1 1	soil or
+      2 1	soil over
+      2 1	soil planted
+      9 1	soil polluted
+      2 1	soil polyethylene
+      1 1	soil reservoir
+      9 1	soil rhizosphere
+      1 1	soil river
+    176 1	soil sample
+      1 1	soil sampled
+     19 1	soil samples
+     25 1	soil scat
+     82 1	soil sediment
+      1 1	soil subsurface
+     21 1	soil surface
+      6 1	soil surrounding
+      5 1	soil suspension
+      2 1	soil treated
+     13 1	soil under
+      2 1	soil underneath
+      3 1	soil used
+      1 1	soil using
+     13 1	soil vegetation
+     10 1	soil with
+      1 1	soil1
+      1 1	soil2
+      2 1	soild from
+      4 1	soils
+      1 1	soils collected
+      3 1	soils contaminated
+      9 1	soils disturbed
+      1 1	soils from
+      1 1	soils of
+      1 1	soils sampled
+      1 1	soils where
+      2 1	spoiled
+      1 1	spoiled beef
+      7 1	spoiled beer
+      1 1	spoiled canned
+      1 1	spoiled ciders
+      2 1	spoiled cod
+      1 1	spoiled flesh
+      2 1	spoiled food
+      1 1	spoiled jelly
+      2 1	spoiled milk
+      2 1	spoiled orange
+      2 1	spoiled salad
+      1 1	spoiled shrimp
+      1 1	spoiled soymilk
+      5 1	spoiled tilapia
+      1 1	spoiled tofu
+     13 1	spoiled uncooked
+      1 1	spoiled wine
+      1 1	spoiled xanthan
+      1 1	subsoil obtained
+      6 1	tinfoil barb
+      8 1	toilet
+     33 1	toilet drainpipe
+      4 1	toilet handle
+      5 1	toilet seat
+     17 1	toilet water
+     14 1	topsoil
+     37 1	topsoil from
+      3 1	topsoil of
+      2 1	topsoil sample
+      1 10cm soil collected
+      2 18_Jiangsu_Oilfield
+      3 2	Broiler
+      1 2	Oil reservoir
+      1 2	Soil from
+      1 2	boiled hay
+      5 2	broiler chicken
+      4 2	broiler feces
+      4 2	oil
+      1 2	oil contaminated
+      1 2	oil palm
+      1 2	oil produced
+      1 2	oil reservoir
+      1 2	oilsands tailings
+      1 2	oily
+    259 2	soil
+      2 2	soil and
+      1 2	soil collected
+      1 2	soil contaminated
+     15 2	soil from
+      1 2	soil near
+      5 2	soil of
+     10 2	soil sample
+     11 2	soil scat
+      5 2	soil sediment
+      1 2	spoiled horse
+      1 2	spoiled raw
+      5 2	spoiled uncooked
+      8 2	topsoil
+      1 24 soil
+      1 3	Boil Drainage
+      1 3	Soil
+      1 3	Soil Litter
+     23 3	soil
+      1 3	soil contaminated
+      1 3	soil in
+      1 3	soil matrix
+      1 3	soil near
+      1 3	soil samples
+      2 3	soil sediment
+      1 4	soil
+      3 5_Jiangsu_Oilfield
+      2 A soil
+      1 A soil from
+      1 A soil sample
+      2 Acidic soil
+      2 Aegiceras soil
+      1 African soil
+      1 Agicultural soil
+     44 Agricultural soil
+      1 Agricultural soil cultivated
+      1 Agricultural soil in
+      1 Agricultural soil mixed
+      1 Agricultural soil sample
+      1 Agricultural soils
+      3 Agricultural soils with
+      1 Ahmadi oil field
+      1 Akaline soil
+      3 Albertan oil reservoir
+      2 Alkaline Soil
+      6 Alkaline soil
+      1 Alkaline soil in
+      2 Alpine Soil
+      1 Alpine soil
+      1 Amazon soil
+      1 Amazonic soil
+      1 An oil
+      2 Antarctic Soil
+     20 Antarctic soil
+      1 Antarctic soil sample
+     11 Antarctica soil
+     52 Antartic soil
+      4 Antartic soil contaminated
+      8 Arctic Soil
+     14 Arctic soil
+      5 Arid soil
+      1 Arid soil collected
+      2 Arid soil sample
+     60 Ascotan soil
+      1 Atacama soil
+      1 Baolige oil reservoir
+      1 Bareen Soil
+      4 Beach soil
+      1 Binagady oilfield
+      3 Biological Soil Crust
+     98 Biological soil crust
+      1 Biological soil crusts
+      4 Brazilian oil platform
+      1 Brazilian soil
+      1 Broiler
+      8 Broiler Breeder
+      1 Broiler Chicken
+      8 Broiler Farm
+     47 Bulk soil
+      1 Bulk soil of
+      1 Butcher soil
+      3 Cave soil
+      1 Cave soil from
+      1 Cave soil sample
+     82 Centralia Soil
+      1 Cerrado Soil
+      8 Cerrado soil
+      1 Cerrado soil samples
+      1 Changqing oilfield wastewater
+      2 Cheremukhovskoe oilfield
+      1 Chernozemic soil
+      1 Chicken Broiler
+      1 Chicken broiler growers
+      1 Clay soil
+      1 Clay soil high
+      1 Clay soils inside
+      2 Coal spoil at
+      2 Coastal soil
+      1 Coastal soil sample
+      1 Cocoa soil
+      1 Composted soil
+      1 Congolese oil field
+      1 Contaminated Soil
+     10 Contaminated soil
+      2 Contaminated soil of
+      1 Contaminated soil sample
+      9 Control soil
+      9 Control soil from
+      1 Cool soil environment
+      1 Corn soil
+      1 Crop soil
+      1 Cropfield soil
+      7 Crude oil
+      4 Crude oil contaminated
+      2 Crude oil polluted
+      1 Crude oil well
+      2 Cultivated soil
+      1 Cutting Oils
+     61 DWH oil spill
+      1 Daejeon Oil reservoir
+      2 Dagang oil reservoir
+      1 Dandelian soil
+      5 Desert Soil
+     23 Desert Soil Beside
+     54 Desert soil
+      1 Dry soil
+      1 Dry soil from
+      2 Edible oil wastewater
+      1 Enveronmental soil
+      2 Environmental Soil
+      3 Essential oils isolation
+      1 Estuarine Soil
+     13 FRDC_Fjaler soil
+      1 Factory soil
+      1 Farm soil from
+      1 Farm soil near
+      1 Farm soil situated
+      1 Farmland Soil
+      2 Farmland soil at
+      1 Farmland soils
+      1 Fertile soil
+      8 Field Soil
+      1 Field soil sample
+      5 Forest soil
+      1 Forest soil of
+      1 Forest soils of
+      1 Frozen soil
+      1 Fynbos soil
+      3 Garden Soil
+     23 Garden soil
+      1 Garden soil by
+      1 Garden soil type
+      3 Geothermal soil
+      2 Geothermal soil at
+      1 Geothermal soil from
+      1 Ginseng soil
+     82 Glacier soil
+      1 Gobi soil
+      1 Gotjawal soil
+      4 Grass soil
+    465 Grassland soil
+      1 Grassland soil in
+      1 Grassland soil of
+      4 Great Boiling Spring
+      5 Greenhouse soil
+      1 Greenhouse soil cultivated
+      1 GuDao Oil Field
+      1 Hapludalf soil
+      1 Hazelnut soil
+      1 Hechi soil
+      1 Hibernia oil platform
+      1 Himalayan soil
+      1 Horizon oil spill
+      1 Household soil
+      2 Household toilet
+      1 Huckleberry soil
+      1 Humic Soil
+      3 Humid soil
+      1 Humus soil
+      1 Hyperarid soil from
+     10 Hypersaline soil
+      2 Hypersaline soil from
+      1 Hypersaline soil sample
+      2 Intertidal soil
+      2 Island soil
+      1 Kanas soil
+      1 Korean oily bitterling
+      1 Lake soil
+      2 Land soil
+     10 Landfill soil
+      1 Li Oil Field
+      1 Liaohe oil field
+      1 Libyan oil
+      1 Litchi soil
+      6 Loam soil
+      1 Local soil sample
+      5 Machair soil
+      2 Macondo oil
+      1 Mangrove soil along
+      2 Mangrove soil and
+      2 Mangrove soil from
+      2 Mangrove soil sample
+      2 Mangrove soil sediment
+      1 Mangrove soils
+      2 Manoil
+      1 Marambaia soil
+      1 Marine Soil
+      8 Marine soil
+      1 Marine soil sample
+      1 Mature oil palm
+     11 Microscale soil grain
+      1 Mine Soils
+      1 Mineral oil tank
+      1 Mineral soil 3
+      7 Missouri Soil
+      1 Mixed soil samples
+      1 Moist soil from
+      1 Mongolian soil
+      5 Mountain soil
+      2 Muddy soil
+      1 Muddy soil at
+      1 Muddy soil from
+      1 Muktuk Oil
+      1 Mulberry soil
+      2 Namibian soil
+      1 Natural Soil
+      1 Natural soil
+      2 Night soil compost
+      1 Niibori oilfield
+      2 Noonmati oil refinery
+    102 Odocoileus hemionus
+     47 Odocoileus virginianus
+      6 Ohio soil
+      3 Oil environment
+      1 Organic Soil
+      2 Organic soil
+     10 Ornithogenic soil
+      1 PHBV soil
+      1 Paddy soil field
+      1 Paddy soils
+     76 Palm Oil Mill
+      3 Patient Toilet Sink
+      1 Patient Toilet sink
+      2 Peat soil
+      4 Peat soil samples
+      2 Petroleum Soil
+      2 Plain boiled chicken
+      1 Plantation soil
+      1 Plateau soil
+      1 Pohnpei soil
+      2 Polar soil
+      1 Polluted soil
+      3 Pond soil
+      1 Pooled soil
+     67 Pooled soil sample
+      2 Potato soil
+      1 Potato soil field
+      1 Poultry Soil
+      1 Prairie soil
+     10 Prestige oil spill
+      1 R1 soil
+      1 R2 soil
+      1 Rainforest Soil
+      3 Red soil
+      1 Retail broiler chicken
+      1 Rhizhosphere soil
+      2 Rhizobial soil
+      1 Rhizopheric soil of
+      1 Rhizopshere soil
+      1 Rhizosheric soil
+      3 Rhizosperic soil
+      1 Rhizosphere Soil in
+      1 Rhizosphere Soil of
+      2 Rhizosphere soil
+      1 Rhizosphere soil at
+      5 Rhizosphere soil from
+     45 Rhizosphere soil of
+     32 Rhizospheric soil from
+      6 Rhizospheric soil of
+      1 Rhizospheric soil samples
+      1 Rice soil sample
+      1 Ridge Soil
+      2 Riverbed soil
+      1 Riverside Soil
+      2 Riverside soil
+      1 Riverslea oil field
+      2 Rizhospheric soil
+     10 Rizosphere soil sample
+      1 Rock soil
+      1 Romashkinskoe oilfield
+      6 Root Soil
+      1 Root soil
+      1 Rotten Soil
+      3 Saharan soil
+      1 Saharan soil at
+     29 Saline soil
+      3 Saline soil from
+      1 Saline soils
+      1 Saltpan soil
+      2 Salty soil
+      8 Sandy soil
+      5 Sandy soil at
+      1 Sandy soil near
+      1 Sandy soil on
+      1 Saratov Oil Refinery
+      1 Sea soil
+      1 Seaside Soil
+      1 Sesame oil meal
+      2 Shengli Oilfield
+      2 Shengli oilfield
+     90 Shengli oilfield at
+     33 Shoreline Soil
+     43 Soil
+      1 Solfataric soil
+      2 Staff Toilet Sink
+      2 Subsurface soil
+      4 Sugarcane soil
+      1 Surface soil
+      3 Surface soil of
+      1 Surfaces broiler farm
+      1 Swampy soil
+      1 Synthetic soil spiked
+     18 Terrestrial Soil
+      1 Thai soil
+      1 The soil collected
+      2 The soil of
+     19 Top soil
+      2 Top soil and
+      1 Tundra soil in
+      1 Tunisian oil refinery
+      2 Turnip soil
+      3 UK soil
+      2 Ultramafic soil
+      1 Uncontaminated soil
+      3 Underwater soil
+      1 Underwater soil sample
+      1 Upper soil horizon
+      1 Upturned soil from
+      5 Urban soil
+      3 Urban topsoil
+      1 Uzen oilfield
+      1 Valley soil sampled
+      2 Vineyard soil
+      2 Volcanic Soil
+      2 Volcanic soil
+      1 Ward toilets
+      2 Waste oil treatment
+      1 Wasteland soil
+      1 Wet soil
+      2 Wet soil from
+      1 Wet soil samples
+      5 Wisconsin Soil
+      2 Woodland soil
+      3 Woodland soil suspension
+     14 Wyoming Soil
+      1 XinJiang oil
+      2 Yelcho soil
+      3 a broiler
+      1 a broiler carcass
+      2 a broiler farm
+      1 a broiler from
+     10 a soil sample
+      2 abandoned oil well
+      1 abnormally spoiled oriental
+      1 acid soil
+     17 acidic soil
+      1 acidic soil at
+      1 acidic soil of
+      1 acidic soils
+      5 active oil and
+      1 adhered soil
+      2 adhering soil
+      1 affected soil
+    411 agricultural soil
+      1 agricultural soil from
+      2 agricultural soil near
+      1 agricultural soil sampled
+      1 agricultural soil under
+      1 agricultural soil which
+      1 agricultural soils
+      3 agriculture soil
+     17 alkali soil
+      1 alkali soil from
+     31 alkaline soil
+      1 alkaline soil near
+      1 alkaline soils
+      1 alluvial soil
+      5 alpine soil
+      4 alpine soil near
+      1 altitude soil
+      1 an oil
+      1 an oil field
+      1 an oil palm
+      2 an oil platform
+      1 an oil production
+      2 an oil refinery
+      3 an oil reservoir
+      1 an oil shale
+      1 an oil spill
+      1 an oil storage
+      1 an oil well
+      1 an oilfield
+      1 an oilseed plant
+      3 and oil
+      1 and oil contaminated
+      7 and soil
+      3 and soil coexist
+     32 and soil coexisting
+      3 and soil inclusions
+      2 and soil inside
+      1 and soil samples
+      1 anoxic soil subjected
+   1001 antarctic soil
+    481 antartic soil
+      1 arable soil sample
+      4 archived soil
+      4 arctic soil
+      1 arctica soil
+      5 area soil
+     10 arid soil
+      1 arid soil sample
+      1 arsenic soil
+      4 associated soil
+      3 baby boiled clam
+      1 backyard soil
+      1 bacterial foiling from
+      3 bait soil from
+      1 ball soil
+      1 banana soil
+      5 bank soil
+     72 bare soil
+      1 base soil
+      1 bathroom toilet
+      1 bay soil
+      5 beach soil
+      4 bean soil
+     41 bed soil
+      2 bed soil of
+      1 bed soil where
+      1 beet soil
+      2 biocrust soil
+      3 biological soil crust
+      7 biological soil crusts
+      1 biome soil
+      1 birch soil of
+      1 bituminous soil
+     11 black soil
+      8 bog soil
+      2 bog soil from
+      1 boiled
+      1 boneless broiler chicken
+      1 boreal soil
+     33 botanical soil
+      2 botanical soil conditioner
+      6 bottom soil
+     23 bovine soil
+      3 broiler
+      1 broiler chicken
+      1 broiler parents
+      5 broilers
+     94 bulk soil
+      1 bulk soil and
+     46 bulk soil from
+      2 bulk soil material
+      6 bulk soil near
+      6 bulk soil of
+    399 burned soil
+      1 by oil
+      1 by oil sludge
+      3 campfire topsoil
+      1 cane soil
+     12 cave soil
+      1 cave soil of
+      1 cave soil sample
+      4 cave soil samples
+      1 champenoux soil
+      2 chernozem soil
+      2 chernozem soils
+      1 cherry soil
+      1 chestnut soil
+      1 chicken broiler leg
+      1 citrus soil
+      1 clay Soil
+     29 clay soil
+      1 clay soil in
+      1 clay soil with
+      3 clay soils
+      1 coal spoil heap
+     13 coastal soil
+      1 commercial broiler
+      1 commercial broiler chickens
+     13 compost soil
+      1 containing oil sands
+      1 containing soil sample
+      1 containmented soil
+      1 contaminated landsoil
+    356 contaminated soil
+      1 contaminated soil after
+      1 contaminated soil and
+      1 contaminated soil area
+      1 contaminated soil at
+     15 contaminated soil collected
+      9 contaminated soil from
+      3 contaminated soil in
+      1 contaminated soil microcosm
+      4 contaminated soil of
+      2 contaminated soil samples
+      1 contaminated soil with
+      3 contaminated soils
+      2 contaminated soils from
+      7 contamination soil
+      3 contamined soil
+      1 cooked broiled claw
+      1 copper soil
+      2 core soil
+      1 corn spoilage sample
+      4 cornfield soil
+      1 cotton soil with
+      1 course soil sample
+      3 cover soil
+      1 cover soil from
+      3 covered soil
+      1 covered soil from
+      1 crop soil
+      1 cropland soil
+      6 cropping soil
+     37 crude oil
+     73 crude oil after
+      1 crude oil and
+     19 crude oil contaminated
+      1 crude oil enrichment
+     33 crude oil mixture
+      1 crude oil polluted
+      1 crude oil pollution
+      1 crude oil produced
+      1 crude oil sample
+      2 crude oil storage
+      1 cruid oil
+      1 crystalline soil with
+      4 cucumber spoilage
+      7 cultivated soil
+     11 cultivating soil
+      1 cultivation soil
+      1 dairy oil sugar
+      2 damp soil
+      1 decay soil material
+      1 decaying Oil Palm
+      1 decline soil
+      1 decline soil of
+      2 decomposite soil
+      1 deep oil reservoir
+     12 deep soil layers
+      2 deposits soil
+      1 derived soil sediment
+    107 desert soil
+      1 desert soil crust
+      1 desert soil from
+      3 desert soil in
+      1 desert soil of
+      1 desert soils of
+      1 desert soils with
+      3 developed soil crust
+     22 different soil samples
+      2 dirty soil with
+      2 diseased soil
+      3 disturbed soil
+      2 dried shoil fish
+      2 dried soil
+      1 dried soil of
+      1 drilling soil
+      4 drought soil
+      4 dry soil
+      1 dumpsite soil
+      1 dumpsite soils
+      5 dune soil
+      1 enclosure soil
+      3 engine oil
+      1 enriched soil
+      1 enriched soil in
+      1 enriched soil microbial
+     24 environment broiler
+     18 environment soil
+      1 environmental Soil Sample
+      9 environmental soil
+      1 environmental soil sample
+      3 essential oils
+      3 estuarine soil
+      1 extracting oil from
+      3 factory soil
+      2 fall soil
+     73 farm soil
+      1 farm soil near
+      4 farm soil with
+      1 farmed soil
+      3 farming soil
+     15 farmland soil
+      2 farmland soil irrigated
+      1 farmland soil with
+      7 feces broiler
+      1 feed broiler
+      1 feed broiler medicated
+      1 feed broiler withdrawal
+      1 feedlot soil
+      1 fellfield soil
+      1 fertile soil in
+      1 fertilizer soil
+    482 fetilized topsoil
+     91 field soil
+      2 field soil sample
+     24 filtered soil effluent
+      1 flooded oil stratum
+      3 flooding soil
+      1 flooding soil in
+      1 food spoilage
+      8 forefield soil
+      1 forefield soil sample
+    581 foreland soil
+   1094 forest soil
+      1 forest soil collected
+      1 forest soil communities
+      1 forest soil exposed
+      1 forest soil from
+      1 forest soil in
+      1 forest soil of
+      1 forest soil on
+      3 forest soil sample
+      1 forest soil samples
+      1 forest topsoil
+      1 forrest soil
+     12 forrest soil between
+      1 foundry soil
+      7 free soil
+      6 free soil under
+      6 fresh soil
+      1 freshwater soil
+      3 from Broiler chicken
+      2 from Broiler shed
+      1 from broiler
+      2 from broiler chicken
+      2 from broiler farm
+      1 from oil
+      4 from oil field
+      1 from oil filed
+      3 from oil palm
+      1 from oil refinery
+     13 from oil reservoir
+      1 from oil reservoirfree
+     10 from oil sands
+      3 from oilfield
+      1 from oily sludge
+     37 from soil
+      1 from soil core
+     12 from soil from
+      1 from soil near
+      1 from soil of
+      2 from soil samples
+     12 from toilet paper
+      1 frozen boiled clam
+      1 frozen boiled corn
+      1 frozen boiled periwinkle
+      3 frozen boiled snail
+      2 frozen broiled eel
+      1 frozen broiler chicken
+      1 frozen moilla fish
+     17 frozen soil
+      3 frozen tinfoil barb
+      1 fuel oil
+      2 gallus Broilers
+     96 garden soil
+      1 garden soil at
+      1 garden soil exposed
+      1 garden soil sample
+      1 garden topsoil
+      2 garlic oil
+      1 geocarposphere soil
+      1 geothermal soil of
+      1 gingeng soil
+     12 ginseng soil
+      1 glacier soil
+      1 gley soil under
+      2 granitic soil
+      1 grass soil
+      1 grass soils
+    129 grassland soil
+      3 grassland soil attached
+      1 grassland soil treated
+      1 grassland soils
+      4 gravel soil
+      1 gravel soil sample
+      1 gravelly soil
+      1 gravelly soil from
+      7 greenhouse soil
+      1 greenhouse soils
+      2 ground soil
+      1 ground soil near
+      2 grove soil
+      1 grown oilseed rape
+      2 gutted broiler chicken
+      1 gypsiferous soil
+      1 gypsiferous soil near
+      2 habitat soil
+      3 hard soil
+      2 healthy broiler chicken
+      1 healthy broiler feces
+      1 heated oil field
+      4 heated soil
+      1 heated soil sample
+      1 heavy oil
+      1 high oil canola
+      1 high soil salinity
+      1 hillside soil
+      7 horizon oil spill
+      2 house soil
+      1 humic Soil
+      3 humified soil
+      1 humus soil
+      6 hypersaline soil
+      1 hypersaline soil near
+      1 impacted soil
+      7 in Broiler breeder
+      2 in Oil
+     36 in oil
+      2 in oil enrichment
+      1 in oil field
+      1 in oil sardine
+      3 in oil with
+      1 in oilfield
+      7 in soil
+      1 in soil collected
+      1 in soil in
+      1 in soilless media
+     25 integrated broiler supply
+      1 intertidal soil surface
+      4 irradiated soil
+      1 island soil
+      1 jungle soil
+      1 kaolin soil from
+      5 kratom soil conditioner
+      1 kutty soil
+    116 lake soil
+      1 lake soil with
+      1 lakeside soil
+      4 lame broiler
+      1 land Soil
+     63 landfill soil
+      2 landfill soil from
+      2 lasting soil
+      1 laterite soil
+      2 lateritic soil
+      2 lawn soil
+   1435 layer soil
+      1 layer soil at
+      1 layer soil from
+      1 layer soil samples
+      1 litter soil
+      1 liver broiler
+      3 loam soil
+      1 loamy soil
+      1 loamy soil beneath
+      2 loamy soil from
+      1 local soil
+     20 loess soil profile
+      1 lysimeter soil
+      1 maize soil
+      1 maize soil rhizosphere
+     83 mangrove soil
+      1 mangrove soil and
+     10 mangrove soil microbiome
+      1 manure soil
+      1 maple soil
+      1 marinated broiler meat
+      3 marine soil
+      3 market soil
+      6 marsh soil
+     27 maybe soil
+    384 meadow soil
+      1 meal oilseed by
+     20 mine soil
+      4 mineral oil
+    450 mineral soil
+     12 mining soil
+      1 mining soil in
+      1 mining spoils at
+      1 mixed soil
+      1 mixed soil sample
+      1 moist soil
+      1 moist soil contaminated
+      1 moraine soil
+      1 moss soil
+      1 motor oils
+      2 mound soil
+     45 mountain soil
+      1 muck soil
+      1 mud soil
+      1 muddy soil
+      1 muddy soil from
+      1 native soil
+      1 nest soil
+      1 nicotine soil
+      7 no oil
+      1 oak soil
+      1 oastal soil
+      3 of broiler
+      5 of broiler chicken
+     27 of broiler chickens
+     24 of broiler farm
+     13 of broiler farms
+      1 of broiler flock
+      1 of broiler processing
+      1 of oil
+      2 of oil field
+     12 of oil sands
+      1 of oil well
+      1 of oilfield produced
+      2 of oilseed rape
+      2 of soil
+      1 of soil and
+      9 of soil from
+      3 of soil is
+      1 of soil with
+      1 offshore oil exploration
+      1 offshore oil well
+      1 offshore soil
+     42 oil
+      3 oil contaminated
+     47 oil degraded
+      1 oil palm
+      1 oil refinery
+      3 oil sample
+      1 oil separation
+      1 oil shale
+     10 oilfield
+      1 oilfield outline
+      1 oilseeds
+      1 oily sheens
+      3 old broiler chicken
+      3 old oil exploration
+      1 oligotrophic soil
+      2 on soil
+      3 on soil with
+      1 onshore oil reservoir
+      1 or spoiled food
+     52 orchard soil
+      2 ornithogenic soil
+      1 oxic soil sample
+     84 oxisol soil plot
+      1 oxydic soil sample
+    614 paddy soil
+      8 paddy soil amended
+      1 paddy soil that
+      5 paddy soils
+      3 palm oil mill
+      1 palm oil wastes
+      1 park soil
+     61 pasture soil
+     25 patient toilet
+     65 patty soil
+      1 pavement soil
+    906 peat soil
+      1 peat soil from
+      4 peat soil sample
+      6 peat soil samples
+      3 pepper soil
+   1621 permafrost soil
+      2 petroleum oil refinery
+      1 petroleum oil reservoir
+      1 pickle spoilage tank
+      1 pimiento rhizosoil
+      7 plant soil
+      8 plantation soil
+      7 planting soil
+      1 playground soil
+      1 plot soil
+      1 podozol soil
+      1 podsol soil
+      5 podzolic soil
+      1 podzolic soil contaminated
+    109 polluted soil
+    112 polluted soil sample
+      1 polluted soil with
+      1 potato soil
+      2 potting soil
+     22 poultry soil
+      2 prairie soil
+      1 prarie soil
+      2 prepared boiled clam
+      1 pristine soil sample
+      1 produced oilfield water
+      1 purple soil in
+      2 purple soil of
+      1 quarry soil
+      2 rainforest soil
+      1 rainforest soil sample
+      1 raw soil
+      7 red soil
+      2 red soils
+      1 refinery oily sludge
+      1 refinery soil
+      1 representative soil from
+      2 residential toilet
+      1 residential toilet handle
+     14 retail broiler chicken
+      1 rhisosphere soil
+      1 rhizhosphere soil
+      3 rhizophere soil
+      1 rhizophere soil of
+      1 rhizopheric soil
+      1 rhizospere soil
+      3 rhizosperic soil
+   1228 rhizosphere soil
+      2 rhizosphere soil adjacent
+      1 rhizosphere soil around
+    127 rhizosphere soil culture
+     43 rhizosphere soil from
+     29 rhizosphere soil heavy
+      4 rhizosphere soil in
+      3 rhizosphere soil light
+     14 rhizosphere soil middle
+     95 rhizosphere soil of
+      1 rhizosphere soil on
+      6 rhizosphere soil originating
+      2 rhizosphere soil sample
+      4 rhizosphere soil samples
+      1 rhizosphere soil the
+      3 rhizosphere soils
+      1 rhizosphere soils from
+      3 rhizospherebulk soil near
+     72 rhizospheric soil
+      3 rhizospheric soil from
+     19 rhizospheric soil of
+      1 rhizospheric soil region
+      1 rhizospheric soils
+      1 rhizospherical soil of
+      1 rhyzosphere soil
+      5 rice soil
+      3 rich soil
+      1 rich soil from
+      1 rihzospheric soil
+      1 river tinfoil barb
+      1 riverbank soil
+      1 riverbed soil environment
+     10 riverside soil
+      1 riverside soil in
+      1 rizhospheric soil
+      1 rizosphere soil
+      1 rizospheric soil
+      1 roadside soil
+     17 root soil
+      2 root soil actinomycetes
+      1 root soil in
+      1 root soil of
+      2 roots soil
+      1 rotation soil
+      1 saline oil
+     61 saline soil
+      1 saline soil sample
+      1 saline soil samples
+      1 saline soils
+      1 salt soil
+      1 saltern soil
+      2 salty soil
+      1 sand soil
+     14 sandy soil
+     12 sandy soil contaminated
+      5 sandy soil from
+      1 sandy soil irrigated
+      1 sandy soil sample
+      3 sandy soils
+      1 savannah soil
+      1 sawmill soil
+      6 scat soil
+      1 schawnennfelds tinfoil
+      5 school toilet
+      2 school toilet floor
+      1 sea soil from
+      1 seacoast soil
+      1 seashore soil
+     44 sediment soil
+      1 sediment soil of
+      3 seed oil
+      9 seleniferous soil
+      1 sewerage soil
+      1 shelter soil
+     76 sheltered soil
+      1 shore soil
+      1 shore soil of
+      3 sierozem soil of
+      6 site soil
+      3 slurry spoilage
+      1 snail boiled
+      1 soda soil sample
+    180 soil
+      1 soil and
+      1 soil beside
+      2 soil collected
+      5 soil crust
+      1 soil interface
+      1 soil near
+      1 soil or
+      1 soil pH
+      3 soil rhizosphere
+      1 soil sample
+      1 soil samples
+      1 soil zone
+      1 soils
+      2 solfataric soil
+      4 solonchak soil
+      1 solonchak soils of
+      2 soybean oil diet
+      1 soybean soil
+      1 sphere soil samples
+      1 spoil heap
+      9 spoiled
+      6 spring soil
+      1 spring soil mat
+      6 stable soil
+     10 stained soil
+      1 steppe soil
+      1 steppe soil from
+     18 sterilized soil
+     52 straw soil
+      1 submerged soil sample
+      3 substrate soil by
+      1 subsurface oil
+      4 subsurface oil reservoir
+      3 subsurface soil
+      1 subsurface soil of
+      1 subsurface soil sample
+     27 sulfate soil from
+      2 suppressive soil
+    121 surface soil
+      1 surface soil 0
+      5 surface soil 10
+      6 surface soil 20
+     10 surface soil 30
+      1 surface soil at
+      1 surface soil from
+      1 surface soil near
+   1008 surface soil or
+      6 surrounding soil
+      5 swab soil
+      9 swamp soil
+      2 swine soil
+      1 tail tinfoil barb
+      2 tailing soil
+     13 tailings soil
+      1 tank soil rocks
+      1 tar oil
+      1 tea soil
+      1 technogeneous soil
+      1 temperature oilfield
+     41 termitarium soil
+      1 terrestrial soil from
+      1 terrestrial soils
+      3 thawed soil
+      1 the oil
+      1 the oil field
+      1 the soil
+      2 the soil of
+      8 the soil surface
+      1 the soils of
+      1 the topsoil 1
+     22 the topsoil of
+      9 to oil field
+      1 to oilseed rape
+      3 toilet
+      2 tomato soil
+     48 top soil
+      1 top soil agricultural
+      1 top soil from
+      1 top soil layer
+      2 topsoil
+      2 treated soil
+     27 treated soil from
+      1 treated soil sampled
+      1 treatment soil isolate
+      2 tree Soil
+      1 tree soil
+      3 tropical soil
+      1 tuberosphere soil
+     69 tundra soil
+      1 tundra soil from
+      1 turf soil
+      1 under soil surface
+      1 underground soil of
+      9 unified soil
+      3 upland soil
+      1 upper soil
+      1 upper soil layer
+      1 upper soil sample
+      1 vegetable oil
+     50 vegetable soil
+      1 vineyard soil
+      6 volcanic soil
+      1 volcanic soil on
+      1 volcanic soils
+      1 volcano soil
+      1 volcano soil sample
+      4 waste soil
+      1 wasteland soil
+      1 water oilfields
+      2 waterlogged soil
+     12 wet soil
+      1 wet soil next
+      1 wet soil under
+    700 wetland soil
+     26 wetland soil with
+      4 wheat soil
+      2 whole broiler carcass
+      1 whole tinfoil barb
+      3 wildcat oil drilling
+      1 with boiled beetroot
+     29 with oil for
+      1 with oil from
+     14 with soil
+      1 with soil suspension
+      1 wood soil
+      1 wood soil beside
+      2 woodland soil suspension
+      1 woods soil
+      3 yard soil
+      1 zone soil
+     21 zone soil from
+
+14) mine:
+      1 1	Jasmine rice
+      1 1	Luminescent vibriosis
+      1 1	Mine
+      6 1	Mine sediment
+      2 1	Mine tailings
+      1 1	Mine wall
+      1 1	Mine waste
+    359 1	Mine wastewater
+      1 1	Mine water
+      2 1	Mine waters
+      7 1	Miner
+      2 1	Mineral
+      1 1	Mineral oil
+      1 1	Mineral soil
+      1 1	Undetermined
+      2 1	contamined soil
+      1 1	melamine production
+      1 1	mine
+      1 1	mine area
+     76 1	mine drainage
+      1 1	mine heap
+      1 1	mine sediment
+     93 1	mine service
+      1 1	mine shaff
+      3 1	mine soil
+      2 1	mine tailing
+    801 1	mine tailings
+    208 1	mine wastewater
+      3 1	mine water
+      1 1	mineral media
+      4 1	mineral oil
+      1 1	mineral pool
+      1 1	mineral sediments
+    448 1	mineral soil
+      1 1	mineral spring
+      1 1	mineral substrate
+      9 1	mineral water
+      1 1	mineralizing microbial
+      1 1	minerals
+      2 1	minestrone mix
+      1 1	organomineral substrate
+      1 134 catamine resistant
+      1 2	Mine drainage
+      1 2	Mine tailings
+      1 2	mine tailings
+      1 2	mine water
+      5 Acid Mine Drainage
+     29 Acid mine drainage
+      1 Acid mine water
+      2 Antimony mine tailing
+      1 Beatrix mine
+      2 Coal mine
+      1 Coal mine powder
+      1 Coal mine sludge
+      1 Coal mine soil
+      2 Coal mine wastewater
+      1 Contaminated Mine Soils
+      8 Copper Mine
+      1 Copper Mine Tailings
+      2 Copper Mine tailings
+      1 Copper mine
+      1 Drang Mine
+      1 Essentukskoye mineral water
+      1 G0 mineral horizon
+     10 Glutamine as
+      3 Gold Mine
+      1 Gold Mine crushed
+      1 Gold mine
+      2 Gold mine soil
+      1 Highly mineralized stratal
+      9 Iron Mine
+      1 Iron Mine Borehole
+      1 Iron Mine Tailing
+      1 Kavart mine
+      2 Kingsbury Mine
+      1 Manganese Mine
+      2 Manganese mine
+      1 Mercury mine soil
+      1 Nakase mine
+      1 Narzan mineral spring
+      1 Natural mineral water
+      1 Natural mineral waters
+      1 Not determined
+      1 Oil contaimined soil
+      1 Panasqueira mine
+      1 Pb mine of
+      1 Phosphate Mine
+      1 Phosphate mine
+      1 Phosphate mine in
+      1 Poderosa mine
+      1 Pyrite Mine
+      1 Qibaoshan mine wastewater
+      3 Richmond Mine AB20
+      3 Richmond Mine ABmuck
+      2 Richmond Mine C10
+     12 Richmond Mine C75
+      5 Richmond Mine at
+      1 Richmond mine
+      4 Salt Mine
+      1 Salt Mines
+      1 Salt Mines of
+      4 Salt mine
+      1 Salt mine in
+      1 Salt mines
+      1 Soudan mine sediment
+      1 Takamine
+      1 Thai jasmine rice
+      3 Warm Mineral Spring
+      1 a mine drainage
+      1 a mineral medium
+      2 abdomine
+      1 acid mine decant
+   3429 acid mine drainage
+      1 acid mine lake
+     15 acidic mine discharge
+      3 acidic mine drainage
+      1 acidic mine water
+     37 and trimethylamine at
+     15 antimony mine
+      2 asbestos mine pit
+      4 bearing mine tailings
+      1 bottled mineral water
+      1 cast mine at
+      1 chronic contamined soil
+      1 clay mineral
+      1 clay mineral from
+     12 coal mine
+      1 coal mine drainage
+      2 coal mine effluent
+      1 coal mine pond
+      5 coal mine soil
+      2 coal mine wastewater
+      4 coal mine water
+      4 coal miner
+      1 coal miner with
+      7 coal miners
+      1 cobalt mine
+     27 copper mine
+      3 copper mine drainage
+      4 copper mine soil
+      1 copper mines
+      1 flooded mine in
+      1 from mine
+    111 from mine drainage
+      1 from mine tailing
+      5 from mine tailings
+      1 from mineral sulfide
+      8 gold mine
+      2 gold mine cave
+      1 gold mine fracture
+      2 gold mine soil
+      1 gypsum mine
+      5 hydroxylamine
+      1 in mine tailing
+      1 in mineral medium
+      5 iron mine
+      1 iron mine of
+      1 iron mine soil
+      1 iron mineral soil
+      1 lead mine tailing
+      4 manganese mine
+      1 medieval mine
+      2 methylated amine as
+      1 mine
+      1 mine cave
+      1 mineral particles
+      4 mineralization were
+      1 mines
+      1 molybdenum mine
+      5 natural mineral water
+      4 not detemined
+     28 not determined
+      1 of Jasmine rice
+      1 ore mine
+      1 pasture gramineae
+      1 phosphate mine
+      1 phosphorus mine
+      1 pit mine
+      3 potash mine tailings
+      9 salt mine
+      2 salt mine borehole
+      1 salt mine sample
+      1 salt mine soil
+      2 salt mines
+      1 secondary mineral
+      1 selenium mineral soil
+      2 serpentinite minerals
+      2 slate mine
+      1 spring mineral precipitates
+      1 strip mine refuse
+      1 subsurface mineral water
+      1 sulfide mineral
+      1 sulfide mineral spring
+      1 sulfide minerals surface
+      2 synthetic polyamine AHA
+      1 technogenic mineral waste
+      1 term mineral fertilization
+      1 the mine Catherine
+      2 the mine Wagu
+      1 thermal mineral water
+      1 to Triamine
+     39 to triamine
+      1 tube contaminent
+      2 tungsten mine
+      3 ulcer examined with
+      1 underground mine coal
+      1 underground mine sediment
+      6 uranium mine
+      1 uranium mine drainage
+      1 uranium mine tailings
+      3 uranium mine water
+      1 veg mineral
+      1 with trimethylamine
+     38 with trimethylamine at
+      1 wolfram mine tailing
+      4 zinc mine
+
+15) high-temp:
+      2 1	High-temperature Daqu
+      2 1	High-temperature daqu
+      2 1	high-temperature Daqu
+      2 1	high-temperature compost
+      1 1	high-temperature oilfield
+
+16) high temp:
+      1 1	High temperature acidic
+      1 1	high temperature Daqu
+      1 1	high temperature acidic
+      1 1	high temperature stage
+      2 Extreme high temperature habitat
+      1 at high temperature
+      4 high temperature
+      5 high temperature high
+      4 microbiome high temperature
+      1 soil high temperatures around
+      1 with high temperature around
+

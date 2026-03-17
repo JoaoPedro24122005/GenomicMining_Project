@@ -1,0 +1,16 @@
+therm
+hydrothermal
+geo
+volcan
+sulf
+vent
+spring
+smoker
+deep
+hyper
+hot
+boil
+oil
+mine
+high-temp
+high temp

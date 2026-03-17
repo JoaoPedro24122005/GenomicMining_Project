@@ -1,0 +1,21 @@
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 01-07
+Released after: 01-01
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 01-14
+Released after: 01-08
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
+-------------------------
+NCBI Request Failed! Truncate Request:
+Tax: 2
+Released before: 01-21
+Released after: 01-15
+Fields: accession,assminfo-biosample-isolation-source
+-------------------------
