@@ -37,16 +37,17 @@ echo "[$(date)] File 1 contains $COUNT1 data rows."
 echo "[$(date)] File 2 contains $COUNT2 data rows."
 echo "[$(date)] Total initial data rows: $TOTAL_INITIAL"
 
-# --- STAGE 2: CONCATENATE, SORT, AND DEDUPLICATE ---
+# --- STAGE 2: CONCATENATE, SORT, DEDUPLICATE, REMOVE GCF_ ENTRIES ---
 # 1. Take the first file as is (including header)
 # 2. Append the second file starting from line 2 (skipping header)
-# 3. Sort and remove duplicates (ignoring the header during sort if necessary, 
-#    but since headers are identical, sort -u handles it perfectly)
+# 3. Sort and remove duplicates 
+# 4. Removing all entries with GCF_ in the start of the line (^)
 
 {
     head -n 1 "$FILE1" # Keep header from first file
-    (tail -n +2 "$FILE1"; tail -n +2 "$FILE2") | sort -u
+    (tail -n +2 "$FILE1"; tail -n +2 "$FILE2") | sort -u | sed '/^GCF_/d'
 } > "$OUT_FILE"
+
 
 # --- STAGE 3: COUNT FINAL LINES ---
 # Subtract 1 from the count to account for the header

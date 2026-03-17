@@ -129,7 +129,7 @@ As the result, we get two new files with the genome metadata of the Bacteria and
 
 To download metadata using the Isolation Source,we first need to retrieve all Bacteria and Archaea metadata from NCBI, as the *datasets* tool does not allow filtered searches using the Isolation Source as a key.
 
-But there are more than 2 million assemblies from Bacteria and more than 30 thousand from Archaea available in NCBI, and to retrieve all this data a simples command like:
+But there are more than *2 million* assemblies from Bacteria and more than *30 thousand* from Archaea available in NCBI, and to retrieve all this data a simples command like:
 
 $ datasets summary genome taxon "Bacteria" 
 
@@ -172,24 +172,30 @@ SCRIPT to find which words the keywords matched:
 After that, we update the list of thermoplic and non-thermophilic keywords, so that all this false positive were removed and the only assemblies that stays were specifically extreme enviroments, such as "hot spring, hydrothermal vent, volcano site"
 
 With the updated list we execute the script for the second time *(date: ?)* and filter the data from the Bacteria and Archaea. 
-Finally, we transfer the result files to:
+
+Finally, to obtain the others metadata fields (we only had the Accession Number and Isolation Source at this point), we use the Accession Numbers to request for the Metadata.
+
+SCRIPT used for the search and download the metadata using the Accession:
+*scripts/FetchMetadataByAccession.sh*
+
+The result file was then transfered to:
 *data/DataTables*
 
-@@@@ 
-Why you did not use this complete list in the others steps of the search? You have all the data you need locally, why not use that to search using the literature and others things?
 
-Because what do I have locally is a simple plain text file and to fing the entire records/entrys in this type of file, the search algorithms have to read the entire file, and this search becomes to much computational demand
 
-Comparing to the search done in the database on the server, since this type of DB normally use Database Management Systems, the search becomes much faster, since there are "links" between each column, so the search and retrieving process of the value requested in the query becomes much faster and efficient
-@@@@
+**3) Concatenating the genome metadata and Cleaning the data
 
-**3) Concatenating all the genome metadata founded
+After downloanding the metadata using both methods (Literature and Isolation Source) we
 
-After downloanding the metadata using both methods (Literature and Isolation Source) we needed to concatenate all the diferent genomes and remove any duplicates between the two using the Accession Number as the filter. 
+1 - Concatenate both files into one (for each Domain - Bacteria and Archaea)
+2 - Sort the entries according to the first column (Accession Number)
+3 - Remove any duplicate sequences (same Accession Number)
+4 - Remove all the sequences starting with GCF (since there is always a correspondent GCA Assembly, we only need the GCA)
 
-Note: In all the scripts mentioned above, there is already a step to clean the data and remove duplicate assemblies. Deduplication only applies to assemblies that are repeated between the two methods.
+Note: In all the scripts mentioned above, there is already a step to clean the data and remove duplicate assemblies. Deduplication only applies to assemblies that are repeated between the two methods (Literature and Isolation Source).
 
-To do that we ran, for each Domain, the script: ScriptWithNoName4.sh that unite both tables (from the 2 methods) into one, sorted the entries and remove duplicates
+SCRIPT used for the concatenate and clean the data:
+*scripts/FetchMetadataByAccession.sh*
 
 #Comand (executed on February 16, 2026)
 $ ./ScriptWithNoName4.sh GenomeMetadataFromLit_Arc.tsv GenomeMetadataFromIS_Arc.tsv
@@ -200,10 +206,6 @@ The resulting files were:
 - GenomeMetadataMerged_Bac.tsv
 
 **4) Creating a Directory Structure for Taxonomy**
-
-@@@@
-O objetivo aqui é ter uma hierarquia de diretorios (comecando de Filo e indo ate Especie) para facilitar o acesso as genomas, como tbm para facilitar o estudo do genoma de um taxon especifico, como uma classe ou um filo
-@@@@
 
 The next step was to create a directory hierarchy using the taxonomy of each organism to organize the genomes and metadata in a way that each taxon is separated and the child taxa of a certain phylum, for example, are inside the phylum directory
 
@@ -297,8 +299,20 @@ Data Source
 | Tool / Resource | Version | Access/Download Date |
 | :--- | :--- | :--- |
 | **TaxonKit** | v0.20.0 | 2026-02-13 |
-| **NCBI taxdump** | N/A | 2026-02-13 |
+| **NCBI taxdump** | N/A | 2026-03-14 |
 | **datasets** | 18.16.0 | 2026-02-16 |
 | **dataformat** | 18.16.0 | 2026-02-16 |
 
 
+@@@@ 
+Why you did not use this complete list in the others steps of the search? You have all the data you need locally, why not use that to search using the literature and others things?
+
+Because what do I have locally is a simple plain text file and to fing the entire records/entrys in this type of file, the search algorithms have to read the entire file, and this search becomes to much computational demand
+
+Comparing to the search done in the database on the server, since this type of DB normally use Database Management Systems, the search becomes much faster, since there are "links" between each column, so the search and retrieving process of the value requested in the query becomes much faster and efficient
+@@@@
+
+
+@@@@
+O objetivo aqui é ter uma hierarquia de diretorios (comecando de Filo e indo ate Especie) para facilitar o acesso as genomas, como tbm para facilitar o estudo do genoma de um taxon especifico, como uma classe ou um filo
+@@@@
