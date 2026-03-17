@@ -1,1 +1,14 @@
+# Security
 .gittoken
+
+# Bioinformatics Temp/Log Files
+**/temp_file*
+**/*temp_file*
+**/*OldFile*
+**/*LogFile*
+**/*test_file*
+
+# Error logs
+**/*ERROR*
+**/*Error*
+**/*error*
