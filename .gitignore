@@ -1,14 +1,5 @@
-# Security
+# Sensitive Information
 .gittoken
 
-# Bioinformatics Temp/Log Files
-**/temp_file*
-**/*temp_file*
-**/*OldFile*
-**/*LogFile*
-**/*test_file*
-
-# Error logs
-**/*ERROR*
-**/*Error*
-**/*error*
+# Data - Ignore all Intermediary work-in-progress files
+data/Intermediary/
