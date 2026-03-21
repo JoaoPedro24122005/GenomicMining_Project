@@ -1,0 +1,43 @@
+GenomicMining_Project/
+├── data/
+│   ├── Intermediary/               <-- Script-specific work-in-progress, temp files, and logs
+│   │   ├── 1_DownloadingMetadata/
+│   │   │   ├── Concatenate/
+│   │   │   ├── IsolationSource/
+│   │   │   │   ├── 1_DownloadingAllMetadata/
+│   │   │   │   ├── 2_FilteringMetadata/
+│   │   │   │   └── 3_DownloadingMetadataUsingAccession/
+│   │   │   └── Literature/
+│   │   ├── 2_Taxonomy/
+│   │   └── 3_Analysis/
+│   ├── Processed/                  <-- High-quality, standardized files ready for final analysis
+│   │   ├── 1_DownloadingMetadata/ 
+│   │   │   ├── Concatenate/
+│   │   │   ├── IsolationSource/
+│   │   │   │   ├── 1_DownloadingAllMetadata/
+│   │   │   │   ├── 2_FilteringMetadata/
+│   │   │   │   └── 3_DownloadingMetadataUsingAccession/
+│   │   │   └── Literature/
+│   │   ├── 2_Taxonomy
+│   │   └── 3_Analysis/
+│   ├── Raw/                        <-- Original, immutable data (NCBI downloads, Literature lists)
+│   │   ├── IsolationSource/
+│   │   └── Literature/
+│   └── docs/                       <-- Project documentation, articles, and protocols
+│       └── Articles_Info/
+├── results/                        <-- Final, publication-ready outputs
+│   ├── Figures/                    <-- Plots, heatmaps, and phylogeny trees
+│   └── Tables/                     <-- Final summary tables of thermostable laccases
+├── scripts/                        <-- Executable logic only (No .tsv or .log files)
+│   ├── 1_DownloadingMetadata/      <-- Metadata retrieval logic
+│   │   ├── Concatenate/
+│   │   ├── IsolationSource/
+│   │   │   ├── 1_DownloadingAllMetadata/
+│   │   │   ├── 2_FilteringMetadata/
+│   │   │   └── 3_DownloadingMetadataUsingAccession/
+│   │   └── Literature/
+│   ├── 2_Taxonomy/                 <-- Taxonomic standardization logic
+│   ├── 3_Analysis/                 <-- Enzyme mining and sequence analysis
+│   └── Utilities/                  <-- Shared helper functions and scripts
+├── .gitignore                      <-- Configured to ignore tokens and the Intermediary/ files
+└── README.md                       <-- Project overview

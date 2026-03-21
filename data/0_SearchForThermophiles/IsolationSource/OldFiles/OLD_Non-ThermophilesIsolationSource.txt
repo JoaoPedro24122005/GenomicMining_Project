@@ -1,6 +1,0 @@
-# Non-Thermophilic (False Positive) Keywords
-
-* dog # Refering to hot dog
-* cold
-* low-temperature
-* low temperature

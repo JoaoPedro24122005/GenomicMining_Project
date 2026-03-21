@@ -181,8 +181,6 @@ SCRIPT used for the search and download the metadata using the Accession:
 The result file was then transfered to:
 *data/DataTables*
 
-
-
 **3) Concatenating the genome metadata and Cleaning the data
 
 After downloanding the metadata using both methods (Literature and Isolation Source) we
