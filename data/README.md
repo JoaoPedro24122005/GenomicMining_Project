@@ -103,14 +103,14 @@ Using the previous mentioned files containing the TaxID from thermophilic bacter
 #COMAND
 datasets summary genome taxon --as-json-lines --inputfile <TaxID File> | datasets tsv genome --elide-header <OPTIONAL> --fields Field1,Field2,Field3,... 
 
-datasets:
+*datasets:*
 - summary: downloading only the Assemnly Metadata
 - genome: ... from the genome
 - taxon: using the taxon (taxon name or taxid) as the key search
 - flag --as-json-lines: force the datasets command to separate each Assembly in a different line (default: all the Assemblies in the same line)
 - flag --inputfile: make the datasets command read from a file instead of reading the positional argument
 
-dataformat:
+*dataformat:*
 - tsv: transform the JSON file in a TSV file
 - genome: ... from the genome
 - flag --elide-header: remove the HEADER from the file
@@ -205,7 +205,7 @@ The resulting files were:
 
 **4) Creating a Directory Structure for Taxonomy**
 
-The next step was to create a directory hierarchy using the taxonomy of each organism to organize the genomes and metadata in a way that each taxon is separated and the child taxa of a certain phylum, for example, are inside the phylum directory
+The next step was to create a directory hierarchy using the taxonomy of each organism to organize the genomes and metadata in a way that each taxon is separated in a directory and the child taxa are in the subdirectorys
 
 Note: We use only the classical taxonomy ranks - Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species
 
@@ -225,7 +225,7 @@ Note: We use only the classical taxonomy ranks - Domain, Kingdom, Phylum, Class,
 								│   └── annotation.gff
 								└── metadata_species.json
 
-To do that the first step was to pick all the TaxID from the Assemblies founded and create a new file with the complete taxonomy of that organism
+To do that the first step was to pick all the TaxID from the Assemblies founded and create a file with the complete taxonomy of each organism
 
 #COMAND
 
@@ -237,7 +237,83 @@ taxonkit reformat2 \
     --no-ranks "clade" \
     <(tail -n +2 <Input File> | cut -f1,2,3) | \
 tr ';' '\t' | \
-csvtk add-header -t -n "Accession,Organism_Name,TaxID_Original,Domain,Phylum,Class,Order,Family,Genus,Species,Subspecies,TaxID_Domain,TaxID_Phylum,TaxID_Class,TaxID_Order,TaxID_Family,TaxID_Genus,TaxID_Species,TaxID_Subspecies" > <Output File>
+csvtk add-header -t -n <Fields_HEADER> <Output File>
+
+*taxonkit:*
+- reformat2: give the complete taxonomy of the organism using the TaxID
+- flag -I <number_field>: which field reformat2 is gonna read from
+- flag -f {taxon1};{taxon2}: which taxons you want reformat2 to output  
+- flag -r <string>: when a certain taxon doesn't exist, complete the field with a <string>
+- flag -t: include a second set of columns with TaxID of each rank, instead of the Taxon Names (default)
+- flag --no-ranks <string>: ignore the ranks <string>
+
+After that, this file containing all the taxonomy from each Assemblies was used to create the Directory Structure. This was done using the script below
+
+SCRIPT used for the search and download the metadata using the Accession:
+*scripts/2_Taxonomy/CreatingTaxonomyHierarchy.sh*
+
+**5) Descriptive Statistics of the Assemblies**
+
+To summarize all the information we got from the Assembly files (for Archaea and Bacteria), we select some characteristics of the data we want to know:
+
+@@@@@@@@@@@@@
+
+O que eu quero saber sobre os meus dados?
+
+Numero total de montagens/assemblies?
+Numero de
+- Especies (e talvez as cepas diferentes)
+- Generos
+- Familias
+- Ordens
+- Classes
+- Filos
+unicos? repetidos (quantas vezes)? mais representados?
+Distribuicao das fontes de isolamento? Ja tenho script pronto q faz isso
+Distribuicao da localizacao geografica das amostras? Posso usar o mesmo script citado acima (talvez)
+Distribuicao dos ecotipos?
+Distribuicao dos hospedeiros desses organismos?
+
+Quais especies vivem dentro os hospedeiros?
+Quais especies vivem nas diferentes fonte de isolamento
+
+@@@@@@@@@@@@@
+
+#Fields - Assemblies Table
+
+     1  Assembly Accession
+     2  Organism Name
+     3  Organism Taxonomic ID
+     4  Organism Infraspecific Names Isolate
+     5  Organism Infraspecific Names Strain
+     6  Assembly Release Date
+     7  Assembly BioSample Accession
+     8  Assembly BioSample Isolate
+     9  Assembly BioSample Strain
+    10  Assembly BioSample Isolation source
+    11  Assembly BioSample Geographic location
+    12  Assembly BioSample Latitude and Longitude
+    13  Assembly BioSample Collection date
+    14  Assembly BioSample Host
+    15  Assembly BioSample Host disease
+    16  Assembly BioSample Ecotype
+    17  Assembly Atypical Is Atypical
+    18  Assembly Atypical Warnings
+    19  Assembly Type
+	
+#Fields - Taxonomy Table	
+
+	 1  Accession
+     2  Organism_Name
+     3  TaxID_Original
+     4  Domain
+     5  Phylum
+     6  Class
+     7  Order
+     8  Family
+     9  Genus
+    10  Species
+    11  Subspecies
 
 ---------------------
 
