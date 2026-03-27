@@ -252,7 +252,59 @@ After that, this file containing all the taxonomy from each Assemblies was used 
 SCRIPT used for the search and download the metadata using the Accession:
 *scripts/2_Taxonomy/CreatingTaxonomyHierarchy.sh*
 
-**5) Descriptive Statistics of the Assemblies**
+**5) Filtering Data**
+
+Removing Bacteria from Archaea data
+Removing Archaea from Bacteria data
+Removing Eucaryotes from Archaea and Bacteria data
+*Removing Non-Thermophilic data (need to find some criteria)
+Removing GCF_ entries from the data
+Find all words that identify lack of some data:
+
+*Standard Acronyms
+NA
+N/A
+
+*Direct Negations
+None
+Null
+Empty
+Void
+Missing
+
+*Status Descriptions
+Unknown
+Undetermined
+Unclassified
+Unassigned
+Undefined
+Anonymous
+
+*"Not" Phrases
+Not available
+Not applicable
+Not identified
+Not recorded
+Not provided
+Not listed
+
+Replacing empty cells or cells with one of the different negations cited with "NULL"
+
+Removing empty cells from tsv file
+#COMMAND:
+awk -F'\t' -v OFS='\t' '{for (i=1; i<=NF; i++) if ($i == "" || $i == "N/A") $i="NULL"; print}' <INPUT> > <OUTPUT>
+
+Replacing empty cells or cells others different negations with "NULL"
+#COMMAND:
+awk -F'\t' -v OFS='\t' '{
+    for (i=1; i<=NF; i++) {
+        if (tolower($i) ~ /^$|^(na|n\/a|n\\a|none|null|empty|void|missing|unknown|undetermined|unclassified|unassigned|undefined|anonymous|not available|not applicable|not identified|not recorded|not provided|not listed)$/) 
+            $i="NULL"
+    }
+    print
+}' <INPUT> <OUTPUT>
+
+**6) Descriptive Statistics of the Assemblies**
 
 To summarize all the information we got from the Assembly files (for Archaea and Bacteria), we select some characteristics of the data we want to know:
 
@@ -260,45 +312,52 @@ To summarize all the information we got from the Assembly files (for Archaea and
 
 O que eu quero saber sobre os meus dados?
 
-Numero total de montagens/assemblies?
-Numero de
-- Especies (e talvez as cepas diferentes)
+Numero total de montagens/assemblies
+Numero total de entradas nao-vazias ou invalidas de cada coluna
+Numero de entradas unicas em cada coluna
+Numero de entradas repetidas em cada coluna
+
+
+Numero de cada taxon:
+- Especies (e talvez as cepas/subespecies diferentes)
 - Generos
 - Familias
 - Ordens
 - Classes
 - Filos
+- Dominios (deve ser igual a 1)
 unicos? repetidos (quantas vezes)? mais representados?
+
 Distribuicao das fontes de isolamento? Ja tenho script pronto q faz isso
 Distribuicao da localizacao geografica das amostras? Posso usar o mesmo script citado acima (talvez)
 Distribuicao dos ecotipos?
 Distribuicao dos hospedeiros desses organismos?
 
 Quais especies vivem dentro os hospedeiros?
-Quais especies vivem nas diferentes fonte de isolamento
+Quais especies vivem nas diferentes fonte de isolamento?
 
 @@@@@@@@@@@@@
 
 #Fields - Assemblies Table
 
-     1  Assembly Accession
-     2  Organism Name
+     **1  Assembly Accession
+     **2  Organism Name
      3  Organism Taxonomic ID
-     4  Organism Infraspecific Names Isolate
+     **4  Organism Infraspecific Names Isolate
      5  Organism Infraspecific Names Strain
      6  Assembly Release Date
      7  Assembly BioSample Accession
      8  Assembly BioSample Isolate
      9  Assembly BioSample Strain
-    10  Assembly BioSample Isolation source
-    11  Assembly BioSample Geographic location
-    12  Assembly BioSample Latitude and Longitude
+    **10  Assembly BioSample Isolation source
+    **11  Assembly BioSample Geographic location
+    **12  Assembly BioSample Latitude and Longitude
     13  Assembly BioSample Collection date
-    14  Assembly BioSample Host
-    15  Assembly BioSample Host disease
+    **14  Assembly BioSample Host
+    **15  Assembly BioSample Host disease
     16  Assembly BioSample Ecotype
     17  Assembly Atypical Is Atypical
-    18  Assembly Atypical Warnings
+    **18  Assembly Atypical Warnings
     19  Assembly Type
 	
 #Fields - Taxonomy Table	
@@ -314,6 +373,24 @@ Quais especies vivem nas diferentes fonte de isolamento
      9  Genus
     10  Species
     11  Subspecies
+    
+
+Creating a file with the number of nom-empty cells
+
+awk -F'\t' '
+NR == 1 {
+     for (i=1; i<=NF; i++)
+          columns_names[i] = $i
+}
+NR > 1 { 
+    for (i=1; i<=NF; i++) 
+        if ($i != "NULL") count[i]++ 
+} 
+END {
+    total = NR - 1; # Total lines minus the header
+    for (i=1; i<=length(count); i++) 
+        printf "Column %s (%i):\t%d/%d\t(%.2f%%)\n", columns_names[i], i, count[i], total, (count[i]/total)*100
+}' NO_EMPTY_CELLS-ThermophileMetadata_Arc.tsv
 
 ---------------------
 
