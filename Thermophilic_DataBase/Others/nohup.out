@@ -1,0 +1,250 @@
+Creating save file LogFiles/ERROR_2026-03-27_22-20-18.log in /mnt/c/Users/jpcas/Downloads/Bioinformatics/Thermophilic_DataBase/ResultFiles/1_DownloadingMetadataFromNCBI/LogFiles
+Creating save file AllBacAssemblies.tsv in /mnt/c/Users/jpcas/Downloads/Bioinformatics/Thermophilic_DataBase/ResultFiles/1_DownloadingMetadataFromNCBI
+Creating save file AllArcAssemblies.tsv in /mnt/c/Users/jpcas/Downloads/Bioinformatics/Thermophilic_DataBase/ResultFiles/1_DownloadingMetadataFromNCBI
+[1;33m[Attempt 1/5]:[0m Taxon: 2157 (from Start to Today)
+Creating save file LogFiles/ERROR_2026-03-27_22-21-00.log in /mnt/c/Users/jpcas/Downloads/Bioinformatics/Thermophilic_DataBase/ResultFiles/1_DownloadingMetadataFromNCBI/LogFiles
+Creating save file AllBacAssemblies.tsv in /mnt/c/Users/jpcas/Downloads/Bioinformatics/Thermophilic_DataBase/ResultFiles/1_DownloadingMetadataFromNCBI
+Creating save file AllArcAssemblies.tsv in /mnt/c/Users/jpcas/Downloads/Bioinformatics/Thermophilic_DataBase/ResultFiles/1_DownloadingMetadataFromNCBI
+[1;33m[Attempt 1/5]:[0m Taxon: 2157 (from Start to Today)
+[0;32m[SUCCESS]:[0m Retrieved 40570 records.
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from Start to 2010-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 5112 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2011-01-01 to 2011-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 558 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2011-03-15 to 2011-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 648 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2011-05-27 to 2011-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 675 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2011-08-08 to 2011-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 585 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2011-10-20 to 2011-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 823 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2012-01-01 to 2012-03-13)
+[0;32m[SUCCESS]:[0m Retrieved 999 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2012-03-14 to 2012-05-25)
+[0;32m[SUCCESS]:[0m Retrieved 972 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2012-05-26 to 2012-08-06)
+[0;32m[SUCCESS]:[0m Retrieved 1619 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2012-08-07 to 2012-10-18)
+[0;32m[SUCCESS]:[0m Retrieved 1803 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2012-10-19 to 2012-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 1568 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2013-01-01 to 2013-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 1179 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2013-03-15 to 2013-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 5138 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2013-05-27 to 2013-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 3719 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2013-08-08 to 2013-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 3527 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2013-10-20 to 2013-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 2650 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2014-01-01 to 2014-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 7763 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2014-03-15 to 2014-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 9350 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2014-05-27 to 2014-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 3512 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2014-08-08 to 2014-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 2477 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2014-10-20 to 2014-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 4099 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2015-01-01 to 2015-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 3165 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2015-03-15 to 2015-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 8514 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2015-05-27 to 2015-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 26870 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2015-08-08 to 2015-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 4771 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2015-10-20 to 2015-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 7702 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2016-01-01 to 2016-03-13)
+[0;32m[SUCCESS]:[0m Retrieved 15855 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2016-03-14 to 2016-05-25)
+[0;32m[SUCCESS]:[0m Retrieved 7460 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2016-05-26 to 2016-08-06)
+[0;32m[SUCCESS]:[0m Retrieved 4686 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2016-08-07 to 2016-10-18)
+[0;32m[SUCCESS]:[0m Retrieved 6797 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2016-10-19 to 2016-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 18379 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2017-01-01 to 2017-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 10869 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2017-03-15 to 2017-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 13917 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2017-05-27 to 2017-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 8741 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2017-08-08 to 2017-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 24222 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2017-10-20 to 2017-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 11011 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2018-01-01 to 2018-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 12676 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2018-03-15 to 2018-05-26)
+Error: [gateway] read tcp 172.24.94.88:34816->130.14.29.110:443: read: connection reset by peer
+[0;31m[FAILED]:[0m Attempt 1 failed or was truncated.
+[1;33m[Attempt 2/5]:[0m Taxon: 2 (from 2018-03-15 to 2018-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 11799 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2018-05-27 to 2018-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 21041 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2018-08-08 to 2018-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 22153 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2018-10-20 to 2018-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 24226 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2019-01-01 to 2019-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 20281 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2019-03-15 to 2019-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 95022 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2019-05-27 to 2019-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 112907 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2019-08-08 to 2019-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 71298 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2019-10-20 to 2019-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 45209 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2020-01-01 to 2020-03-13)
+[0;32m[SUCCESS]:[0m Retrieved 83454 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2020-03-14 to 2020-05-25)
+[0;32m[SUCCESS]:[0m Retrieved 90742 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2020-05-26 to 2020-08-06)
+[0;32m[SUCCESS]:[0m Retrieved 73030 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2020-08-07 to 2020-10-18)
+[0;32m[SUCCESS]:[0m Retrieved 47967 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2020-10-19 to 2020-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 84596 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2021-01-01 to 2021-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 55273 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2021-03-15 to 2021-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 67436 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2021-05-27 to 2021-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 56994 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2021-08-08 to 2021-10-19)
+Error: [gateway] read tcp 172.24.94.88:43272->130.14.29.110:443: read: connection reset by peer
+[0;31m[FAILED]:[0m Attempt 1 failed or was truncated.
+[1;33m[Attempt 2/5]:[0m Taxon: 2 (from 2021-08-08 to 2021-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 69473 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2021-10-20 to 2021-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 47067 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2022-01-01 to 2022-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 68929 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2022-03-15 to 2022-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 61380 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2022-05-27 to 2022-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 64881 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2022-08-08 to 2022-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 77995 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2022-10-20 to 2022-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 108409 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2023-01-01 to 2023-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 123640 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2023-03-15 to 2023-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 127470 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2023-05-27 to 2023-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 44617 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2023-08-08 to 2023-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 120311 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2023-10-20 to 2023-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 120094 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2024-01-01 to 2024-03-13)
+[0;32m[SUCCESS]:[0m Retrieved 141006 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2024-03-14 to 2024-05-25)
+[0;32m[SUCCESS]:[0m Retrieved 95196 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2024-05-26 to 2024-08-06)
+[0;32m[SUCCESS]:[0m Retrieved 77175 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2024-08-07 to 2024-10-18)
+Error: [gateway] read tcp 172.24.94.88:37776->130.14.29.110:443: read: connection reset by peer
+[0;31m[FAILED]:[0m Attempt 1 failed or was truncated.
+[1;33m[Attempt 2/5]:[0m Taxon: 2 (from 2024-08-07 to 2024-10-18)
+[0;32m[SUCCESS]:[0m Retrieved 135717 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2024-10-19 to 2024-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 164324 records.
+Starting split request (1 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2025-01-01 to 2025-03-14)
+Error: [gateway] read tcp 172.24.94.88:49682->130.14.29.110:443: read: connection reset by peer
+[0;31m[FAILED]:[0m Attempt 1 failed or was truncated.
+[1;33m[Attempt 2/5]:[0m Taxon: 2 (from 2025-01-01 to 2025-03-14)
+[0;32m[SUCCESS]:[0m Retrieved 179119 records.
+Starting split request (2 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2025-03-15 to 2025-05-26)
+[0;32m[SUCCESS]:[0m Retrieved 116499 records.
+Starting split request (3 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2025-05-27 to 2025-08-07)
+[0;32m[SUCCESS]:[0m Retrieved 90256 records.
+Starting split request (4 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2025-08-08 to 2025-10-19)
+[0;32m[SUCCESS]:[0m Retrieved 85640 records.
+Starting split request (5 / 5)
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2025-10-20 to 2025-12-31)
+[0;32m[SUCCESS]:[0m Retrieved 72479 records.
+[1;33m[Attempt 1/5]:[0m Taxon: 2 (from 2026-01-01 to Today)
+[0;32m[SUCCESS]:[0m Retrieved 164159 records.

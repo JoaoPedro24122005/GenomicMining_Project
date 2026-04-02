@@ -1,0 +1,112 @@
+Organism Name	Literature Reference	TaxID	Domain	Phylum	Class	Order	Family	Genus	Species
+Acidimicrobium	https://doi.org/10.1002/mbo3.615	53634	Bacteria	Actinomycetota	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	Acidimicrobium	NULL
+Acidithiobacillus	https://doi.org/10.1016/j.chemosphere.2019.05.185	119977	Bacteria	Pseudomonadota	Acidithiobacillia	Acidithiobacillales	Acidithiobacillaceae	Acidithiobacillus	NULL
+Aeribacillus	https://doi.org/10.1128/mra.00224-20	1055323	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Aeribacillus	NULL
+Anaerobranca	https://doi.org/10.1099/ijsem.0.004810	42447	Bacteria	Bacillota	Clostridia	Eubacteriales	Proteinivoracaceae	Anaerobranca	NULL
+Anaerophaga	https://doi.org/10.1128/jb.05719-11	177399	Bacteria	Bacteroidota	Bacteroidia	Marinilabiliales	Marinilabiliaceae	Anaerophaga	NULL
+Aneurinibacillus	https://doi.org/10.1016/j.ijbiomac.2022.11.215	55079	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Aneurinibacillus	NULL
+Anoxybacillus	https://doi.org/10.1007/s11274-023-03583-7	150247	Bacteria	Bacillota	Bacilli	Bacillales	Anoxybacillaceae	Anoxybacillus	NULL
+Aquifex	https://doi.org/10.1016/j.jbc.2024.105731	2713	Bacteria	Aquificota	Aquificia	Aquificales	Aquificaceae	Aquifex	NULL
+Hydrogenobacter	https://doi.org/10.1371/journal.pone.0310595	939	Bacteria	Aquificota	Aquificia	Aquificales	Aquificaceae	Hydrogenobacter	NULL
+Thermosulfidibacter	https://doi.org/10.1007/s12088-024-01214-9	412592	Bacteria	Thermosulfidibacterota	Thermosulfidibacteria	Thermosulfidibacterales	Thermosulfidibacteraceae	Thermosulfidibacter	NULL
+Venenivibrio	https://doi.org/10.1038/s41467-023-43960-2	407997	Bacteria	Aquificota	Aquificia	Aquificales	Hydrogenothermaceae	Venenivibrio	NULL
+Atrimonas	https://doi.org/10.1016/j.syapm.2024.126515	3149264	Bacteria	Atribacterota	Atribacteria	Atribacterales	Atrimonadaceae	Atrimonas	NULL
+Azoarcus	https://doi.org/10.3389/fmicb.2017.00707	12960	Bacteria	Pseudomonadota	Betaproteobacteria	Rhodocyclales	Zoogloeaceae	Azoarcus	NULL
+Bacillus licheniformis	https://doi.org/10.1016/j.ijbiomac.2020.05.139	1402	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+Bacillus thermoamylovorans	https://doi.org/10.1007/s10295-017-1921-4	35841	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Caldibacillus	Caldibacillus thermoamylovorans
+Bacillus methanolicus	https://doi.org/10.3389/fmicb.2016.01481	1471	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus methanolicus
+Bacillus sporothermodurans	https://doi.org/10.1016/j.ijfoodmicro.2021.109318	46224	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Heyndrickxia	Heyndrickxia sporothermodurans
+Bacillus cereus	https://doi.org/10.1016/j.ijfoodmicro.2021.109318	1396	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus
+Brevibacillus	https://doi.org/10.1099/ijsem.0.005154	55080	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	NULL
+Caldalkalibacillus	https://doi.org/10.1016/j.bbrc.2021.08.059	379065	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Caldalkalibacillus	NULL
+Caldibacillus	https://doi.org/10.3390/microorganisms10122375	1276290	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Caldibacillus	NULL
+Caldicellulosiruptor	https://doi.org/10.1074/jbc.ra118.007120	44000	Bacteria	Bacillota	NULL	Caldicellulosiruptorales	Caldicellulosiruptoraceae	Caldicellulosiruptor	NULL
+Caldimicrobium	https://doi.org/10.1099/ijsem.0.000947	444090	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Caldimicrobium	NULL
+Caldimonas	https://doi.org/10.1016/j.mimet.2021.106375	196013	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sphaerotilaceae	Caldimonas	NULL
+Caloramator	https://doi.org/10.1128/mra.00708-19	44258	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Caloramator	NULL
+Calothrix	https://doi.org/10.1016/j.ympev.2022.107454	1186	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Calotrichaceae	Calothrix	NULL
+Carboxydothermus	https://doi.org/10.1007/s00792-019-01091-x	129957	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Carboxydothermus	NULL
+Chloroflexus	https://doi.org/10.1007/978-1-0716-3060-0_32	1107	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Chloroflexaceae	Chloroflexus	NULL
+Clostridium paradoxum	https://doi.org/10.1128/genomea.00229-16	29346	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Tepidibacteraceae	Alkalithermobacter	Alkalithermobacter thermoalcaliphilus
+Clostridium thermobutyricum	https://doi.org/10.1128/genomea.00367-17	29372	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium thermobutyricum
+Clostridium thermocellum	https://doi.org/10.1111/1751-7915.13580	1515	Bacteria	Bacillota	Clostridia	Acetivibrionales	Acetivibrionaceae	Acetivibrio	Acetivibrio thermocellus
+Clostridium thermopalmarium	https://doi.org/10.1128/genomea.00338-18	29373	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium thermopalmarium
+Clostridium thermosuccinogenes	https://doi.org/10.1128/aem.00363-18	84032	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium thermosuccinogenes
+Deinococcus-Thermus	https://doi.org/10.1002/mbo3.119	1297	Bacteria	Deinococcota	NULL	NULL	NULL	NULL	NULL
+Desulfacinum	https://doi.org/10.1007/s00792-019-01132-5	35836	Bacteria	Thermodesulfobacteriota	Syntrophobacteria	Syntrophobacterales	Syntrophobacteraceae	Desulfacinum	NULL
+Desulfotomaculum	https://doi.org/10.1099/ijsem.0.001139	1562	Bacteria	Bacillota	Clostridia	Eubacteriales	Desulfotomaculaceae	Desulfotomaculum	NULL
+Dictyoglomi	https://doi.org/10.3389/fmicb.2016.01979	68297	Bacteria	Dictyoglomota	NULL	NULL	NULL	NULL	NULL
+Fervidibacter	https://doi.org/10.1002/2211-5463.70072	1448928	Bacteria	Candidatus Fervidibacterota	Fervidibacteria	Fervidibacterales	Fervidibacteraceae	Fervidibacter	NULL
+Fervidobacterium	https://doi.org/10.1186/s12864-024-11128-x	2422	Bacteria	Thermotogota	Thermotogae	Thermotogales	Fervidobacteriaceae	Fervidobacterium	NULL
+Fischerella thermalis	https://doi.org/10.1007/s00792-019-01125-4	372787	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Hapalosiphonaceae	Fischerella	Fischerella thermalis
+Geobacillus	https://doi.org/10.1099/mic.0.000945	129337	Bacteria	Bacillota	Bacilli	Bacillales	Anoxybacillaceae	Geobacillus	NULL
+Parageobacillus	https://doi.org/10.1099/mic.0.000945	1906945	Bacteria	Bacillota	Bacilli	Bacillales	Anoxybacillaceae	Parageobacillus	NULL
+Gloeomargarita	https://doi.org/10.1128/msystems.00317-22	1188227	Bacteria	Cyanobacteriota	Cyanophyceae	Gloeomargaritales	Gloeomargaritaceae	Gloeomargarita	NULL
+Hydrogenobacter	https://doi.org/10.1016/j.str.2024.02.012	939	Bacteria	Aquificota	Aquificia	Aquificales	Aquificaceae	Hydrogenobacter	NULL
+Hydrogenophilus	https://doi.org/10.1016/j.str.2024.02.012	70774	Bacteria	Pseudomonadota	Hydrogenophilia	Hydrogenophilales	Hydrogenophilaceae	Hydrogenophilus	NULL
+Hydrogenobaculum	https://doi.org/10.1186/s12866-024-03704-8	168657	Bacteria	Aquificota	Aquificia	Aquificales	Aquificaceae	Hydrogenobaculum	NULL
+Lysinibacillus	https://doi.org/10.3390/microorganisms10040709	400634	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Lysinibacillus	NULL
+Mastigocladus	https://doi.org/10.1016/j.plaphy.2025.110384	29417	Bacteria	Cyanobacteriota	Cyanophyceae	Nostocales	Hapalosiphonaceae	Mastigocladus	NULL
+Meiothermus	https://doi.org/10.1099/ijsem.0.002040	65551	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Meiothermus	NULL
+Methylococcaceae	https://doi.org/10.3389/fmicb.2023.1253773	403	Bacteria	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylococcaceae	NULL	NULL
+Methylocystaceae	https://doi.org/10.3389/fmicb.2023.1253773	31993	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methylocystaceae	NULL	NULL
+Methylothermaceae	https://doi.org/10.3389/fmicb.2023.1253773	1486721	Bacteria	Pseudomonadota	Gammaproteobacteria	Methylococcales	Methylothermaceae	NULL	NULL
+Moorella	https://doi.org/10.1186/s40643-023-00682-z	44260	Bacteria	Bacillota	Clostridia	Neomoorellales	Neomoorellaceae	Neomoorella	NULL
+Nitrolancea	https://doi.org/10.3389/fmicb.2020.01522	1206748	Bacteria	Thermomicrobiota	Thermomicrobia	Sphaerobacterales	Sphaerobacteraceae	Nitrolancea	NULL
+Oscillatoria	https://doi.org/10.1128/aem.01363-17	1158	Bacteria	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Oscillatoria	NULL
+Paenibacillus	https://doi.org/10.1016/j.jbiotec.2021.10.008	44249	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	NULL
+Phormidium	https://doi.org/10.2166/wst.2017.478	1198	Bacteria	Cyanobacteriota	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Phormidium	NULL
+Raineya	https://doi.org/10.1099/ijsem.0.002556	2071614	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Raineyaceae	Raineya	NULL
+Rhodothermus	https://doi.org/10.1099/ijsem.0.005214	29548	Bacteria	Rhodothermota	Rhodothermia	Rhodothermales	Rhodothermaceae	Rhodothermus	NULL
+Roseiflexus	https://doi.org/10.1016/j.bbrc.2019.08.010	120961	Bacteria	Chloroflexota	Chloroflexia	Chloroflexales	Roseiflexaceae	Roseiflexus	NULL
+Schleiferia	https://doi.org/10.1128/aem.01704-22	1333716	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Schleiferiaceae	Schleiferia	NULL
+Thermaurantimonas	https://doi.org/10.1099/ijsem.0.003888	2681566	Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Schleiferiaceae	Thermaurantimonas	NULL
+Streptococcus thermophilus	https://doi.org/10.1093/nar/gkae814	1308	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus
+Sulfobacillus	https://doi.org/10.1007/s10532-023-10049-y	28033	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiales Family XVII. Incertae Sedis	Sulfobacillus	NULL
+Sulfurihydrogenibium	https://doi.org/10.1016/j.biortech.2022.128010	212790	Bacteria	Aquificota	Aquificia	Aquificales	Hydrogenothermaceae	Sulfurihydrogenibium	NULL
+Symbiobacterium	https://doi.org/10.1128/spectrum.00732-24	2733	Bacteria	Bacillota	Clostridia	Eubacteriales	Symbiobacteriaceae	Symbiobacterium	NULL
+Synechococcus	https://doi.org/10.1128/msystems.00317-22	1129	Bacteria	Cyanobacteriota	Cyanophyceae	Synechococcales	Synechococcaceae	Synechococcus	NULL
+Tepidiformia	https://doi.org/10.1099/ijsem.0.003902	2682225	Bacteria	Chloroflexota	Tepidiformia	NULL	NULL	NULL	NULL
+Thermaerobacter	https://doi.org/10.1007/s00248-023-02182-1	73918	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiales Family XVII. Incertae Sedis	Thermaerobacter	NULL
+Thermoactinospora	https://doi.org/10.1007/s00248-016-0756-2	1424614	Bacteria	Actinomycetota	Actinomycetes	Streptosporangiales	Streptosporangiaceae	Thermoactinospora	NULL
+Thermoanaerobacter	https://doi.org/10.1111/febs.16801	1754	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacter	NULL
+Thermoanaerobacterium	https://doi.org/10.1007/s00253-021-11450-4	28895	Bacteria	Bacillota	Clostridia	Thermoanaerobacterales	Thermoanaerobacteraceae	Thermoanaerobacterium	NULL
+Thermobifida	https://doi.org/10.1007/s00775-023-02019-9	83677	Bacteria	Actinomycetota	Actinomycetes	Streptosporangiales	Nocardiopsidaceae	Thermobifida	NULL
+Thermocrinis	https://doi.org/10.3389/fmicb.2023.1172798	75905	Bacteria	Aquificota	Aquificia	Aquificales	Aquificaceae	Thermocrinis	NULL
+Meiothermus	https://doi.org/10.3389/fmicb.2023.1172798	65551	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Meiothermus	NULL
+Thermocrinis	https://doi.org/10.3389/fmicb.2023.1172798	75905	Bacteria	Aquificota	Aquificia	Aquificales	Aquificaceae	Thermocrinis	NULL
+Thermosulfurimonas	https://doi.org/10.3389/fmicb.2016.00950	1522431	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermosulfurimonas	NULL
+Dissulfuribacter	https://doi.org/10.3389/fmicb.2016.00950	1433998	Bacteria	Thermodesulfobacteriota	Dissulfuribacteria	Dissulfuribacterales	Dissulfuribacteraceae	Dissulfuribacter	NULL
+Dissulfurimicrobium	https://doi.org/10.3389/fmicb.2016.00950	1769732	Bacteria	NULL	Deltaproteobacteria	NULL	NULL	Dissulfurimicrobium	NULL
+Thermodesulfatator	https://doi.org/10.1261/rna.079459.122	241192	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfatatoraceae	Thermodesulfatator	NULL
+Thermodesulfobacterium	https://doi.org/10.1002/1873-3468.70124	1740	Bacteria	Thermodesulfobacteriota	Thermodesulfobacteria	Thermodesulfobacteriales	Thermodesulfobacteriaceae	Thermodesulfobacterium	NULL
+Thermodesulforhabdus	https://doi.org/10.3390/microorganisms9091818	88358	Bacteria	Thermodesulfobacteriota	Syntrophobacteria	Syntrophobacterales	Thermodesulforhabdaceae	Thermodesulforhabdus	NULL
+Thermodesulfovibrionia	https://doi.org/10.1093/femsec/fiae162	2811502	Bacteria	Nitrospirota	Thermodesulfovibrionia	NULL	NULL	NULL	NULL
+Thermoflexia	https://doi.org/10.3389/fmicb.2021.710881	1495646	Bacteria	Chloroflexota	Thermoflexia	NULL	NULL	NULL	NULL
+Thermogemmata	https://doi.org/10.1016/j.syapm.2020.126157	2787008	Bacteria	Planctomycetota	Planctomycetia	Gemmatales	Gemmataceae	Thermogemmata	NULL
+Thermogutta	https://doi.org/10.3389/fmicb.2017.02140	1676125	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	Thermogutta	NULL
+Caminicella	https://doi.org/10.1099/00207713-52-5-1621	166484	Bacteria	Bacillota	Clostridia	Peptostreptococcales	Caminicellaceae	Caminicella	NULL
+Thermohalobacter	https://doi.org/10.1099/00207713-50-2-559	99593	Bacteria	Bacillota	Tissierellia	Tissierellales	Thermohalobacteraceae	Thermohalobacter	NULL
+Natranaerobius	https://doi.org/10.1099/ijs.0.65068-0	375928	Bacteria	Bacillota	Clostridia	Natranaerobiales	Natranaerobiaceae	Natranaerobius	NULL
+Thermolithobacter	https://doi.org/10.1007/s00792-006-0022-5	335382	Bacteria	Bacillota	Thermolithobacteria	Thermolithobacterales	Thermolithobacteraceae	Thermolithobacter	NULL
+Limnochorda	https://doi.org/10.1099/ijs.0.000267	1676651	Bacteria	Bacillota	Limnochordia	Limnochordales	Limnochordaceae	Limnochorda	NULL
+Caloranaerobacter	https://doi.org/10.1099/00207713-51-5-1789	171003	Bacteria	Bacillota	Tissierellia	Tissierellales	Thermohalobacteraceae	Caloranaerobacter	NULL
+Thermomicrobium	https://doi.org/10.1128/mra.01221-22	499	Bacteria	Thermomicrobiota	Thermomicrobia	Thermomicrobiales	Thermomicrobiaceae	Thermomicrobium	NULL
+Paenibacillus	https://doi.org/10.1007/s13205-017-0762-1	44249	Bacteria	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	NULL
+Cellulosimicrobium	https://doi.org/10.1139/cjm-2015-0178	157920	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Promicromonosporaceae	Cellulosimicrobium	NULL
+Thermonema	https://doi.org/10.1007/s13205-017-0762-1	28194	Bacteria	Bacteroidota	Cytophagia	Cytophagales	Thermonemataceae	Thermonema	NULL
+Thermopolyspora	https://doi.org/10.1007/s00253-016-7922-9	359169	Bacteria	Actinomycetota	Actinomycetes	Streptosporangiales	Streptosporangiaceae	Thermopolyspora	NULL
+Thermorudis	https://doi.org/10.1099/ijsem.0.000598	1649508	Bacteria	Thermomicrobiota	Thermomicrobia	NULL	NULL	Thermorudis	NULL
+Thermomicrobium	https://doi.org/10.1099/ijsem.0.000598	499	Bacteria	Thermomicrobiota	Thermomicrobia	Thermomicrobiales	Thermomicrobiaceae	Thermomicrobium	NULL
+Sphaerobacter	https://doi.org/10.1099/ijsem.0.000598	2056	Bacteria	Thermomicrobiota	Thermomicrobia	Sphaerobacterales	Sphaerobacteraceae	Sphaerobacter	NULL
+Thermalbibacter	https://doi.org/10.1099/ijsem.0.005891	3050075	Bacteria	Thermomicrobiota	Thermomicrobia	Thermomicrobiales	Thermomicrobiaceae	Thermalbibacter	NULL
+Thermostichus	https://doi.org/10.3390/biology12020271	2881385	Bacteria	Cyanobacteriota	Cyanophyceae	Thermostichales	Thermostichaceae	Thermostichus	NULL
+Thermostilla	https://doi.org/10.1099/ijsem.0.000767	1755820	Bacteria	Planctomycetota	Planctomycetia	Pirellulales	Thermoguttaceae	Thermostilla	NULL
+Kolteria	https://doi.org/10.1128/jb.00337-24	3405236	Bacteria	Planctomycetota	Planctomycetia	Kolteriales	Kolteriaceae	Kolteria	NULL
+Thermosynechococcus	https://doi.org/10.1016/j.biortech.2019.01.089	146785	Bacteria	Cyanobacteriota	Cyanophyceae	Acaryochloridales	Thermosynechococcaceae	Thermosynechococcus	NULL
+Thermosynergistaceae	https://doi.org/10.1099/ijsem.0.005031	2880999	Bacteria	Synergistota	NULL	NULL	Thermosynergistaceae	NULL	NULL
+Thermotoga	https://doi.org/10.1038/s41598-025-05366-6	2335	Bacteria	Thermotogota	Thermotogae	Thermotogales	Thermotogaceae	Thermotoga	NULL
+Thermotogota	https://doi.org/10.1093/gbe/evad156	200918	Bacteria	Thermotogota	NULL	NULL	NULL	NULL	NULL
+Thermovirga	https://doi.org/10.1016/j.scitotenv.2021.149187	336260	Bacteria	Synergistota	Synergistia	Synergistales	Thermovirgaceae	Thermovirga	NULL
+Thermus	https://doi.org/10.3389/fgene.2019.00204	270	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Thermus	NULL
+Nitrospira	https://doi.org/10.1038/s41396-023-01409-w	1234	Bacteria	Nitrospirota	Nitrospiria	Nitrospirales	Nitrospiraceae	Nitrospira	NULL

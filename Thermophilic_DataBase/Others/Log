@@ -1,0 +1,85 @@
+27/03/2026 23:03:11 - Request the download of all metadata (1)
+NUMBER OS ENTRIES FOUNDED (INCLUDING THE HEADER):
+    40571 ResultFiles/1_DownloadingMetadataFromNCBI/AllArcAssemblies.tsv
+  3583676 ResultFiles/1_DownloadingMetadataFromNCBI/AllBacAssemblies.tsv
+
+28/03/2026 13:47:09 - Filtered the metadata previous downloaded (2)
+NUMBER OS ENTRIES FOUNDED (INCLUDING THE HEADER):
+    37418 ResultFiles/2_FilteringMetadataFromNCBI/FILTERED-AllArcAssemblies.tsv
+  3016692 ResultFiles/2_FilteringMetadataFromNCBI/FILTERED-AllBacAssemblies.tsv
+  
+28/03/2026 15:04:12 - Classify the filtered metadata with Temperature Categorys based on the Isolation Source (3)
+NUMBER OS CATEGORIES FOUNDED (WITHOUT THE HEADER):
+
+ResultFiles/3_CategorizingIsolationSource/Categorized-FILTERED-AllArcAssemblies.tsv
+Non-Thermophile: 1062
+Thermophile/Hyperthermophile: 7992
+Thermotolerant: 1923
+Undetermined: 26440
+TOTAL: 37417
+    
+ResultFiles/3_CategorizingIsolationSource/Categorized-FILTERED-AllBacAssemblies.tsv
+Non-Thermophile: 9590
+Thermophile/Hyperthermophile: 30780
+Thermotolerant: 218181
+Undetermined: 2758140
+TOTAL: 3016691
+
+28/03/2026 19:57: - Classify the filtered metadata with Temperature Categorys based on the Isolation Source (3)
+NUMBER OS CATEGORIES FOUNDED (WITHOUT THE HEADER):
+
+ResultFiles/3_CategorizingIsolationSource/Categorized-FILTERED-AllArcAssemblies.tsv
+Non-Thermophile      : 1074
+Thermophile          : 8942
+Thermotolerant       : 1568
+Undetermined         : 25833
+TOTAL: 37417
+    
+ResultFiles/3_CategorizingIsolationSource/Categorized-FILTERED-AllBacAssemblies.tsv
+Non-Thermophile      : 9606
+Thermophile          : 34446
+Thermotolerant       : 333935
+Undetermined         : 2638704
+TOTAL: 3016691
+
+29/03/2026 15:29:30 - Find taxa described as thermophilic in the Literature and add the complete taxonomy to each one (4)
+
+Thermophilic Taxons List:
+Others/Archaea_LiteratureReferences
+
+# Foram eliminados alguns taxons da lista:
+  Muito mal descritas nos ultimos anos (nenhum ou muitos poucos artigos no PubMed nos ultimos 10 anos)
+  Taxons em que nao ha artigos que relacione termifilicidade com o filo
+
+Others/Bacteria_LiteratureReferences
+
+# Retirei temporariamente o taxon
+  Nitrospira	https://doi.org/10.1038/s41396-023-01409-w
+# E tinha repetido um taxon (fiquei com 1 referencia a mais)
+  Sphaerobacter	https://doi.org/10.1016/j.jsb.2019.09.012
+
+# Also add the complete taxonomy and TaxID for each taxon referenced:
+  Others/TABLE-Archaea_LiteratureReferences
+  Others/TABLE-Bacteria_LiteratureReferences
+
+29/03/2026 21:04:10 - Add curated references from the Literature to every Thermophilic Assembly (5)
+
+./4_AddingLiteratureReference ResultFiles/3_CategorizingIsolationSource/Categorized-FILTERED-
+AllArcAssemblies.tsv Others/TABLE-Archaea_LiteratureReferences.tsv
+
+Number of Assembly with "Reference Founded" (Thermophiles according to the Literature)
+  12173
+Number of Assembly with "No Reference Founded"
+  25245
+Total
+  37417
+  
+./4_AddingLiteratureReference ResultFiles/3_CategorizingIsolationSource/Categorized-FILTERED-
+AllBacAssemblies.tsv Others/TABLE-Bacteria_LiteratureReferences.tsv
+
+Number of Assembly with "Reference Founded" (Thermophiles according to the Literature)
+  17212 
+Number of Assembly with "No Reference Founded"
+  2999479
+Total 
+  3016691

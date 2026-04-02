@@ -1,0 +1,22 @@
+PENDENCIAS - 28/03/2026
+
+- Terminar de ler o artigo
+FEITO - Ja consegui recuperar todos os metadados de Arqueia e Bacteria do NCBI, a proxima etapa agora é filtrar este dados, isto é, criar um novo arquivo sem as entradas GCF, colocar valor nulo nas celulas vazias ou com nomes invalidos
+FEITO - Preciso montar o script de filtragem
+- Pensar um pouco mais como vai funcionar a classificacao dos organismos em relacao a Categoria da Temperatura - usar Fonte de Isolamento, Artigos do PubMed, Entradas no BacDive
+- Descobrir tbm se existe algum metadado que me indique se o organismo dono de um genoma do NCBI ja foi cultivado ou nao
+- Terminar o script de classificacao baseado na fonte de isolamento
+
+
+DESAFIO 
+Literatura:
+- Usar a lista de organismos que eu ja tenho
+- Fazer uma lista de organismos nova (talvez buscando por palavras como termofilo, termotolerante, hipertermofilo)
+- Fazer uma nova etapa de curagem em cima da lista da literatura que eu ja tenho
+- Ou talvez fazer uma mineracao no PubMed poir palavras-chave que caracterizam termofilos para cada um dos nomes de organismos na lista de todas as montagens? Nesse caso, seria interessante buscar especie por especie e nao direto o nome do organismo (INVIAVEL LER TODOS OS ARTIGOS)
+
+Referencia sobre Cultivo:
+- Que metadado da tabela das montagens eu posso uar para buscar informacoes no BacDive sobre o cultivo do organismo? Faço uma mineracao para todos as montagens ou filtro antes?
+
+
+

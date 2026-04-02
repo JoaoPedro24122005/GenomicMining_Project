@@ -1,0 +1,97 @@
+#!/usr/bin/env bash
+
+# Created by Gemini
+# 2026-03-28
+
+# --- Source Utility Functions ---
+source "./UtilityFunctions/ErrorMessage.sh" 2>/dev/null || true
+source "./UtilityFunctions/DateFunction.sh" 2>/dev/null || true
+
+# --- Color Definitions ---
+GREEN='\033[0;32m'
+CYAN='\033[0;36m'
+YELLOW='\033[1;33m'
+NC='\033[0m' 
+
+# 1 - Setup Environment and Directories
+if [ -z "$1" ]; then
+    echo -e "${YELLOW}Usage: ${0##*/} <categorized_input_file>${NC}"
+    exit 1
+fi
+
+INPUT_PATH=$(realpath "$1")
+INPUT_BASE=$(basename "$1")
+
+SCRIPT_NAME="${0##*/}"
+WORK_DIR="ResultFiles/${SCRIPT_NAME%.sh}"
+mkdir -p "$WORK_DIR"
+cd "$WORK_DIR" || { echo "Can't move to Working Directory: $WORK_DIR"; exit 1; }
+
+OUTPUT="Summary-$INPUT_BASE.txt"
+
+# 2 - Processing Starts
+echo -e "${CYAN}[INFO] Generating Detailed Summary for: $INPUT_BASE${NC}"
+
+# 3 - Analysis Logic using AWK
+awk -F'\t' -v OFS='\t' '
+BEGIN { 
+    IGNORECASE = 1 
+}
+NR == 1 { next; } 
+{
+    class = $20;
+    source = tolower($10);
+    keyword = tolower($21);
+
+    # 1) Total entries per class
+    class_total[class]++;
+
+    # 2) Unique raw isolation sources per class
+    if (!unique_src_check[class, source]++) {
+        unique_src_count[class]++;
+    }
+
+    # 3) Keyword frequency inside each class
+    keyword_count[class, keyword]++;
+}
+END {
+    print "===================================================="
+    print "       DETAILED CLASSIFICATION SUMMARY              "
+    print "===================================================="
+    
+    # Sort classes by entry count descending
+    PROCINFO["sorted_in"] = "@val_num_desc" 
+
+    for (c in class_total) {
+        print "\n" toupper(c) 
+        print "----------------------------------------------------"
+        printf "Total Entries         : %d\n", class_total[c]
+        printf "Unique Raw Sources    : %d\n", unique_src_count[c]
+        print "\nKeyword Breakdown:"
+        
+        # Sort keywords by frequency (descending)
+        PROCINFO["sorted_in"] = "@val_num_desc"
+
+        # PASS 1: Keywords starting with letters (Text)
+        for (combined in keyword_count) {
+            split(combined, parts, SUBSEP);
+            if (parts[1] == c && parts[2] ~ /^[a-z]/) {
+                printf "  - %-25s: %d\n", parts[2], keyword_count[combined]
+            }
+        }
+
+        # PASS 2: Keywords starting with numbers (Temperatures)
+        for (combined in keyword_count) {
+            split(combined, parts, SUBSEP);
+            if (parts[1] == c && parts[2] ~ /^[0-9]/) {
+                printf "  - %-25s: %d\n", parts[2], keyword_count[combined]
+            }
+        }
+        print "____________________________________________________"
+    }
+}' "$INPUT_PATH" > "$OUTPUT"
+
+# 4 - Final Display
+echo -e "${GREEN}[STEP 1/1] Analysis complete.${NC}"
+cat "$OUTPUT"
+echo -e "\n${CYAN}[COMPLETE] Summary saved to: $WORK_DIR/$OUTPUT${NC}"

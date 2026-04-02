@@ -1,0 +1,31 @@
+Organism Name	Literature Reference	TaxID	Domain	Phylum	Class	Order	Family	Genus	Species
+Acidianus	https://doi.org/10.3390/min13030310	12914	Archaea	Thermoproteota	Thermoprotei	Sulfolobales	Sulfolobaceae	Acidianus	NULL
+Sulfuracidifex	https://doi.org/10.3390/min13030310	2705406	Archaea	Thermoproteota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfuracidifex	NULL
+Aigarchaeota archaeon	https://doi.org/10.1016/j.mib.2015.06.008	2528703	Archaea	Nitrososphaerota	NULL	NULL	NULL	NULL	Aigarchaeota archaeon
+Archaeoglobus	https://doi.org/10.1016/s0168-6445(00)00062-0	2233	Archaea	Methanobacteriota	Archaeoglobi	Archaeoglobales	Archaeoglobaceae	Archaeoglobus	NULL
+Desulfurococcus	https://doi.org/10.1128/aem.54.5.1203-1209.1988	2273	Archaea	Thermoproteota	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Desulfurococcus	NULL
+Methanobacteriota	https://doi.org/10.1107/s2059798320004878	28890	Archaea	Methanobacteriota	NULL	NULL	NULL	NULL	NULL
+Ferroplasma	https://doi.org/10.1016/j.chemosphere.2023.140945	74968	Archaea	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	Ferroplasmaceae	Ferroplasma	NULL
+Hyperthermus	https://doi.org/10.1002/jcc.26782	54247	Archaea	Thermoproteota	Thermoprotei	Desulfurococcales	Pyrodictiaceae	Hyperthermus	NULL
+Ignicoccus	https://doi.org/10.1007/s00203-020-02125-1	54258	Archaea	Thermoproteota	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Ignicoccus	NULL
+Korarchaeota	https://doi.org/10.1128/msystems.00305-23	28889	Archaea	Thermoproteota	NULL	NULL	NULL	NULL	NULL
+Metallosphaera	https://doi.org/10.3389/fmicb.2020.01192	41980	Archaea	Thermoproteota	Thermoprotei	Sulfolobales	Sulfolobaceae	Metallosphaera	NULL
+Methanococcales	https://doi.org/10.1111/febs.17148	2182	Archaea	Methanobacteriota	Methanococci	Methanococcales	NULL	NULL	NULL
+Methanopyrus	https://doi.org/10.3389/fmicb.2017.01278	2319	Archaea	Methanobacteriota	Methanopyri	Methanopyrales	Methanopyraceae	Methanopyrus	NULL
+Methanosarcina	https://doi.org/10.1016/j.biortech.2022.127531	2207	Archaea	Methanobacteriota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanosarcina	NULL
+Methanothermobacter	https://doi.org/10.1128/mra.00642-23	145260	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanothermobacter	NULL
+Nanoarchaeum	https://doi.org/10.1093/nar/gkad261	193568	Archaea	Nanobdellota	Candidatus Nanoarchaeia	Nanoarchaeales	Nanoarchaeaceae	Nanoarchaeum	NULL
+Picrophilus	https://doi.org/10.1007/s00792-019-01133-4	46631	Archaea	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	Picrophilaceae	Picrophilus	NULL
+Pyrobaculum	https://doi.org/10.3390/ijms18010113	2276	Archaea	Thermoproteota	Thermoprotei	Thermoproteales	Thermoproteaceae	Pyrobaculum	NULL
+Pyrococcus	https://doi.org/10.1261/rna.079546.122	2260	Archaea	Methanobacteriota	Thermococci	Thermococcales	Thermococcaceae	Pyrococcus	NULL
+Pyrolobus	https://doi.org/10.1002/cbic.202500764	54251	Archaea	Thermoproteota	Thermoprotei	Desulfurococcales	Pyrodictiaceae	Pyrolobus	NULL
+Staphylothermus	https://doi.org/10.1016/j.ijbiomac.2017.09.007	2279	Archaea	Thermoproteota	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Staphylothermus	NULL
+Sulfolobaceae	https://doi.org/10.1128/mra.01490-19	118883	Archaea	Thermoproteota	Thermoprotei	Sulfolobales	Sulfolobaceae	NULL	NULL
+Sulfolobus	https://doi.org/10.1128/mbio.03593-22	2284	Archaea	Thermoproteota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfolobus	NULL
+Sulfurisphaera	https://doi.org/10.1099/ijsem.0.002765	69655	Archaea	Thermoproteota	Thermoprotei	Sulfolobales	Sulfolobaceae	Sulfurisphaera	NULL
+Aeropyrum	https://doi.org/10.1186/s40168-023-01728-2	56635	Archaea	Thermoproteota	Thermoprotei	Desulfurococcales	Desulfurococcaceae	Aeropyrum	NULL
+Thermococcus	https://doi.org/10.1099/ijsem.0.004895	2263	Archaea	Methanobacteriota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	NULL
+Thermoplasma	https://doi.org/10.1074/jbc.m116.767921	2302	Archaea	Thermoplasmatota	Thermoplasmata	Thermoplasmatales	Thermoplasmataceae	Thermoplasma	NULL
+Thermoproteota	https://doi.org/10.1038/s41586-024-07631-6	28889	Archaea	Thermoproteota	NULL	NULL	NULL	NULL	NULL
+Thermoproteus	https://doi.org/10.1016/j.abb.2025.110478	2270	Archaea	Thermoproteota	Thermoprotei	Thermoproteales	Thermoproteaceae	Thermoproteus	NULL
+Vulcanisaeta	https://doi.org/10.1007/s00792-016-0903-1	164450	Archaea	Thermoproteota	Thermoprotei	Thermoproteales	Thermoproteaceae	Vulcanisaeta	NULL

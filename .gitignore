@@ -3,3 +3,6 @@
 
 # Data - Ignore all Intermediary work-in-progress files
 data/Intermediary/
+
+# Result Files - Big tsv files
+Thermophilic_DataBase/ResultFiles

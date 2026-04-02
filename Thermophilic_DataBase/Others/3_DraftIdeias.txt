@@ -1,0 +1,40 @@
+## 3_ClassificatingThermophiles
+
+I can use this 4 classes to categorize organism based on the Optimal Growth Temperature (OGT):
+
+- Psychrophile (OGT of < 20 ◦C)
+- Mesophile (OGT of 20-45◦C) 
+- Thermophile (OGT of 45-80◦C) 
+- Hyperthermophile (OGT of > 80◦C)
+
+How to insert termotolerant organism in there?
+
+Mesophile: OGT 20–45 °C.
+Thermotolerant: OGT is typically that of a Mesophile (30–40 °C), but they can survive or grow at temperatures up to 55–60 °C.
+
+You can also add the minimum and maximum temperature
+
+LET STOP WITH THIS CLASSIFICATION BASED ON BACDIVE DB - Since the information in BacDive is scarce, not well organized and there is more than 1 OPT for some organisms, is better if we only use it to classify if an organism have already been cultivated or not (much simpler and easy to find)
+##################################
+
+I can use 3 methods to find information to classify the organism (based on Temperature)
+1) Literature - use species or other taxons that have already been characterized as Thermophiles / Thermotolerant
+2) Isolation source - use the list of isolation source already assembled to classify the organisms in 4 groups:
+- Putative Thermophile or Hyperthermophile 	(T > 40C) - thermal, volcano, hot spring
+- Putative Thermotolerant 					(35C < T < 40C) - gut, rumen, rumina
+- Putative Non-Thermophile					(T < 35C) - cold, permafrost
+- Undetermined 								- empty or not classified isolation source
+
+2) BacDive DB (largest database for phenotypic information) - use to find with a certain species is cultivable or not
+
+ database for cultivated organism. In the DB i can also found information about the optimum temperature
+ 
+THERE IS ALREADY A LIST OF TABLES/DATABASES THAT CONTAINS INFORMATION ABOUT THE OPTIMUM TEMPERATURE OF ORGANISMS:
+1. Use Specialized Databases (The Easiest Way)
+Researchers have already done the "mining" for you in several cases. Instead of scanning millions of articles, you can query these databases that have already extracted the Optimal Growth Temperature (OGT) from the literature.
+
+ThermoBase: Specifically designed for thermophilic and hyperthermophilic organisms. It contains taxonomic and physiological data (like OGT and pH) for over 1,200 organisms, all linked to their original literature sources.
+
+GSHC (Genome Sequences: Hot, Cold): A massive database containing OGT data for over 25,000 species, mapped to their NCBI taxons.
+
+The Microbe Directory: An inventory of microbial characteristics (including temperature preferences) for over 7,500 species.

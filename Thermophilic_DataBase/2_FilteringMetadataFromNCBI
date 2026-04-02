@@ -1,0 +1,76 @@
+#!/usr/bin/env bash
+
+# Created by Gemini
+# 28/03/2026
+
+# --- Source Utility Functions ---
+source "./UtilityFunctions/ErrorMessage.sh"
+source "./UtilityFunctions/DateFunction.sh"
+source "./UtilityFunctions/AI_RequestMetadataNCBI.sh"
+
+# --- Color Definitions ---
+GREEN='\033[0;32m'
+CYAN='\033[0;36m'
+YELLOW='\033[1;33m'
+NC='\033[0m' 
+
+# 1 - Setup Environment and Directories
+if [ -z "$1" ]; then
+    echo -e "${YELLOW}Usage: $0 <input_file>${NC}"
+    exit 1
+fi
+
+INPUT_PATH=$(realpath "$1")
+INPUT_BASE=$(basename "$1")
+TIMESTAMP="$(date +"%Y-%m-%d_%H-%M-%S")"
+
+WORK_DIR="ResultFiles/$(basename "$0" .sh)"
+mkdir -p "$WORK_DIR"
+cd "$WORK_DIR" || { log_error "Can't move to Working Directory: $WORK_DIR"; exit 1; }
+
+LOG_DIR="LogFiles"
+mkdir -p "$LOG_DIR"
+LOG_FILE="$LOG_DIR/ERROR_$TIMESTAMP.log"
+
+OUTPUT="FILTERED-$INPUT_BASE"
+TEMP_FILE="temp_processing.tmp"
+
+# 2 - Processing Starts
+TOTAL_LINES=$(wc -l < "$INPUT_PATH")
+echo -e "${CYAN}[INFO] Processing file: $INPUT_BASE ($TOTAL_LINES lines)${NC}"
+echo -e "${CYAN}[INFO] Results will be saved in: $WORK_DIR${NC}"
+
+# 3 - Removing GCF_ entries
+echo -e "${GREEN}[STEP 1/3] Removing entries starting with 'GCF_'...${NC}"
+grep -v '^GCF_' "$INPUT_PATH" > "$OUTPUT"
+
+REMAINING_GCF=$(wc -l < "$OUTPUT")
+echo -e "${CYAN}[INFO] Lines remaining after GCF filter: $REMAINING_GCF${NC}"
+
+# 4 - Removing Duplicate Accession Numbers (Column 1)
+echo -e "${GREEN}[STEP 2/3] Removing duplicate Accession Numbers...${NC}"
+# awk '!seen[$1]++' keeps only the first unique instance of the first column
+awk -F'\t' '!seen[$1]++' "$OUTPUT" > "$TEMP_FILE"
+mv "$TEMP_FILE" "$OUTPUT"
+
+REMAINING_DUPES=$(wc -l < "$OUTPUT")
+echo -e "${CYAN}[INFO] Lines remaining after duplicate removal: $REMAINING_DUPES${NC}"
+
+# 5 - Replacing empty/non-valid cells with "NULL"
+echo -e "${GREEN}[STEP 3/3] Replacing invalid cells with 'NULL'...${NC}"
+
+awk -F'\t' -v OFS='\t' '{
+    for (i=1; i<=NF; i++) {
+        if (tolower($i) ~ /^$|^(na|n\/a|n\\a|none|null|empty|void|missing|unknown|undetermined|unclassified|unassigned|undefined|anonymous|not available|not applicable|not identified|not recorded|not provided|not listed)$/) 
+            $i="NULL"
+    }
+    print
+}' "$OUTPUT" > "$TEMP_FILE"
+
+# Transfer content and cleanup
+mv "$TEMP_FILE" "$OUTPUT"
+
+# 6 - Final Summary
+FINAL_LINES=$(wc -l < "$OUTPUT")
+echo -e "${CYAN}[COMPLETE] Process finished.${NC}"
+echo -e "${CYAN}[SUMMARY] Output: $WORK_DIR/$OUTPUT ($FINAL_LINES lines)${NC}"
