@@ -358,7 +358,7 @@ Quais especies vivem nas diferentes fonte de isolamento?
     16  Assembly BioSample Ecotype
     17  Assembly Atypical Is Atypical
     **18  Assembly Atypical Warnings
-    19  Assembly Type
+    19  Assembly Level
 	
 #Fields - Taxonomy Table	
 
